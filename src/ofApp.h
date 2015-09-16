@@ -2,6 +2,7 @@
 
 #include "ofMain.h"
 #include "AnimationUtility.h"
+#include "DelaunayUtil.h"
 
 class ofApp : public ofBaseApp{
 
@@ -21,5 +22,7 @@ class ofApp : public ofBaseApp{
 		void gotMessage(ofMessage msg);
   
     AnimationUtility animation;
+    
+    DelaunayUtil delaunay;
 		
 };

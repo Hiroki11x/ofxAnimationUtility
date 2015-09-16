@@ -3,6 +3,7 @@
 //--------------------------------------------------------------
 void ofApp::setup(){
     animation.set_fade_duration(2000);
+    delaunay.setup();
 }
 
 //--------------------------------------------------------------
@@ -13,6 +14,7 @@ void ofApp::update(){
 //--------------------------------------------------------------
 void ofApp::draw(){
     animation.fade_background(0, 0, 100);
+    delaunay.draw();
 }
 
 
@@ -38,6 +40,7 @@ void ofApp::mouseDragged(int x, int y, int button){
 
 //--------------------------------------------------------------
 void ofApp::mousePressed(int x, int y, int button){
+    delaunay.generate(x,y);
 
 }
 

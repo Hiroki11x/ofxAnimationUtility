@@ -17,7 +17,9 @@ class AnimationUtility{
 private :
     float duration = 1000;//1000msがデフォルト
     float alpha;
+    float max_closs_length;
     void update_alpha();
+    float update_closs_size();
     
 public:
     AnimationUtility(){};

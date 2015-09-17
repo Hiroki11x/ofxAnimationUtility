@@ -26,6 +26,30 @@ void DelaunayUtil::setup(){
     
 }
 
+void DelaunayUtil::update(){
+    vector<ofPoint>temp;
+    float x,y;
+    temp.reserve(ps.size());//先にメモリ領域を確保する。
+    copy(ps.begin(), ps.end(), back_inserter(temp));
+    ps.clear();
+    for(int i = 0;i<temp.size();i++){
+        x = temp.at(i).x + ofRandom(-30,30);
+        y = temp.at(i).y + ofRandom(-30,30);
+        if(x > ofGetWidth()){
+            x-=100;
+        }else if(x<0){
+            x+=100;
+        }
+        if(y > ofGetHeight()){
+            y-=100;
+        }else if(y<0){
+            y+=100;
+        }
+        generate(x, y);
+    }
+}
+
+
 void DelaunayUtil::draw(){
     /*
      if(DetDelaunay(triangle1,triangle2,triangle3,triangle4)){
@@ -35,7 +59,8 @@ void DelaunayUtil::draw(){
      }
      */
     ofNoFill();
-    
+    ofSetLineWidth(0.1);
+    ofSetColor(255,255);
     for(int i =0 ; i < ts.size() ; i++){
         //cout << ps[ts[i].tri1].x << endl;
         ofTriangle(ps[ts[i].tri1].x,ps[ts[i].tri1].y,
@@ -92,7 +117,6 @@ void DelaunayUtil::generate(float x, float y){
                     boolflag = false;
                 }
             }
-            
             if(boolflag){
                 ls_new_push.push_back(ls_new[k]);
             }

@@ -30,6 +30,7 @@ public:
     void setup();
     void draw();
     void generate(float x, float y);
+    void update();
     
     
 };

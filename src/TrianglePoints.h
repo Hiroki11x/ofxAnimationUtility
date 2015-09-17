@@ -27,7 +27,7 @@ public:
         tri1 = t1;
         tri2 = t2;
         tri3 = t3;
-    }
+    };
     int tri1;
     int tri2;
     int tri3;

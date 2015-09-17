@@ -2,25 +2,28 @@
 
 //--------------------------------------------------------------
 void ofApp::setup(){
+    ofSetFrameRate(5);
     animation.set_fade_duration(2000);
     delaunay.setup();
 }
 
 //--------------------------------------------------------------
 void ofApp::update(){
-    
+    delaunay.update();
 }
 
 //--------------------------------------------------------------
 void ofApp::draw(){
-    animation.fade_background(0, 0, 100);
+    animation.fade_cross_background(0, 0, 100);
     delaunay.draw();
 }
 
 
 //--------------------------------------------------------------
 void ofApp::keyPressed(int key){
-
+    for(int i = 0;i<10;i++){
+        delaunay.generate(ofRandom(ofGetWidth()),ofRandom(ofGetHeight()));
+    }
 }
 
 //--------------------------------------------------------------

@@ -9,7 +9,7 @@ void ofApp::setup(){
 
 //--------------------------------------------------------------
 void ofApp::update(){
-    delaunay.update();
+    //delaunay.update();
 }
 
 //--------------------------------------------------------------
@@ -21,7 +21,7 @@ void ofApp::draw(){
 
 //--------------------------------------------------------------
 void ofApp::keyPressed(int key){
-    for(int i = 0;i<10;i++){
+    for(int i = 0;i<1;i++){
         delaunay.generate(ofRandom(ofGetWidth()),ofRandom(ofGetHeight()));
     }
 }

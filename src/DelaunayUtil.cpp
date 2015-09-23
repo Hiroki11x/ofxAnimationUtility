@@ -20,12 +20,12 @@ void DelaunayUtil::setup(){
     TrianglePoints tp2(2,1,3);
     
     
-    
     ts.push_back(tp1);
     ts.push_back(tp2);
     
 }
 
+//Delaunayとしては不完全なので使わない？？
 void DelaunayUtil::update(){
     vector<ofPoint>temp;
     float x,y;
@@ -33,11 +33,11 @@ void DelaunayUtil::update(){
     copy(ps.begin(), ps.end(), back_inserter(temp));
     ps.clear();
     for(int i = 0;i<temp.size();i++){
-        x = temp.at(i).x + ofRandom(-30,30);
-        y = temp.at(i).y + ofRandom(-30,30);
+        x = temp.at(i).x + ofRandom(-5,5);
+        y = temp.at(i).y + ofRandom(-5,5);
         if(x > ofGetWidth()){
             x-=100;
-        }else if(x<0){
+        }else if( x <0){
             x+=100;
         }
         if(y > ofGetHeight()){

@@ -3,6 +3,7 @@
 #include "ofMain.h"
 #include "FadeBackgroundUtil.h"
 #include "DelaunayUtil.h"
+#include "PathManager.h"
 
 class ofApp : public ofBaseApp{
 
@@ -23,5 +24,6 @@ class ofApp : public ofBaseApp{
   
     FadeBackgroundUtil animation;
     DelaunayUtil delaunay;
+    PathManager pathmanager;
 		
 };

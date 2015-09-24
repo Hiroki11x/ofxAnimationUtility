@@ -5,17 +5,23 @@ void ofApp::setup(){
     ofSetFrameRate(5);
     animation.set_fade_duration(2000);
     delaunay.setup();
+    ofColor color;
+    color.set(0, 255, 0);
+    pathmanager.set_path_color(color);
+    pathmanager.setup_path(49);
 }
 
 //--------------------------------------------------------------
 void ofApp::update(){
     //delaunay.update();
+    pathmanager.update_path();
 }
 
 //--------------------------------------------------------------
 void ofApp::draw(){
     animation.fade_cross_background(0, 0, 100);
-    delaunay.draw();
+    //delaunay.draw();
+    pathmanager.draw_path();
 }
 
 

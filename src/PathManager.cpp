@@ -46,7 +46,7 @@ ofVec2f PathManager::calculate_column_row(int num){
 }
 
 void PathManager::generate_position(){
-    float mergin = 30;
+    float mergin = 50;
     float base_x,base_y;
     ofVec2f temp = calculate_column_row(num);
     float x = temp.x;
@@ -89,9 +89,10 @@ void PathManager::update_path(){
         tri3.at(i) = tri3.at(i).rotateRad(ofGetElapsedTimef()/10, position.at(i));
         
         path.at(i).lineTo(tri2.at(i));
-        path.at(i).arc(0+ofGetWidth()/2, 0+ofGetHeight()/2, 200, 200, 0, 240);
+        path.at(i).moveTo(tri1.at(i));
+        path.at(i).arc(0+ofGetWidth()/2, 0+ofGetHeight()/2, 200, 200, 10*ofGetElapsedTimef(), 10*ofGetElapsedTimef()+1);
         path.at(i).lineTo(tri3.at(i));
-        path.at(i).arc(0+ofGetWidth()/2, 0+ofGetHeight()/2, -200, -200, 0, -240);
+        path.at(i).arc(0+ofGetWidth()/2, 0+ofGetHeight()/2, 200, 200, 10*ofGetElapsedTimef()+180, 10*ofGetElapsedTimef()+181);
         path.at(i).lineTo(tri1.at(i));
         //path.at(i).triangle(tri1.at(i),tri2.at(i),tri3.at(i));
         

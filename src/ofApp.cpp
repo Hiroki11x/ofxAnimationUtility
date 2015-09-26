@@ -16,6 +16,9 @@ void ofApp::setup(){
     pathmanager.setup_path(100);
     
     linebelt.setup_belt(1000);
+
+    circularannimationmanager.set_animation_num(200);
+    circularannimationmanager.setup();
 }
 
 //--------------------------------------------------------------
@@ -27,10 +30,12 @@ void ofApp::update(){
 
 //--------------------------------------------------------------
 void ofApp::draw(){
-    animation.fade_cross_background(0, 0, 100);
+//    animation.fade_cross_background(0, 0, 100);
 //    delaunay.draw();
-//    pathmanager.draw_path();
+    //pathmanager.draw_path();
     linebelt.draw_belt();
+    circularannimationmanager.draw_animation();
+    
 }
 
 

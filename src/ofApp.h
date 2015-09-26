@@ -5,6 +5,7 @@
 #include "DelaunayUtil.h"
 #include "PathManager.h"
 #include "LineBelt.h"
+#include "CircularAnimationManager.h"
 
 class ofApp : public ofBaseApp{
 
@@ -27,5 +28,6 @@ class ofApp : public ofBaseApp{
     DelaunayUtil delaunay;
     PathManager pathmanager;
     LineBelt linebelt;
+    CircularAnimationManager circularannimationmanager;
 		
 };

@@ -36,15 +36,17 @@ void CircularVertexes::setup(){
 void CircularVertexes::draw(){
     ofNoFill();
     float center_vec_x,center_vec_y;
+    float angle,radius;
+    int vertex_size;
     for(int i=0;i<position.size();i++){
         center_vec_x = position.at(i).x;
         center_vec_y = position.at(i).y;
-        float angle;
-        int vertex_size = ofRandom(20,100);
+        vertex_size = 100*sin(ofRandom(0,PI));
         ofBeginShape();
         for(int i=0;i<vertex_size;i++){
             angle = ofMap(i, 0, vertex_size, 0, 2*PI) * ofGetElapsedTimef();
-            ofVertex(center_vec_x+100*cos(angle),center_vec_y+100*sin(angle));
+            radius = ofRandom(100);
+            ofVertex(center_vec_x+radius*cos(angle),center_vec_y+radius*sin(angle));
         }
         ofEndShape();
     }

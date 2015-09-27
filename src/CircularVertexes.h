@@ -17,10 +17,10 @@ private:
     vector<ofVec2f>position;
     bool circular_mode;
     int vertex_num;
-public:
-    void set_vertex_num(int num);
+    void set_vertex_num(int num);//図形を何個書くか
     void set_circular_mode(bool mode);
     void add_center_position(float x, float y);
+public:
     void setup();
     void draw();
 };

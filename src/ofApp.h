@@ -6,6 +6,7 @@
 #include "PathManager.h"
 #include "LineBelt.h"
 #include "CircularAnimationManager.h"
+#include "CircularVertexes.h"
 
 class ofApp : public ofBaseApp{
 
@@ -29,5 +30,6 @@ class ofApp : public ofBaseApp{
     PathManager pathmanager;
     LineBelt linebelt;
     CircularAnimationManager circularannimationmanager;
+    CircularVertexes circularvertexes;
 		
 };

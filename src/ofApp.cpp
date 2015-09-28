@@ -8,24 +8,26 @@ void ofApp::setup(){
     
     animation.set_fade_duration(2000);
     
-    delaunay.setup();
+//    delaunay.setup();
+//    
+//    ofColor color;
+//    color.set(0, 255, 0);
+//    pathmanager.set_path_color(color);
+//    pathmanager.setup_path(100);
     
-    ofColor color;
-    color.set(0, 255, 0);
-    pathmanager.set_path_color(color);
-    pathmanager.setup_path(100);
+//    linebelt.setup_belt(1000);
+//
+//    circularannimationmanager.set_animation_num(200);
+//    circularannimationmanager.setup();
     
-    linebelt.setup_belt(1000);
-
-    circularannimationmanager.set_animation_num(200);
-    circularannimationmanager.setup();
+    circularvertexes.setup();
 }
 
 //--------------------------------------------------------------
 void ofApp::update(){
     //delaunay.update();
-    pathmanager.update_path();
-    linebelt.update_belt();
+   // pathmanager.update_path();
+   // linebelt.update_belt();
 }
 
 //--------------------------------------------------------------
@@ -33,9 +35,9 @@ void ofApp::draw(){
 //    animation.fade_cross_background(0, 0, 100);
 //    delaunay.draw();
     //pathmanager.draw_path();
-    linebelt.draw_belt();
-    circularannimationmanager.draw_animation();
-    
+   // linebelt.draw_belt();
+    //circularannimationmanager.draw_animation();
+    circularvertexes.draw();
 }
 
 

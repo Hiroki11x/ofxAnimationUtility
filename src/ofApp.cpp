@@ -52,7 +52,6 @@ void ofApp::keyPressed(int key){
             delaunay.generate(ofRandom(ofGetWidth()),ofRandom(ofGetHeight()));
         }
     }
-    
 }
 
 //--------------------------------------------------------------

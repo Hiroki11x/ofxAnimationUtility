@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		4E0B50EA1BB2E603008D839D /* PathManager.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E0B50E81BB2E603008D839D /* PathManager.cpp */; };
+		4E96DADE1BBD280700CEDB48 /* StatusCircle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E96DADC1BBD280700CEDB48 /* StatusCircle.cpp */; };
 		4EA457AC1BA9B38100AA8557 /* FadeBackgroundUtil.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4EA457AA1BA9B38100AA8557 /* FadeBackgroundUtil.cpp */; };
 		4EA457AF1BA9BA4B00AA8557 /* DelaunayUtil.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4EA457AD1BA9BA4B00AA8557 /* DelaunayUtil.cpp */; };
 		4EA457B21BA9C0D100AA8557 /* TrianglePoints.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4EA457B01BA9C0D100AA8557 /* TrianglePoints.cpp */; };
@@ -70,6 +71,8 @@
 /* Begin PBXFileReference section */
 		4E0B50E81BB2E603008D839D /* PathManager.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = PathManager.cpp; sourceTree = "<group>"; };
 		4E0B50E91BB2E603008D839D /* PathManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PathManager.h; sourceTree = "<group>"; };
+		4E96DADC1BBD280700CEDB48 /* StatusCircle.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = StatusCircle.cpp; sourceTree = "<group>"; };
+		4E96DADD1BBD280700CEDB48 /* StatusCircle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StatusCircle.h; sourceTree = "<group>"; };
 		4EA457AA1BA9B38100AA8557 /* FadeBackgroundUtil.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FadeBackgroundUtil.cpp; sourceTree = "<group>"; };
 		4EA457AB1BA9B38100AA8557 /* FadeBackgroundUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FadeBackgroundUtil.h; sourceTree = "<group>"; };
 		4EA457AD1BA9BA4B00AA8557 /* DelaunayUtil.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = DelaunayUtil.cpp; sourceTree = "<group>"; };
@@ -228,6 +231,8 @@
 				4EFA93A21BB6C4500049B580 /* CircularAnimation.h */,
 				4EFA93A41BB6DF590049B580 /* CircularAnimationManager.cpp */,
 				4EFA93A51BB6DF590049B580 /* CircularAnimationManager.h */,
+				4E96DADC1BBD280700CEDB48 /* StatusCircle.cpp */,
+				4E96DADD1BBD280700CEDB48 /* StatusCircle.h */,
 			);
 			path = src;
 			sourceTree = SOURCE_ROOT;
@@ -335,6 +340,7 @@
 				4EFA93AA1BB7BE110049B580 /* CircularVertexes.cpp in Sources */,
 				4EA457B21BA9C0D100AA8557 /* TrianglePoints.cpp in Sources */,
 				4EFA93A31BB6C4500049B580 /* CircularAnimation.cpp in Sources */,
+				4E96DADE1BBD280700CEDB48 /* StatusCircle.cpp in Sources */,
 				4EFA93A01BB43E300049B580 /* LineBelt.cpp in Sources */,
 				4EA457B51BA9C0F800AA8557 /* LinePoints.cpp in Sources */,
 				E4B69E210A3A1BDC003C02F2 /* ofApp.cpp in Sources */,

@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>DB19FAFB-EFA2-4D75-A1C3-DD9939E50463</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>ofxAnimationUtility</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>A8D3CFED5208BD26E280BC9FB210A0D16501DA4D</key>
 		<string>github.com:Hiroki11x/openFrameworks_AnimationUtility.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>ofxAnimationUtility.xcodeproj/project.xcworkspace</string>
+	<string>ofxAnimationUtility.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>A8D3CFED5208BD26E280BC9FB210A0D16501DA4D</key>

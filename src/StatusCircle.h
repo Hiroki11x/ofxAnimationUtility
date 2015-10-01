@@ -14,6 +14,7 @@
 class StatusCircle{
 private:
     ofVec2f posision;
+    ofPath path;
     void setup_position(ofVec2f pos);
 public:
     

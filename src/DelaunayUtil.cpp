@@ -23,6 +23,9 @@ void DelaunayUtil::setup(){
     ts.push_back(tp1);
     ts.push_back(tp2);
     
+    alpha.push_back(ofRandom(155));
+    alpha.push_back(ofRandom(155));
+    
 }
 
 //Delaunayとしては不完全なので使わない？？
@@ -33,17 +36,14 @@ void DelaunayUtil::update(){
     copy(ps.begin(), ps.end(), back_inserter(temp));
     ps.clear();
     for(int i = 0;i<temp.size();i++){
-        x = temp.at(i).x + ofRandom(-5,5);
-        y = temp.at(i).y + ofRandom(-5,5);
-        if(x > ofGetWidth()){
-            x-=100;
-        }else if( x <0){
-            x+=100;
+        
+        x = temp.at(i).x;
+        y = temp.at(i).y;
+        if(x <= ofGetWidth()-11 && x >= 11){
+             x+= ofRandom(-10,10);
         }
-        if(y > ofGetHeight()){
-            y-=100;
-        }else if(y<0){
-            y+=100;
+        if(y <= ofGetHeight()-11 && y >= 11){
+             y+= ofRandom(-10,10);
         }
         generate(x, y);
     }
@@ -58,11 +58,12 @@ void DelaunayUtil::draw(){
      ofSetColor(100,200,50);
      }
      */
-    ofNoFill();
+    ofFill();
     ofSetLineWidth(0.1);
     ofSetColor(255,255);
     for(int i =0 ; i < ts.size() ; i++){
         //cout << ps[ts[i].tri1].x << endl;
+        ofSetColor(200,alpha.at(i));
         ofTriangle(ps[ts[i].tri1].x,ps[ts[i].tri1].y,
                    ps[ts[i].tri2].x,ps[ts[i].tri2].y,
                    ps[ts[i].tri3].x,ps[ts[i].tri3].y);
@@ -106,6 +107,7 @@ void DelaunayUtil::generate(float x, float y){
                 ls_new.push_back(LinePoints(ts[i].tri2,ts[i].tri3));
             }else{
                 ts_new.push_back(ts[i]);
+                alpha.push_back(ofRandom(155));
             }
         }
         //cout << ls_new.size() << endl;
@@ -123,9 +125,11 @@ void DelaunayUtil::generate(float x, float y){
         }
         for(int m =0 ; m < ls_new_push.size() ; m++){
             ts_new.push_back(TrianglePoints(ls_new_push[m].li1,ls_new_push[m].li2,j));
+            alpha.push_back(ofRandom(155));
         }
         ts.clear();
         ts = ts_new;
+        
     }
 }
 

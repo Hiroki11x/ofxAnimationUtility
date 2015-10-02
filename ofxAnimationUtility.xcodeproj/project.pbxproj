@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		4E0B50EA1BB2E603008D839D /* PathManager.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E0B50E81BB2E603008D839D /* PathManager.cpp */; };
+		4E12E4761BBECF20001D9BA2 /* FadeMotionGraphics.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E12E4741BBECF20001D9BA2 /* FadeMotionGraphics.cpp */; };
+		4E12E47C1BBEE1D4001D9BA2 /* RectSwiper.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E12E47B1BBEE1D4001D9BA2 /* RectSwiper.cpp */; };
 		4E96DADE1BBD280700CEDB48 /* StatusCircle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E96DADC1BBD280700CEDB48 /* StatusCircle.cpp */; };
 		4EA457AC1BA9B38100AA8557 /* FadeBackgroundUtil.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4EA457AA1BA9B38100AA8557 /* FadeBackgroundUtil.cpp */; };
 		4EA457AF1BA9BA4B00AA8557 /* DelaunayUtil.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4EA457AD1BA9BA4B00AA8557 /* DelaunayUtil.cpp */; };
@@ -71,6 +73,10 @@
 /* Begin PBXFileReference section */
 		4E0B50E81BB2E603008D839D /* PathManager.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = PathManager.cpp; sourceTree = "<group>"; };
 		4E0B50E91BB2E603008D839D /* PathManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PathManager.h; sourceTree = "<group>"; };
+		4E12E4741BBECF20001D9BA2 /* FadeMotionGraphics.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FadeMotionGraphics.cpp; sourceTree = "<group>"; };
+		4E12E4751BBECF20001D9BA2 /* FadeMotionGraphics.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FadeMotionGraphics.h; sourceTree = "<group>"; };
+		4E12E47B1BBEE1D4001D9BA2 /* RectSwiper.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = RectSwiper.cpp; path = ../../../../../../../.Trash/RectSwiper.cpp; sourceTree = "<group>"; };
+		4E12E47D1BBEE21B001D9BA2 /* RectSwiper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RectSwiper.h; sourceTree = "<group>"; };
 		4E96DADC1BBD280700CEDB48 /* StatusCircle.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = StatusCircle.cpp; sourceTree = "<group>"; };
 		4E96DADD1BBD280700CEDB48 /* StatusCircle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StatusCircle.h; sourceTree = "<group>"; };
 		4EA457AA1BA9B38100AA8557 /* FadeBackgroundUtil.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FadeBackgroundUtil.cpp; sourceTree = "<group>"; };
@@ -141,6 +147,121 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4E12E4691BBEC882001D9BA2 /* BackGround */ = {
+			isa = PBXGroup;
+			children = (
+				4E12E4721BBECB01001D9BA2 /* LineBelt */,
+				4E12E4711BBECAF2001D9BA2 /* CrossesBack */,
+			);
+			name = BackGround;
+			sourceTree = "<group>";
+		};
+		4E12E46A1BBEC89E001D9BA2 /* Delaunay */ = {
+			isa = PBXGroup;
+			children = (
+				4EA457AD1BA9BA4B00AA8557 /* DelaunayUtil.cpp */,
+				4EA457AE1BA9BA4B00AA8557 /* DelaunayUtil.h */,
+				4EA457B01BA9C0D100AA8557 /* TrianglePoints.cpp */,
+				4EA457B11BA9C0D100AA8557 /* TrianglePoints.h */,
+				4EA457B31BA9C0F800AA8557 /* LinePoints.cpp */,
+				4EA457B41BA9C0F800AA8557 /* LinePoints.h */,
+			);
+			name = Delaunay;
+			sourceTree = "<group>";
+		};
+		4E12E46B1BBEC8AF001D9BA2 /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				E4B69E1D0A3A1BDC003C02F2 /* main.cpp */,
+				E4B69E1E0A3A1BDC003C02F2 /* ofApp.cpp */,
+				E4B69E1F0A3A1BDC003C02F2 /* ofApp.h */,
+			);
+			name = Main;
+			sourceTree = "<group>";
+		};
+		4E12E46C1BBEC99F001D9BA2 /* Circulars */ = {
+			isa = PBXGroup;
+			children = (
+				4E12E47E1BBEF1D7001D9BA2 /* CircularRectangles */,
+				4E12E4701BBECACE001D9BA2 /* CircularVertexes */,
+				4E12E46F1BBECAAD001D9BA2 /* CircularRipple */,
+			);
+			name = Circulars;
+			sourceTree = "<group>";
+		};
+		4E12E46E1BBEC9D7001D9BA2 /* Path */ = {
+			isa = PBXGroup;
+			children = (
+				4E0B50E81BB2E603008D839D /* PathManager.cpp */,
+				4E0B50E91BB2E603008D839D /* PathManager.h */,
+			);
+			name = Path;
+			sourceTree = "<group>";
+		};
+		4E12E46F1BBECAAD001D9BA2 /* CircularRipple */ = {
+			isa = PBXGroup;
+			children = (
+				4EFA93A11BB6C4500049B580 /* CircularAnimation.cpp */,
+				4EFA93A21BB6C4500049B580 /* CircularAnimation.h */,
+				4EFA93A41BB6DF590049B580 /* CircularAnimationManager.cpp */,
+				4EFA93A51BB6DF590049B580 /* CircularAnimationManager.h */,
+			);
+			name = CircularRipple;
+			sourceTree = "<group>";
+		};
+		4E12E4701BBECACE001D9BA2 /* CircularVertexes */ = {
+			isa = PBXGroup;
+			children = (
+				4EFA93A81BB7BE110049B580 /* CircularVertexes.cpp */,
+				4EFA93A91BB7BE110049B580 /* CircularVertexes.h */,
+			);
+			name = CircularVertexes;
+			sourceTree = "<group>";
+		};
+		4E12E4711BBECAF2001D9BA2 /* CrossesBack */ = {
+			isa = PBXGroup;
+			children = (
+				4EA457AA1BA9B38100AA8557 /* FadeBackgroundUtil.cpp */,
+				4EA457AB1BA9B38100AA8557 /* FadeBackgroundUtil.h */,
+			);
+			name = CrossesBack;
+			sourceTree = "<group>";
+		};
+		4E12E4721BBECB01001D9BA2 /* LineBelt */ = {
+			isa = PBXGroup;
+			children = (
+				4EFA939E1BB43E300049B580 /* LineBelt.cpp */,
+				4EFA939F1BB43E300049B580 /* LineBelt.h */,
+			);
+			name = LineBelt;
+			sourceTree = "<group>";
+		};
+		4E12E4731BBECD6B001D9BA2 /* MotionGraphics */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = MotionGraphics;
+			sourceTree = "<group>";
+		};
+		4E12E4771BBEDE56001D9BA2 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		4E12E47E1BBEF1D7001D9BA2 /* CircularRectangles */ = {
+			isa = PBXGroup;
+			children = (
+				4E12E4741BBECF20001D9BA2 /* FadeMotionGraphics.cpp */,
+				4E12E4751BBECF20001D9BA2 /* FadeMotionGraphics.h */,
+				4E12E4771BBEDE56001D9BA2 /* Model */,
+				4E12E47D1BBEE21B001D9BA2 /* RectSwiper.h */,
+				4E12E47B1BBEE1D4001D9BA2 /* RectSwiper.cpp */,
+			);
+			name = CircularRectangles;
+			sourceTree = "<group>";
+		};
 		BB4B014C10F69532006C3DED /* addons */ = {
 			isa = PBXGroup;
 			children = (
@@ -210,27 +331,12 @@
 		E4B69E1C0A3A1BDC003C02F2 /* src */ = {
 			isa = PBXGroup;
 			children = (
-				E4B69E1D0A3A1BDC003C02F2 /* main.cpp */,
-				E4B69E1E0A3A1BDC003C02F2 /* ofApp.cpp */,
-				E4B69E1F0A3A1BDC003C02F2 /* ofApp.h */,
-				4EFA93A81BB7BE110049B580 /* CircularVertexes.cpp */,
-				4EFA93A91BB7BE110049B580 /* CircularVertexes.h */,
-				4EA457AA1BA9B38100AA8557 /* FadeBackgroundUtil.cpp */,
-				4EA457AB1BA9B38100AA8557 /* FadeBackgroundUtil.h */,
-				4EA457AD1BA9BA4B00AA8557 /* DelaunayUtil.cpp */,
-				4EA457AE1BA9BA4B00AA8557 /* DelaunayUtil.h */,
-				4EA457B01BA9C0D100AA8557 /* TrianglePoints.cpp */,
-				4EA457B11BA9C0D100AA8557 /* TrianglePoints.h */,
-				4EA457B31BA9C0F800AA8557 /* LinePoints.cpp */,
-				4EA457B41BA9C0F800AA8557 /* LinePoints.h */,
-				4E0B50E81BB2E603008D839D /* PathManager.cpp */,
-				4E0B50E91BB2E603008D839D /* PathManager.h */,
-				4EFA939E1BB43E300049B580 /* LineBelt.cpp */,
-				4EFA939F1BB43E300049B580 /* LineBelt.h */,
-				4EFA93A11BB6C4500049B580 /* CircularAnimation.cpp */,
-				4EFA93A21BB6C4500049B580 /* CircularAnimation.h */,
-				4EFA93A41BB6DF590049B580 /* CircularAnimationManager.cpp */,
-				4EFA93A51BB6DF590049B580 /* CircularAnimationManager.h */,
+				4E12E4731BBECD6B001D9BA2 /* MotionGraphics */,
+				4E12E46E1BBEC9D7001D9BA2 /* Path */,
+				4E12E46C1BBEC99F001D9BA2 /* Circulars */,
+				4E12E46B1BBEC8AF001D9BA2 /* Main */,
+				4E12E46A1BBEC89E001D9BA2 /* Delaunay */,
+				4E12E4691BBEC882001D9BA2 /* BackGround */,
 				4E96DADC1BBD280700CEDB48 /* StatusCircle.cpp */,
 				4E96DADD1BBD280700CEDB48 /* StatusCircle.h */,
 			);
@@ -336,6 +442,7 @@
 				4EA457AC1BA9B38100AA8557 /* FadeBackgroundUtil.cpp in Sources */,
 				E4B69E200A3A1BDC003C02F2 /* main.cpp in Sources */,
 				4EA457AF1BA9BA4B00AA8557 /* DelaunayUtil.cpp in Sources */,
+				4E12E47C1BBEE1D4001D9BA2 /* RectSwiper.cpp in Sources */,
 				4EFA93A61BB6DF590049B580 /* CircularAnimationManager.cpp in Sources */,
 				4EFA93AA1BB7BE110049B580 /* CircularVertexes.cpp in Sources */,
 				4EA457B21BA9C0D100AA8557 /* TrianglePoints.cpp in Sources */,
@@ -345,6 +452,7 @@
 				4EA457B51BA9C0F800AA8557 /* LinePoints.cpp in Sources */,
 				E4B69E210A3A1BDC003C02F2 /* ofApp.cpp in Sources */,
 				4E0B50EA1BB2E603008D839D /* PathManager.cpp in Sources */,
+				4E12E4761BBECF20001D9BA2 /* FadeMotionGraphics.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -423,6 +531,7 @@
 		E4B69B600A3A1757003C02F2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				"ARCHS[sdk=*]" = "$(NATIVE_ARCH)";
 				COMBINE_HIDPI_IMAGES = YES;
 				COPY_PHASE_STRIP = NO;
 				FRAMEWORK_SEARCH_PATHS = (

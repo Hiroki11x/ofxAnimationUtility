@@ -7,6 +7,7 @@
 #include "LineBelt.h"
 #include "CircularAnimationManager.h"
 #include "CircularVertexes.h"
+#include "FadeMotionGraphics.h"
 
 class ofApp : public ofBaseApp{
 
@@ -24,12 +25,29 @@ class ofApp : public ofBaseApp{
 		void windowResized(int w, int h);
 		void dragEvent(ofDragInfo dragInfo);
 		void gotMessage(ofMessage msg);
+    
+    
+    int mode;
   
+    //1
     FadeBackgroundUtil animation;
+    
+    //2
     DelaunayUtil delaunay;
+    
+    //3
     PathManager pathmanager;
+    
+    //4
     LineBelt linebelt;
+    
+    //5
     CircularAnimationManager circularannimationmanager;
+    
+    //6
     CircularVertexes circularvertexes;
+    
+    //7
+    FadeMotionGraphics fademotiongraphics;
 		
 };

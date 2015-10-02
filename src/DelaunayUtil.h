@@ -22,7 +22,7 @@ private:
 
     vector<ofPoint> ps;
     vector<TrianglePoints> ts;
-    
+    vector<int>alpha;
     Boolean DetDelaunay(const ofPoint& p0,const ofPoint& p1,const ofPoint& p2,const ofPoint& p3);
     
     

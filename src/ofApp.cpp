@@ -4,49 +4,110 @@
 void ofApp::setup(){
     ofToggleFullscreen();
     ofBackground(0);
-    ofSetFrameRate(5);
+    ofSetFrameRate(60);
+    mode=0;
     
+    //1
     animation.set_fade_duration(2000);
     
-//    delaunay.setup();
-//    
-//    ofColor color;
-//    color.set(0, 255, 0);
-//    pathmanager.set_path_color(color);
-//    pathmanager.setup_path(100);
+    //2
+    delaunay.setup();
+
+    //3
+    pathmanager.set_path_color(ofColor::fromHsb(ofRandom(255), 255, 255));
+    pathmanager.setup_path(100);
     
-//    linebelt.setup_belt(1000);
-//
-//    circularannimationmanager.set_animation_num(200);
-//    circularannimationmanager.setup();
+    //4
+    linebelt.setup_belt(1000);
+
+    //5
+    circularannimationmanager.set_animation_num(200);
+    circularannimationmanager.setup();
     
+    //6
     circularvertexes.setup();
+    
+    //7
+    fademotiongraphics.init();
 }
 
 //--------------------------------------------------------------
 void ofApp::update(){
-    //delaunay.update();
-   // pathmanager.update_path();
-   // linebelt.update_belt();
+    switch (mode) {
+        case 2:
+            //2
+            delaunay.update();
+            break;
+        case 3:
+            //3
+            pathmanager.update_path();
+            break;
+        case 4:
+            //4
+            linebelt.update_belt();
+            break;
+        default:
+            break;
+    }
 }
 
 //--------------------------------------------------------------
 void ofApp::draw(){
-//    animation.fade_cross_background(0, 0, 100);
-//    delaunay.draw();
-    //pathmanager.draw_path();
-   // linebelt.draw_belt();
-    //circularannimationmanager.draw_animation();
-    circularvertexes.draw();
+    ofSetColor(100);
+    switch (mode) {
+        case 1:
+            //1
+            animation.fade_cross_background(0, 0, 100);
+            ofDrawBitmapString("[1]CrossAnimation", 20,20);
+            break;
+        case 2:
+            //2
+            delaunay.draw();
+            ofDrawBitmapString("[2]Delaunay", 20,20);
+            break;
+        case 3:
+            //3
+            pathmanager.draw_path();
+            ofDrawBitmapString("[3]PathManager", 20,20);
+            break;
+        case 4:
+            //4
+            linebelt.draw_belt();
+            ofDrawBitmapString("[4]LineBelt", 20,20);
+            break;
+        case 5:
+            //5
+            circularannimationmanager.draw_animation();
+            ofDrawBitmapString("[5]CircularRipple", 20,20);
+            break;
+        case 6:
+            //6
+            circularvertexes.draw();
+            ofDrawBitmapString("[6]CircularVertexes", 20,20);
+            break;
+        case 7:
+            //7
+            fademotiongraphics.draw();
+            ofDrawBitmapString("[7]FadeMotionGraphics", 20,20);
+            break;
+
+        default:
+            break;
+    }
 }
 
 
 //--------------------------------------------------------------
 void ofApp::keyPressed(int key){
+    cout<<key<<endl;
     if(key == 'f'){
         ofToggleFullscreen();
     }else if(key =='s'){
         linebelt.set_mode();
+    }else if(49<=key && key<=57){
+        mode = key-48;
+    }else if(key==' '){
+        fademotiongraphics.init();
     }else{
         for(int i = 0;i<1;i++){
             delaunay.generate(ofRandom(ofGetWidth()),ofRandom(ofGetHeight()));
@@ -72,7 +133,6 @@ void ofApp::mouseDragged(int x, int y, int button){
 //--------------------------------------------------------------
 void ofApp::mousePressed(int x, int y, int button){
     delaunay.generate(x,y);
-
 }
 
 //--------------------------------------------------------------

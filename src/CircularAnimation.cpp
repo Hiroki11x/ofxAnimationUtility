@@ -53,7 +53,8 @@ void CircularAnimation::draw_circular_animation(bool is_animation){
         this->is_animation = is_animation;
         if(this->is_animation){
             update();
-            ofNoFill();
+            ofFill();
+            ofSetColor(100, ofRandom(100));
             ofCircle(position, circle_size);
         }
     }

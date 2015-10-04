@@ -29,6 +29,15 @@ void ofApp::setup(){
     
     //7
     fademotiongraphics.init();
+    
+    //8
+    rectswiper.init();
+    
+    //9
+    strechyrectswiper.init();
+    strechyrectswiper.set_color(ofColor::fromHsb(100, 200, 200));
+    strechyrectswiper.set_mode(SwipeMode::Up);
+
 }
 
 //--------------------------------------------------------------
@@ -90,6 +99,18 @@ void ofApp::draw(){
             fademotiongraphics.draw();
             ofDrawBitmapString("[7]FadeMotionGraphics", 20,20);
             break;
+            
+        case 8:
+            //8
+            rectswiper.draw();
+            ofDrawBitmapString("[8]RectSwiper", 20,20);
+            break;
+            
+        case 9:
+            //9
+            strechyrectswiper.draw();
+            ofDrawBitmapString("[9]StrechyRectSwiper", 20,20);
+            break;
 
         default:
             break;
@@ -108,6 +129,10 @@ void ofApp::keyPressed(int key){
         mode = key-48;
     }else if(key==' '){
         fademotiongraphics.init();
+    }else if(key==OF_KEY_DOWN){
+        strechyrectswiper.set_mode(SwipeMode::Down);
+    }else if(key==OF_KEY_UP){
+        strechyrectswiper.set_mode(SwipeMode::Up);
     }else{
         for(int i = 0;i<1;i++){
             delaunay.generate(ofRandom(ofGetWidth()),ofRandom(ofGetHeight()));
@@ -132,7 +157,17 @@ void ofApp::mouseDragged(int x, int y, int button){
 
 //--------------------------------------------------------------
 void ofApp::mousePressed(int x, int y, int button){
-    delaunay.generate(x,y);
+    switch (mode) {
+        case 2:
+            delaunay.generate(x,y);
+            break;
+        case 8:
+            rectswiper.init();
+            break;
+        default:
+            break;
+    }
+    
 }
 
 //--------------------------------------------------------------

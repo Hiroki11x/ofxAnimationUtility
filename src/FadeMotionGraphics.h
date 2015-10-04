@@ -10,12 +10,12 @@
 #define __ofxAnimationUtility__FadeMotionGraphics__
 
 #include "ofMain.h"
-#include "RectSwiper.h"
+#include "RectCircular.h"
 
 class FadeMotionGraphics{
 private:
 
-    vector<RectSwiper> rect_swiper;
+    vector<RectCircular> rect_circular;
 public:
     FadeMotionGraphics(){};
     void draw();

@@ -13,8 +13,8 @@
 
 void FadeMotionGraphics::draw(){
     ofPushMatrix();
-    for(int i =0 ;i<rect_swiper.size(); i++){
-        rect_swiper.at(i).draw();
+    for(int i =0 ;i<rect_circular.size(); i++){
+        rect_circular.at(i).draw();
     }
     ofPopMatrix();
 }
@@ -25,9 +25,9 @@ void FadeMotionGraphics::update(){
 
 void FadeMotionGraphics::init(){
     for(int i=0;i<30;i++){
-        rect_swiper.push_back(RectSwiper());
-        rect_swiper.back().set_angle(i*120);
-        rect_swiper.back().init();
+        rect_circular.push_back(RectCircular());
+        rect_circular.back().set_angle(i*120);
+        rect_circular.back().init();
     }
     
 }

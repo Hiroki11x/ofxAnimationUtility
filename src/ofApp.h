@@ -8,6 +8,8 @@
 #include "CircularAnimationManager.h"
 #include "CircularVertexes.h"
 #include "FadeMotionGraphics.h"
+#include "RectSwiper.h"
+#include "StrechyRectSwiper.h"
 
 class ofApp : public ofBaseApp{
 
@@ -49,5 +51,10 @@ class ofApp : public ofBaseApp{
     
     //7
     FadeMotionGraphics fademotiongraphics;
-		
+    
+    //8
+    RectSwiper rectswiper;
+    
+    //9
+    StrechyRectSwiper strechyrectswiper;
 };

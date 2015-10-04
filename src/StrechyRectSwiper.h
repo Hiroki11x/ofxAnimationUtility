@@ -21,5 +21,7 @@ public:
     void draw();
     void update();
     void set_color(ofColor color);
+    
+    void draw_semi_circular(float radius);
 };
 

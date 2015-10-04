@@ -28,6 +28,7 @@
 		4E5ED6671BC0D41D004F1AF6 /* StrechyRectSwiper.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E5ED6651BC0D41D004F1AF6 /* StrechyRectSwiper.cpp */; };
 		4E5ED66C1BC0D85A004F1AF6 /* SwipeMode.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E5ED66A1BC0D85A004F1AF6 /* SwipeMode.cpp */; };
 		4E5ED6741BC10DA8004F1AF6 /* SemiCirclePath.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E5ED6721BC10DA8004F1AF6 /* SemiCirclePath.cpp */; };
+		4E7632591BC15AA1002F2530 /* AlphaSwiper.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E7632571BC15AA1002F2530 /* AlphaSwiper.cpp */; };
 		4E96DADE1BBD280700CEDB48 /* StatusCircle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E96DADC1BBD280700CEDB48 /* StatusCircle.cpp */; };
 		4EA457AC1BA9B38100AA8557 /* FadeBackgroundUtil.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4EA457AA1BA9B38100AA8557 /* FadeBackgroundUtil.cpp */; };
 		4EA457AF1BA9BA4B00AA8557 /* DelaunayUtil.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4EA457AD1BA9BA4B00AA8557 /* DelaunayUtil.cpp */; };
@@ -137,6 +138,8 @@
 		4E5ED66B1BC0D85A004F1AF6 /* SwipeMode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SwipeMode.h; sourceTree = "<group>"; };
 		4E5ED6721BC10DA8004F1AF6 /* SemiCirclePath.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SemiCirclePath.cpp; sourceTree = "<group>"; };
 		4E5ED6731BC10DA8004F1AF6 /* SemiCirclePath.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SemiCirclePath.h; sourceTree = "<group>"; };
+		4E7632571BC15AA1002F2530 /* AlphaSwiper.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = AlphaSwiper.cpp; sourceTree = "<group>"; };
+		4E7632581BC15AA1002F2530 /* AlphaSwiper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AlphaSwiper.h; sourceTree = "<group>"; };
 		4E96DADC1BBD280700CEDB48 /* StatusCircle.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = StatusCircle.cpp; sourceTree = "<group>"; };
 		4E96DADD1BBD280700CEDB48 /* StatusCircle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StatusCircle.h; sourceTree = "<group>"; };
 		4EA457AA1BA9B38100AA8557 /* FadeBackgroundUtil.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FadeBackgroundUtil.cpp; sourceTree = "<group>"; };
@@ -299,6 +302,7 @@
 		4E12E4731BBECD6B001D9BA2 /* MotionGraphics */ = {
 			isa = PBXGroup;
 			children = (
+				4E7632561BC15929002F2530 /* AlphaSwiper */,
 				4E5ED6641BC0D405004F1AF6 /* Base */,
 				4E5ED6631BC0D3C2004F1AF6 /* StrechyRectSwiper */,
 				4E16557E1BC0C41200EBAD43 /* RectSwiper */,
@@ -434,6 +438,15 @@
 				4E5ED6731BC10DA8004F1AF6 /* SemiCirclePath.h */,
 			);
 			name = SemiCirclePath;
+			sourceTree = "<group>";
+		};
+		4E7632561BC15929002F2530 /* AlphaSwiper */ = {
+			isa = PBXGroup;
+			children = (
+				4E7632571BC15AA1002F2530 /* AlphaSwiper.cpp */,
+				4E7632581BC15AA1002F2530 /* AlphaSwiper.h */,
+			);
+			name = AlphaSwiper;
 			sourceTree = "<group>";
 		};
 		BB4B014C10F69532006C3DED /* addons */ = {
@@ -614,6 +627,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4E7632591BC15AA1002F2530 /* AlphaSwiper.cpp in Sources */,
 				4EA457AC1BA9B38100AA8557 /* FadeBackgroundUtil.cpp in Sources */,
 				4E12E4D41BBF8A5E001D9BA2 /* ofxEasingCubic.cpp in Sources */,
 				4E5ED66C1BC0D85A004F1AF6 /* SwipeMode.cpp in Sources */,

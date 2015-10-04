@@ -1,6 +1,8 @@
 #pragma once
 
 #include "ofMain.h"
+
+#include "AlphaSwiper.h"
 #include "FadeBackgroundUtil.h"
 #include "DelaunayUtil.h"
 #include "PathManager.h"
@@ -10,6 +12,7 @@
 #include "FadeMotionGraphics.h"
 #include "RectSwiper.h"
 #include "StrechyRectSwiper.h"
+
 
 class ofApp : public ofBaseApp{
 
@@ -30,6 +33,9 @@ class ofApp : public ofBaseApp{
     
     
     int mode;
+    
+    //0
+    AlphaSwiper alphaswiper;
   
     //1
     FadeBackgroundUtil animation;

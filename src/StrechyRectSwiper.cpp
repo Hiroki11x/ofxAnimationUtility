@@ -19,6 +19,7 @@ void StrechyRectSwiper::set_mode(SwipeMode::Mode mode){
 void StrechyRectSwiper::init(){
     init_path();
     TweenUtil.init();
+    TweenUtil.set_max(ofGetWidth());
     TweenUtil.set_delay(200);
     TweenUtil.set_duration(ofRandom(200,800));
 }
@@ -46,10 +47,9 @@ void StrechyRectSwiper::draw(){
             return ;
         case SwipeMode::SemiCircle:
             //SemiCirculePathを用いる
-            semipath[2].draw(start_y*1.3);
-            semipath[0].draw(start_y);
-            semipath[1].draw(start_y*0.7);
-            
+            semipath[0].draw(start_y*1.3);
+            semipath[1].draw(start_y);
+            semipath[2].draw(start_y*0.7);
             break;
         default:
             break;

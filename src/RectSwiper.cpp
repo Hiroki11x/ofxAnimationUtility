@@ -11,6 +11,7 @@
 
 void RectSwiper::init(){
     TweenUtil.init();
+    TweenUtil.set_max(ofGetWidth());
     TweenUtil.set_delay(200);
     TweenUtil.set_duration(500);
 }

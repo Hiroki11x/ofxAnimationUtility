@@ -7,6 +7,9 @@ void ofApp::setup(){
     ofSetFrameRate(60);
     mode=0;
     
+    //0
+    alphaswiper.init();
+    
     //1
     animation.set_fade_duration(2000);
     
@@ -64,6 +67,12 @@ void ofApp::update(){
 void ofApp::draw(){
     ofSetColor(100);
     switch (mode) {
+        case 0:
+            //0
+            alphaswiper.draw();
+            ofDrawBitmapString("[0]AlphaSwiper", 20,20);
+            break;
+            
         case 1:
             //1
             animation.fade_cross_background(0, 0, 100);
@@ -125,7 +134,7 @@ void ofApp::keyPressed(int key){
         ofToggleFullscreen();
     }else if(key =='s'){
         linebelt.set_mode();
-    }else if(49<=key && key<=57){
+    }else if(48<=key && key<=57){
         mode = key-48;
     }else if(key==' '){
         fademotiongraphics.init();

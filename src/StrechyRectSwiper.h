@@ -9,15 +9,14 @@
 #include "ofMain.h"
 #include "ofxTweenUtil.h"
 #include "SwipeMode.h"
+#include "SemiCirclePath.h"
 
 class StrechyRectSwiper{
 private:
     ofxTweenUtil TweenUtil;
-    ofColor color;
     SwipeMode::Mode mode;
-    ofPath path;
-    ofPath black_path;
-    
+    SemiCirclePath semipath[3];
+    ofColor color;
 public:
     void set_mode(SwipeMode::Mode mode);
     void init();
@@ -28,6 +27,6 @@ public:
     void draw_semi_circular(float radius);
     
     void init_path();
-    void draw_semi_circle_path(float radius,int div_num);
+    void draw_semi_circle_path(float radius);
 };
 

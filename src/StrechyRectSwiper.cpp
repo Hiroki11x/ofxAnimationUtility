@@ -18,7 +18,6 @@ void StrechyRectSwiper::set_mode(SwipeMode::Mode mode){
 
 void StrechyRectSwiper::init(){
     init_path();
-    ofSetCircleResolution(64);
     TweenUtil.init();
     TweenUtil.set_delay(200);
     TweenUtil.set_duration(ofRandom(200,800));
@@ -35,7 +34,6 @@ void StrechyRectSwiper::update(){
 //-------------------------------------------------------------------------------
 
 void StrechyRectSwiper::draw(){
-//    update();
     float start_y = TweenUtil.get_update_value();
     ofSetColor(color,ofRandom(255));
     
@@ -47,8 +45,11 @@ void StrechyRectSwiper::draw(){
             ofRect(0,ofGetHeight() - start_y, ofGetWidth(),20+start_y/5);
             return ;
         case SwipeMode::SemiCircle:
-            draw_semi_circle_path(start_y,4);
-            draw_semi_circle_path(start_y*0.8,2);
+            //SemiCirculePathを用いる
+            semipath[2].draw(start_y*1.3);
+            semipath[0].draw(start_y);
+            semipath[1].draw(start_y*0.7);
+            
             break;
         default:
             break;
@@ -59,62 +60,39 @@ void StrechyRectSwiper::draw(){
 
 void StrechyRectSwiper::set_color(ofColor color){
     this->color = color;
-}
-
-//-------------------------------------------------------------------------------
-
-void StrechyRectSwiper::draw_semi_circle_path(float radius, int div_num){
-    
-    /*
-     widthがarcのバームクーヘンみたいな感じの厚さ
-     div_numは分割する際の線の数 eg.3
-     arc_divはその分割数での180を割った値　eg.60
-     arc_sizeは一つ一つの図形の角度の範囲の1/2 eg.
-     */
-    float width = 30;
-    float arc_div = 180.0/div_num;
-    float arc_size = arc_div/2.5;
-    
-    //緑の弧
-    path.clear();
-    path.setColor(color);
-    for(int i=0;i<=div_num;i++){
-        float innner_angle = arc_div*i-arc_size;
-        float outer_angle = arc_div*i+arc_size;
-        path.moveTo(ofGetWidth()/2, ofGetHeight());
-        path.arc(ofGetWidth()/2, ofGetHeight(), radius, -radius, innner_angle, outer_angle);
-    }
-    path.draw();
-    
-    //黒の弧
-    black_path.clear();
-    black_path.setColor(0);
-    for(int i=0;i<=div_num;i++){
-        float innner_angle = arc_div*i-arc_size;
-        float outer_angle = arc_div*i+arc_size;
-        black_path.moveTo(ofGetWidth()/2, ofGetHeight());
-        black_path.arc(ofGetWidth()/2, ofGetHeight(), radius-width,width-radius, innner_angle, outer_angle);
-    }
-    black_path.draw();
+    semipath[0].set_color(color);
+    semipath[1].set_color(color);
+    semipath[2].set_color(color);
 }
 
 //-------------------------------------------------------------------------------
 
 void StrechyRectSwiper::init_path(){
-    path.setMode(ofPath::POLYLINES);
-    path.setStrokeColor(color);
-    path.setStrokeWidth(0);
-    path.setFilled(true);
-    path.setCircleResolution(60);
+    semipath[0].init();
+    semipath[0].set_div_num(ofRandom(2,4));
+    semipath[0].set_width(ofRandom(30,100));
+    semipath[0].set_rotate_mode(true);
+    
+    semipath[1].init();
+    semipath[1].set_div_num(ofRandom(2,5));
+    semipath[1].set_width(ofRandom(30,100));
+    semipath[0].set_rotate_mode(false);
+    
+    semipath[2].init();
+    semipath[2].set_div_num(ofRandom(2,5));
+    semipath[2].set_width(ofRandom(30,100));
+    semipath[0].set_rotate_mode(true);
 }
 
 
 //以下Legacy的なもの
+/*
 
 //-------------------------------------------------------------------------------
 void StrechyRectSwiper::draw_semi_circular(float radius){
     //[2]外部の円
-    ofSetColor(color,ofRandom(255));
+    
+//    ofSetColor(color,ofRandom(255));
     ofCircle(ofGetWidth()/2, ofGetHeight(), radius*1.5);
     ofSetColor(0);
     ofCircle(ofGetWidth()/2, ofGetHeight(), radius*1.3);
@@ -150,6 +128,6 @@ void StrechyRectSwiper::draw_semi_circular(float radius){
     ofEndShape();
     ofPopMatrix();
 }
-
+*/
 //-------------------------------------------------------------------------------
 

@@ -15,6 +15,7 @@ namespace SwipeMode {
     enum Mode{
         Down,
         Up,
+        SemiCircle,
     };
 }
 

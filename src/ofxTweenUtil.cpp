@@ -21,9 +21,9 @@ void ofxTweenUtil::set_delay(unsigned int delay){
 }
 
 void ofxTweenUtil::update(){
-    if(tweenlinear.update() > ofGetHeight()){
-        init();
-    }
+//    if(tweenlinear.update() > ofGetHeight()){
+//        init();
+//    }
 }
 
 float ofxTweenUtil::get_update_value(){
@@ -46,5 +46,5 @@ void ofxTweenUtil::init(){
 //    tweencubic.setParameters(id_1,easingcubic,ofxTween::easeOut,0,ofGetWidth(),duration,delay);
     
     int id_2 =2;
-    tweenlinear.setParameters(id_2,elasticlinnear,ofxTween::easeInOut,-40 , ofGetWidth(), duration, delay);
+    tweenlinear.setParameters(id_2,elasticlinnear,ofxTween::easeInOut,0 , ofGetWidth(), duration, delay);
 }

@@ -19,6 +19,7 @@ public:
     void set_mode(SwipeMode::Mode mode);
     void init();
     void draw();
+    void update();
     void set_color(ofColor color);
 };
 

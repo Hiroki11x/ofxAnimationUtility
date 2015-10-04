@@ -131,8 +131,14 @@ void ofApp::keyPressed(int key){
         fademotiongraphics.init();
     }else if(key==OF_KEY_DOWN){
         strechyrectswiper.set_mode(SwipeMode::Down);
+        strechyrectswiper.init();
     }else if(key==OF_KEY_UP){
         strechyrectswiper.set_mode(SwipeMode::Up);
+        strechyrectswiper.init();
+    }
+    else if(key==OF_KEY_RIGHT){
+        strechyrectswiper.set_mode(SwipeMode::SemiCircle);
+        strechyrectswiper.init();
     }else{
         for(int i = 0;i<1;i++){
             delaunay.generate(ofRandom(ofGetWidth()),ofRandom(ofGetHeight()));

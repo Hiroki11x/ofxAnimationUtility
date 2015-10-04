@@ -399,9 +399,9 @@
 		4E5ED6631BC0D3C2004F1AF6 /* StrechyRectSwiper */ = {
 			isa = PBXGroup;
 			children = (
-				4E5ED6681BC0D7E6004F1AF6 /* SwipeMode */,
 				4E5ED6651BC0D41D004F1AF6 /* StrechyRectSwiper.cpp */,
 				4E5ED6661BC0D41D004F1AF6 /* StrechyRectSwiper.h */,
+				4E5ED6681BC0D7E6004F1AF6 /* SwipeMode */,
 			);
 			name = StrechyRectSwiper;
 			sourceTree = "<group>";

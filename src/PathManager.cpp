@@ -37,11 +37,11 @@ void PathManager::setup_path(int num){
 
 ofVec2f PathManager::calculate_column_row(int num){
     int x = (int)sqrt(num);
-    cout << "x: " << x<<endl;
+//    cout << "x: " << x<<endl;
     int y = num/x;
-    cout << "y: " << y<<endl;
+//    cout << "y: " << y<<endl;
     this->num = x*y;
-    cout << "num: " << num<<endl;
+//    cout << "num: " << num<<endl;
     return ofVec2f(x,y);
 }
 

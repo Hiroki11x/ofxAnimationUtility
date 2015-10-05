@@ -7,6 +7,8 @@ void ofApp::setup(){
     ofSetFrameRate(60);
     mode=0;
     logutil.init();
+    mFbo.allocate(ofGetHeight(), ofGetWidth());
+    postglitch.init(mFbo);
     
     graphLog.setup();
     graphLog.set_height_limit(ofGetHeight()/2);
@@ -66,10 +68,10 @@ void ofApp::update(){
         default:
             break;
     }
-}
-
-//--------------------------------------------------------------
-void ofApp::draw(){
+    
+    mFbo.begin();
+    ofClear(0, 0, 0,255);
+    ofBackground(0);
     ofSetColor(100);
     switch (mode) {
         case 0:
@@ -125,17 +127,25 @@ void ofApp::draw(){
             strechyrectswiper.draw();
             ofDrawBitmapString("[9]StrechyRectSwiper", 20,20);
             break;
-
+            
         default:
             break;
     }
     graphLog.draw();
+    mFbo.end();
+    postglitch.adapt_glitch_end();
+}
+
+//--------------------------------------------------------------
+void ofApp::draw(){
+    postglitch.draw_glitch();
 }
 
 
 //--------------------------------------------------------------
 void ofApp::keyPressed(int key){
     graphLog.keyPressed(key);
+    postglitch.keyPressed(key);
     cout<<key<<endl;
     if(key == 'f'){
         ofToggleFullscreen();

@@ -34,6 +34,9 @@
 		4E7632901BC20591002F2530 /* ofxSuperLogDisplay.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E7632891BC20591002F2530 /* ofxSuperLogDisplay.cpp */; };
 		4E7632961BC205CF002F2530 /* ofxSuperLogUtil.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E7632941BC205CF002F2530 /* ofxSuperLogUtil.cpp */; };
 		4E7632A11BC222BB002F2530 /* GraphLog.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E76329F1BC222BB002F2530 /* GraphLog.cpp */; };
+		4E7633061BC24C1A002F2530 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 4E7632DD1BC24C1A002F2530 /* README.md */; };
+		4E7633071BC24C1A002F2530 /* ofxPostGlitch.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E7633021BC24C1A002F2530 /* ofxPostGlitch.cpp */; };
+		4E76330E1BC24C6A002F2530 /* PostGlitch.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E76330C1BC24C6A002F2530 /* PostGlitch.cpp */; };
 		4E96DADE1BBD280700CEDB48 /* StatusCircle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E96DADC1BBD280700CEDB48 /* StatusCircle.cpp */; };
 		4EA457AC1BA9B38100AA8557 /* FadeBackgroundUtil.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4EA457AA1BA9B38100AA8557 /* FadeBackgroundUtil.cpp */; };
 		4EA457AF1BA9BA4B00AA8557 /* DelaunayUtil.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4EA457AD1BA9BA4B00AA8557 /* DelaunayUtil.cpp */; };
@@ -156,6 +159,45 @@
 		4E7632951BC205CF002F2530 /* ofxSuperLogUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ofxSuperLogUtil.h; sourceTree = "<group>"; };
 		4E76329F1BC222BB002F2530 /* GraphLog.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = GraphLog.cpp; sourceTree = "<group>"; };
 		4E7632A01BC222BB002F2530 /* GraphLog.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GraphLog.h; sourceTree = "<group>"; };
+		4E7632DD1BC24C1A002F2530 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		4E7632DF1BC24C1A002F2530 /* convergence.frag */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = convergence.frag; sourceTree = "<group>"; };
+		4E7632E01BC24C1A002F2530 /* convergence.vert */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = convergence.vert; sourceTree = "<group>"; };
+		4E7632E11BC24C1A002F2530 /* crBlueinvert.frag */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = crBlueinvert.frag; sourceTree = "<group>"; };
+		4E7632E21BC24C1A002F2530 /* crBlueinvert.vert */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = crBlueinvert.vert; sourceTree = "<group>"; };
+		4E7632E31BC24C1A002F2530 /* crBlueraise.frag */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = crBlueraise.frag; sourceTree = "<group>"; };
+		4E7632E41BC24C1A002F2530 /* crBlueraise.vert */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = crBlueraise.vert; sourceTree = "<group>"; };
+		4E7632E51BC24C1A002F2530 /* crGreeninvert.frag */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = crGreeninvert.frag; sourceTree = "<group>"; };
+		4E7632E61BC24C1A002F2530 /* crGreeninvert.vert */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = crGreeninvert.vert; sourceTree = "<group>"; };
+		4E7632E71BC24C1A002F2530 /* crGreenraise.frag */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = crGreenraise.frag; sourceTree = "<group>"; };
+		4E7632E81BC24C1A002F2530 /* crGreenraise.vert */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = crGreenraise.vert; sourceTree = "<group>"; };
+		4E7632E91BC24C1A002F2530 /* crHighContrast.frag */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = crHighContrast.frag; sourceTree = "<group>"; };
+		4E7632EA1BC24C1A002F2530 /* crHighContrast.vert */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = crHighContrast.vert; sourceTree = "<group>"; };
+		4E7632EB1BC24C1A002F2530 /* crRedinvert.frag */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = crRedinvert.frag; sourceTree = "<group>"; };
+		4E7632EC1BC24C1A002F2530 /* crRedinvert.vert */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = crRedinvert.vert; sourceTree = "<group>"; };
+		4E7632ED1BC24C1A002F2530 /* crRedraise.frag */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = crRedraise.frag; sourceTree = "<group>"; };
+		4E7632EE1BC24C1A002F2530 /* crRedraise.vert */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = crRedraise.vert; sourceTree = "<group>"; };
+		4E7632EF1BC24C1A002F2530 /* cut_slider.frag */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = cut_slider.frag; sourceTree = "<group>"; };
+		4E7632F01BC24C1A002F2530 /* cut_slider.vert */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = cut_slider.vert; sourceTree = "<group>"; };
+		4E7632F11BC24C1A002F2530 /* glow.frag */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = glow.frag; sourceTree = "<group>"; };
+		4E7632F21BC24C1A002F2530 /* glow.vert */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = glow.vert; sourceTree = "<group>"; };
+		4E7632F31BC24C1A002F2530 /* invert.frag */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = invert.frag; sourceTree = "<group>"; };
+		4E7632F41BC24C1A002F2530 /* invert.vert */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = invert.vert; sourceTree = "<group>"; };
+		4E7632F51BC24C1A002F2530 /* noise.frag */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = noise.frag; sourceTree = "<group>"; };
+		4E7632F61BC24C1A002F2530 /* noise.vert */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = noise.vert; sourceTree = "<group>"; };
+		4E7632F71BC24C1A002F2530 /* outline.frag */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = outline.frag; sourceTree = "<group>"; };
+		4E7632F81BC24C1A002F2530 /* outline.vert */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = outline.vert; sourceTree = "<group>"; };
+		4E7632F91BC24C1A002F2530 /* shaker.frag */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = shaker.frag; sourceTree = "<group>"; };
+		4E7632FA1BC24C1A002F2530 /* shaker.vert */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = shaker.vert; sourceTree = "<group>"; };
+		4E7632FB1BC24C1A002F2530 /* slitscan.frag */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = slitscan.frag; sourceTree = "<group>"; };
+		4E7632FC1BC24C1A002F2530 /* slitscan.vert */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = slitscan.vert; sourceTree = "<group>"; };
+		4E7632FD1BC24C1A002F2530 /* swell.frag */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = swell.frag; sourceTree = "<group>"; };
+		4E7632FE1BC24C1A002F2530 /* swell.vert */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = swell.vert; sourceTree = "<group>"; };
+		4E7632FF1BC24C1A002F2530 /* twist.frag */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = twist.frag; sourceTree = "<group>"; };
+		4E7633001BC24C1A002F2530 /* twist.vert */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = twist.vert; sourceTree = "<group>"; };
+		4E7633021BC24C1A002F2530 /* ofxPostGlitch.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ofxPostGlitch.cpp; sourceTree = "<group>"; };
+		4E7633031BC24C1A002F2530 /* ofxPostGlitch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ofxPostGlitch.h; sourceTree = "<group>"; };
+		4E76330C1BC24C6A002F2530 /* PostGlitch.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = PostGlitch.cpp; sourceTree = "<group>"; };
+		4E76330D1BC24C6A002F2530 /* PostGlitch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostGlitch.h; sourceTree = "<group>"; };
 		4E96DADC1BBD280700CEDB48 /* StatusCircle.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = StatusCircle.cpp; sourceTree = "<group>"; };
 		4E96DADD1BBD280700CEDB48 /* StatusCircle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StatusCircle.h; sourceTree = "<group>"; };
 		4EA457AA1BA9B38100AA8557 /* FadeBackgroundUtil.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FadeBackgroundUtil.cpp; sourceTree = "<group>"; };
@@ -506,9 +548,80 @@
 			name = GraphLog;
 			sourceTree = "<group>";
 		};
+		4E7632A81BC24C1A002F2530 /* ofxPostGlitch */ = {
+			isa = PBXGroup;
+			children = (
+				4E7632DD1BC24C1A002F2530 /* README.md */,
+				4E7632DE1BC24C1A002F2530 /* Shaders */,
+				4E7633011BC24C1A002F2530 /* src */,
+			);
+			name = ofxPostGlitch;
+			path = ../../../addons/ofxPostGlitch;
+			sourceTree = "<group>";
+		};
+		4E7632DE1BC24C1A002F2530 /* Shaders */ = {
+			isa = PBXGroup;
+			children = (
+				4E7632DF1BC24C1A002F2530 /* convergence.frag */,
+				4E7632E01BC24C1A002F2530 /* convergence.vert */,
+				4E7632E11BC24C1A002F2530 /* crBlueinvert.frag */,
+				4E7632E21BC24C1A002F2530 /* crBlueinvert.vert */,
+				4E7632E31BC24C1A002F2530 /* crBlueraise.frag */,
+				4E7632E41BC24C1A002F2530 /* crBlueraise.vert */,
+				4E7632E51BC24C1A002F2530 /* crGreeninvert.frag */,
+				4E7632E61BC24C1A002F2530 /* crGreeninvert.vert */,
+				4E7632E71BC24C1A002F2530 /* crGreenraise.frag */,
+				4E7632E81BC24C1A002F2530 /* crGreenraise.vert */,
+				4E7632E91BC24C1A002F2530 /* crHighContrast.frag */,
+				4E7632EA1BC24C1A002F2530 /* crHighContrast.vert */,
+				4E7632EB1BC24C1A002F2530 /* crRedinvert.frag */,
+				4E7632EC1BC24C1A002F2530 /* crRedinvert.vert */,
+				4E7632ED1BC24C1A002F2530 /* crRedraise.frag */,
+				4E7632EE1BC24C1A002F2530 /* crRedraise.vert */,
+				4E7632EF1BC24C1A002F2530 /* cut_slider.frag */,
+				4E7632F01BC24C1A002F2530 /* cut_slider.vert */,
+				4E7632F11BC24C1A002F2530 /* glow.frag */,
+				4E7632F21BC24C1A002F2530 /* glow.vert */,
+				4E7632F31BC24C1A002F2530 /* invert.frag */,
+				4E7632F41BC24C1A002F2530 /* invert.vert */,
+				4E7632F51BC24C1A002F2530 /* noise.frag */,
+				4E7632F61BC24C1A002F2530 /* noise.vert */,
+				4E7632F71BC24C1A002F2530 /* outline.frag */,
+				4E7632F81BC24C1A002F2530 /* outline.vert */,
+				4E7632F91BC24C1A002F2530 /* shaker.frag */,
+				4E7632FA1BC24C1A002F2530 /* shaker.vert */,
+				4E7632FB1BC24C1A002F2530 /* slitscan.frag */,
+				4E7632FC1BC24C1A002F2530 /* slitscan.vert */,
+				4E7632FD1BC24C1A002F2530 /* swell.frag */,
+				4E7632FE1BC24C1A002F2530 /* swell.vert */,
+				4E7632FF1BC24C1A002F2530 /* twist.frag */,
+				4E7633001BC24C1A002F2530 /* twist.vert */,
+			);
+			path = Shaders;
+			sourceTree = "<group>";
+		};
+		4E7633011BC24C1A002F2530 /* src */ = {
+			isa = PBXGroup;
+			children = (
+				4E7633021BC24C1A002F2530 /* ofxPostGlitch.cpp */,
+				4E7633031BC24C1A002F2530 /* ofxPostGlitch.h */,
+			);
+			path = src;
+			sourceTree = "<group>";
+		};
+		4E76330B1BC24C50002F2530 /* PostGlitch */ = {
+			isa = PBXGroup;
+			children = (
+				4E76330C1BC24C6A002F2530 /* PostGlitch.cpp */,
+				4E76330D1BC24C6A002F2530 /* PostGlitch.h */,
+			);
+			name = PostGlitch;
+			sourceTree = "<group>";
+		};
 		BB4B014C10F69532006C3DED /* addons */ = {
 			isa = PBXGroup;
 			children = (
+				4E7632A81BC24C1A002F2530 /* ofxPostGlitch */,
 				4E7632621BC20590002F2530 /* ofxSuperLog */,
 				4E12E4871BBF8A5E001D9BA2 /* ofxTween */,
 			);
@@ -577,6 +690,7 @@
 		E4B69E1C0A3A1BDC003C02F2 /* src */ = {
 			isa = PBXGroup;
 			children = (
+				4E76330B1BC24C50002F2530 /* PostGlitch */,
 				4E76329E1BC22299002F2530 /* GraphLog */,
 				4E7632611BC20579002F2530 /* SuperLog */,
 				4E12E4731BBECD6B001D9BA2 /* MotionGraphics */,
@@ -689,6 +803,7 @@
 			files = (
 				4E7632961BC205CF002F2530 /* ofxSuperLogUtil.cpp in Sources */,
 				4E7632591BC15AA1002F2530 /* AlphaSwiper.cpp in Sources */,
+				4E7633071BC24C1A002F2530 /* ofxPostGlitch.cpp in Sources */,
 				4EA457AC1BA9B38100AA8557 /* FadeBackgroundUtil.cpp in Sources */,
 				4E12E4D41BBF8A5E001D9BA2 /* ofxEasingCubic.cpp in Sources */,
 				4E5ED66C1BC0D85A004F1AF6 /* SwipeMode.cpp in Sources */,
@@ -717,6 +832,7 @@
 				4E12E4D21BBF8A5E001D9BA2 /* ofxEasingBounce.cpp in Sources */,
 				4E12E4DC1BBF8A5E001D9BA2 /* ofxTween.cpp in Sources */,
 				4E0B50EA1BB2E603008D839D /* PathManager.cpp in Sources */,
+				4E76330E1BC24C6A002F2530 /* PostGlitch.cpp in Sources */,
 				4E76328E1BC20591002F2530 /* README.md in Sources */,
 				4E76328F1BC20591002F2530 /* ofxSuperLog.cpp in Sources */,
 				4E5ED6671BC0D41D004F1AF6 /* StrechyRectSwiper.cpp in Sources */,
@@ -724,6 +840,7 @@
 				4E12E4D11BBF8A5E001D9BA2 /* ofxEasingBack.cpp in Sources */,
 				4E12E4D81BBF8A5E001D9BA2 /* ofxEasingQuad.cpp in Sources */,
 				4E12E4D51BBF8A5E001D9BA2 /* ofxEasingElastic.cpp in Sources */,
+				4E7633061BC24C1A002F2530 /* README.md in Sources */,
 				4E12E4D31BBF8A5E001D9BA2 /* ofxEasingCirc.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

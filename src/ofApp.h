@@ -14,6 +14,7 @@
 #include "StrechyRectSwiper.h"
 #include "ofxSuperLogUtil.h"
 #include "GraphLog.h"
+#include "PostGlitch.h"
 
 class ofApp : public ofBaseApp{
 
@@ -34,6 +35,8 @@ class ofApp : public ofBaseApp{
     
     ofxSuperLogUtil logutil;
     GraphLog graphLog;
+    PostGlitch postglitch;
+    ofFbo mFbo;
     int mode;
     
     //0

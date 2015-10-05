@@ -7,8 +7,8 @@ void ofApp::setup(){
     ofSetFrameRate(60);
     mode=0;
     logutil.init();
-    mFbo.allocate(ofGetHeight(), ofGetWidth());
-    postglitch.init(mFbo);
+    mFbo.allocate(ofGetWidth(), ofGetHeight());
+    postglitch.init(&mFbo);
     
     graphLog.setup();
     graphLog.set_height_limit(ofGetHeight()/2);

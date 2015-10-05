@@ -8,10 +8,10 @@
 
 #include "PostGlitch.h"
 
-void PostGlitch::init(ofFbo &argFbo){
+void PostGlitch::init(ofFbo *argFbo){
     ofSetVerticalSync(true); //垂直同期（処理するフレームと描画するフレームを合わせる）
-    mFbo = &argFbo;
-    mFbo->allocate(ofGetHeight(), ofGetWidth());
+    mFbo = argFbo;
+    mFbo->allocate(ofGetWidth(), ofGetHeight());
     mGlitch.setup(mFbo);
     shaderIndex=0;
     shaderSwitch=false;

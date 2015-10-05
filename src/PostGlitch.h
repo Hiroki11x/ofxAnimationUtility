@@ -19,7 +19,7 @@ private:
     int shaderIndex;
     bool shaderSwitch;
 public:
-    void init(ofFbo &argFbo);
+    void init(ofFbo *argFbo);
     void adapt_glitch_begin();
     void adapt_glitch_end();
     void draw_glitch();

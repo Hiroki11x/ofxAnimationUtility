@@ -33,6 +33,7 @@
 		4E76328F1BC20591002F2530 /* ofxSuperLog.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E7632871BC20591002F2530 /* ofxSuperLog.cpp */; };
 		4E7632901BC20591002F2530 /* ofxSuperLogDisplay.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E7632891BC20591002F2530 /* ofxSuperLogDisplay.cpp */; };
 		4E7632961BC205CF002F2530 /* ofxSuperLogUtil.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E7632941BC205CF002F2530 /* ofxSuperLogUtil.cpp */; };
+		4E7632A11BC222BB002F2530 /* GraphLog.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E76329F1BC222BB002F2530 /* GraphLog.cpp */; };
 		4E96DADE1BBD280700CEDB48 /* StatusCircle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E96DADC1BBD280700CEDB48 /* StatusCircle.cpp */; };
 		4EA457AC1BA9B38100AA8557 /* FadeBackgroundUtil.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4EA457AA1BA9B38100AA8557 /* FadeBackgroundUtil.cpp */; };
 		4EA457AF1BA9BA4B00AA8557 /* DelaunayUtil.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4EA457AD1BA9BA4B00AA8557 /* DelaunayUtil.cpp */; };
@@ -153,6 +154,8 @@
 		4E76328A1BC20591002F2530 /* ofxSuperLogDisplay.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ofxSuperLogDisplay.h; sourceTree = "<group>"; };
 		4E7632941BC205CF002F2530 /* ofxSuperLogUtil.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ofxSuperLogUtil.cpp; sourceTree = "<group>"; };
 		4E7632951BC205CF002F2530 /* ofxSuperLogUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ofxSuperLogUtil.h; sourceTree = "<group>"; };
+		4E76329F1BC222BB002F2530 /* GraphLog.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = GraphLog.cpp; sourceTree = "<group>"; };
+		4E7632A01BC222BB002F2530 /* GraphLog.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GraphLog.h; sourceTree = "<group>"; };
 		4E96DADC1BBD280700CEDB48 /* StatusCircle.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = StatusCircle.cpp; sourceTree = "<group>"; };
 		4E96DADD1BBD280700CEDB48 /* StatusCircle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StatusCircle.h; sourceTree = "<group>"; };
 		4EA457AA1BA9B38100AA8557 /* FadeBackgroundUtil.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FadeBackgroundUtil.cpp; sourceTree = "<group>"; };
@@ -494,6 +497,15 @@
 			path = src;
 			sourceTree = "<group>";
 		};
+		4E76329E1BC22299002F2530 /* GraphLog */ = {
+			isa = PBXGroup;
+			children = (
+				4E76329F1BC222BB002F2530 /* GraphLog.cpp */,
+				4E7632A01BC222BB002F2530 /* GraphLog.h */,
+			);
+			name = GraphLog;
+			sourceTree = "<group>";
+		};
 		BB4B014C10F69532006C3DED /* addons */ = {
 			isa = PBXGroup;
 			children = (
@@ -565,6 +577,7 @@
 		E4B69E1C0A3A1BDC003C02F2 /* src */ = {
 			isa = PBXGroup;
 			children = (
+				4E76329E1BC22299002F2530 /* GraphLog */,
 				4E7632611BC20579002F2530 /* SuperLog */,
 				4E12E4731BBECD6B001D9BA2 /* MotionGraphics */,
 				4E12E46E1BBEC9D7001D9BA2 /* Path */,
@@ -693,6 +706,7 @@
 				4E96DADE1BBD280700CEDB48 /* StatusCircle.cpp in Sources */,
 				4EFA93A01BB43E300049B580 /* LineBelt.cpp in Sources */,
 				4EA457B51BA9C0F800AA8557 /* LinePoints.cpp in Sources */,
+				4E7632A11BC222BB002F2530 /* GraphLog.cpp in Sources */,
 				4E5ED6741BC10DA8004F1AF6 /* SemiCirclePath.cpp in Sources */,
 				4E1655801BC0C43E00EBAD43 /* RectSwiper.cpp in Sources */,
 				E4B69E210A3A1BDC003C02F2 /* ofApp.cpp in Sources */,

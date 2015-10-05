@@ -13,6 +13,7 @@
 #include "RectSwiper.h"
 #include "StrechyRectSwiper.h"
 #include "ofxSuperLogUtil.h"
+#include "GraphLog.h"
 
 class ofApp : public ofBaseApp{
 
@@ -32,6 +33,7 @@ class ofApp : public ofBaseApp{
 		void gotMessage(ofMessage msg);
     
     ofxSuperLogUtil logutil;
+    GraphLog graphLog;
     int mode;
     
     //0

@@ -8,6 +8,9 @@ void ofApp::setup(){
     mode=0;
     logutil.init();
     
+    graphLog.setup();
+    graphLog.set_height_limit(ofGetHeight()/2);
+    
     //0
     alphaswiper.init();
     
@@ -46,6 +49,7 @@ void ofApp::setup(){
 
 //--------------------------------------------------------------
 void ofApp::update(){
+    graphLog.update(ofRandom(0,1));
     switch (mode) {
         case 2:
             //2
@@ -125,11 +129,13 @@ void ofApp::draw(){
         default:
             break;
     }
+    graphLog.draw();
 }
 
 
 //--------------------------------------------------------------
 void ofApp::keyPressed(int key){
+    graphLog.keyPressed(key);
     cout<<key<<endl;
     if(key == 'f'){
         ofToggleFullscreen();

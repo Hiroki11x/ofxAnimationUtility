@@ -26,7 +26,7 @@
 		<key>A8D3CFED5208BD26E280BC9FB210A0D16501DA4D</key>
 		<string>../..</string>
 		<key>B090D3E72F2C83A91517EC3C9E4CDCB5FAFED065</key>
-		<string>../../../../../addons/ofxSuperLog</string>
+		<string>../../../addons/ofxSuperLog</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>github.com:Hiroki11x/openFrameworks_AnimationUtility.git</string>

@@ -6,6 +6,7 @@ void ofApp::setup(){
     ofBackground(0);
     ofSetFrameRate(60);
     mode=0;
+    logutil.init();
     
     //0
     alphaswiper.init();
@@ -162,7 +163,7 @@ void ofApp::keyReleased(int key){
 
 //--------------------------------------------------------------
 void ofApp::mouseMoved(int x, int y ){
-
+    logutil.set_log(x);
 }
 
 //--------------------------------------------------------------

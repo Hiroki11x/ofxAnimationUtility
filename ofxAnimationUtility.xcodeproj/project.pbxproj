@@ -29,6 +29,10 @@
 		4E5ED66C1BC0D85A004F1AF6 /* SwipeMode.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E5ED66A1BC0D85A004F1AF6 /* SwipeMode.cpp */; };
 		4E5ED6741BC10DA8004F1AF6 /* SemiCirclePath.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E5ED6721BC10DA8004F1AF6 /* SemiCirclePath.cpp */; };
 		4E7632591BC15AA1002F2530 /* AlphaSwiper.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E7632571BC15AA1002F2530 /* AlphaSwiper.cpp */; };
+		4E76328E1BC20591002F2530 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 4E7632851BC20590002F2530 /* README.md */; };
+		4E76328F1BC20591002F2530 /* ofxSuperLog.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E7632871BC20591002F2530 /* ofxSuperLog.cpp */; };
+		4E7632901BC20591002F2530 /* ofxSuperLogDisplay.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E7632891BC20591002F2530 /* ofxSuperLogDisplay.cpp */; };
+		4E7632961BC205CF002F2530 /* ofxSuperLogUtil.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E7632941BC205CF002F2530 /* ofxSuperLogUtil.cpp */; };
 		4E96DADE1BBD280700CEDB48 /* StatusCircle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E96DADC1BBD280700CEDB48 /* StatusCircle.cpp */; };
 		4EA457AC1BA9B38100AA8557 /* FadeBackgroundUtil.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4EA457AA1BA9B38100AA8557 /* FadeBackgroundUtil.cpp */; };
 		4EA457AF1BA9BA4B00AA8557 /* DelaunayUtil.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4EA457AD1BA9BA4B00AA8557 /* DelaunayUtil.cpp */; };
@@ -140,6 +144,15 @@
 		4E5ED6731BC10DA8004F1AF6 /* SemiCirclePath.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SemiCirclePath.h; sourceTree = "<group>"; };
 		4E7632571BC15AA1002F2530 /* AlphaSwiper.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = AlphaSwiper.cpp; sourceTree = "<group>"; };
 		4E7632581BC15AA1002F2530 /* AlphaSwiper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AlphaSwiper.h; sourceTree = "<group>"; };
+		4E7632631BC20590002F2530 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		4E7632841BC20590002F2530 /* ofxaddons_thumbnail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ofxaddons_thumbnail.png; sourceTree = "<group>"; };
+		4E7632851BC20590002F2530 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		4E7632871BC20591002F2530 /* ofxSuperLog.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ofxSuperLog.cpp; sourceTree = "<group>"; };
+		4E7632881BC20591002F2530 /* ofxSuperLog.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ofxSuperLog.h; sourceTree = "<group>"; };
+		4E7632891BC20591002F2530 /* ofxSuperLogDisplay.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ofxSuperLogDisplay.cpp; sourceTree = "<group>"; };
+		4E76328A1BC20591002F2530 /* ofxSuperLogDisplay.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ofxSuperLogDisplay.h; sourceTree = "<group>"; };
+		4E7632941BC205CF002F2530 /* ofxSuperLogUtil.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ofxSuperLogUtil.cpp; sourceTree = "<group>"; };
+		4E7632951BC205CF002F2530 /* ofxSuperLogUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ofxSuperLogUtil.h; sourceTree = "<group>"; };
 		4E96DADC1BBD280700CEDB48 /* StatusCircle.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = StatusCircle.cpp; sourceTree = "<group>"; };
 		4E96DADD1BBD280700CEDB48 /* StatusCircle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StatusCircle.h; sourceTree = "<group>"; };
 		4EA457AA1BA9B38100AA8557 /* FadeBackgroundUtil.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FadeBackgroundUtil.cpp; sourceTree = "<group>"; };
@@ -302,8 +315,8 @@
 		4E12E4731BBECD6B001D9BA2 /* MotionGraphics */ = {
 			isa = PBXGroup;
 			children = (
-				4E7632561BC15929002F2530 /* AlphaSwiper */,
 				4E5ED6641BC0D405004F1AF6 /* Base */,
+				4E7632561BC15929002F2530 /* AlphaSwiper */,
 				4E5ED6631BC0D3C2004F1AF6 /* StrechyRectSwiper */,
 				4E16557E1BC0C41200EBAD43 /* RectSwiper */,
 			);
@@ -449,9 +462,42 @@
 			name = AlphaSwiper;
 			sourceTree = "<group>";
 		};
+		4E7632611BC20579002F2530 /* SuperLog */ = {
+			isa = PBXGroup;
+			children = (
+				4E7632941BC205CF002F2530 /* ofxSuperLogUtil.cpp */,
+				4E7632951BC205CF002F2530 /* ofxSuperLogUtil.h */,
+			);
+			name = SuperLog;
+			sourceTree = "<group>";
+		};
+		4E7632621BC20590002F2530 /* ofxSuperLog */ = {
+			isa = PBXGroup;
+			children = (
+				4E7632631BC20590002F2530 /* .gitignore */,
+				4E7632841BC20590002F2530 /* ofxaddons_thumbnail.png */,
+				4E7632851BC20590002F2530 /* README.md */,
+				4E7632861BC20591002F2530 /* src */,
+			);
+			name = ofxSuperLog;
+			path = ../../../addons/ofxSuperLog;
+			sourceTree = "<group>";
+		};
+		4E7632861BC20591002F2530 /* src */ = {
+			isa = PBXGroup;
+			children = (
+				4E7632871BC20591002F2530 /* ofxSuperLog.cpp */,
+				4E7632881BC20591002F2530 /* ofxSuperLog.h */,
+				4E7632891BC20591002F2530 /* ofxSuperLogDisplay.cpp */,
+				4E76328A1BC20591002F2530 /* ofxSuperLogDisplay.h */,
+			);
+			path = src;
+			sourceTree = "<group>";
+		};
 		BB4B014C10F69532006C3DED /* addons */ = {
 			isa = PBXGroup;
 			children = (
+				4E7632621BC20590002F2530 /* ofxSuperLog */,
 				4E12E4871BBF8A5E001D9BA2 /* ofxTween */,
 			);
 			name = addons;
@@ -519,6 +565,7 @@
 		E4B69E1C0A3A1BDC003C02F2 /* src */ = {
 			isa = PBXGroup;
 			children = (
+				4E7632611BC20579002F2530 /* SuperLog */,
 				4E12E4731BBECD6B001D9BA2 /* MotionGraphics */,
 				4E12E46E1BBEC9D7001D9BA2 /* Path */,
 				4E12E46C1BBEC99F001D9BA2 /* Circulars */,
@@ -627,10 +674,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4E7632961BC205CF002F2530 /* ofxSuperLogUtil.cpp in Sources */,
 				4E7632591BC15AA1002F2530 /* AlphaSwiper.cpp in Sources */,
 				4EA457AC1BA9B38100AA8557 /* FadeBackgroundUtil.cpp in Sources */,
 				4E12E4D41BBF8A5E001D9BA2 /* ofxEasingCubic.cpp in Sources */,
 				4E5ED66C1BC0D85A004F1AF6 /* SwipeMode.cpp in Sources */,
+				4E7632901BC20591002F2530 /* ofxSuperLogDisplay.cpp in Sources */,
 				E4B69E200A3A1BDC003C02F2 /* main.cpp in Sources */,
 				4E12E4ED1BBF8C71001D9BA2 /* ofxTweenUtil.cpp in Sources */,
 				4EA457AF1BA9BA4B00AA8557 /* DelaunayUtil.cpp in Sources */,
@@ -654,6 +703,8 @@
 				4E12E4D21BBF8A5E001D9BA2 /* ofxEasingBounce.cpp in Sources */,
 				4E12E4DC1BBF8A5E001D9BA2 /* ofxTween.cpp in Sources */,
 				4E0B50EA1BB2E603008D839D /* PathManager.cpp in Sources */,
+				4E76328E1BC20591002F2530 /* README.md in Sources */,
+				4E76328F1BC20591002F2530 /* ofxSuperLog.cpp in Sources */,
 				4E5ED6671BC0D41D004F1AF6 /* StrechyRectSwiper.cpp in Sources */,
 				4E12E4761BBECF20001D9BA2 /* FadeMotionGraphics.cpp in Sources */,
 				4E12E4D11BBF8A5E001D9BA2 /* ofxEasingBack.cpp in Sources */,

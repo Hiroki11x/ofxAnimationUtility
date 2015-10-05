@@ -14,6 +14,8 @@
 		<string>https://github.com/arturoc/ofxTween.git</string>
 		<key>A8D3CFED5208BD26E280BC9FB210A0D16501DA4D</key>
 		<string>github.com:Hiroki11x/openFrameworks_AnimationUtility.git</string>
+		<key>B090D3E72F2C83A91517EC3C9E4CDCB5FAFED065</key>
+		<string>github.com:mazbox/ofxSuperLog.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>ofxAnimationUtility.xcodeproj</string>
@@ -23,6 +25,8 @@
 		<string>../../../addons/ofxTween</string>
 		<key>A8D3CFED5208BD26E280BC9FB210A0D16501DA4D</key>
 		<string>../..</string>
+		<key>B090D3E72F2C83A91517EC3C9E4CDCB5FAFED065</key>
+		<string>../../../../../addons/ofxSuperLog</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>github.com:Hiroki11x/openFrameworks_AnimationUtility.git</string>
@@ -39,6 +43,14 @@
 			<string>A8D3CFED5208BD26E280BC9FB210A0D16501DA4D</string>
 			<key>IDESourceControlWCCName</key>
 			<string>ofxAnimationUtility</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B090D3E72F2C83A91517EC3C9E4CDCB5FAFED065</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxSuperLog</string>
 		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>

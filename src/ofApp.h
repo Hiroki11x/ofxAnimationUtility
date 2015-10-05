@@ -12,7 +12,7 @@
 #include "FadeMotionGraphics.h"
 #include "RectSwiper.h"
 #include "StrechyRectSwiper.h"
-
+#include "ofxSuperLogUtil.h"
 
 class ofApp : public ofBaseApp{
 
@@ -31,7 +31,7 @@ class ofApp : public ofBaseApp{
 		void dragEvent(ofDragInfo dragInfo);
 		void gotMessage(ofMessage msg);
     
-    
+    ofxSuperLogUtil logutil;
     int mode;
     
     //0

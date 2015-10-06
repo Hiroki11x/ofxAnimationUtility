@@ -57,8 +57,9 @@ void ExplodeAnimation::init(){
 
 void ExplodeAnimation::update(){
     int random_max = triangles.size();
-    int index1 = ofRandom(random_max),index2,index3;
+    int index1,index2,index3;
     for(int i =0;i<connections.size();i++){
+        index1 = ofRandom(random_max);
         index2 = ofRandom(random_max);
         index3 = ofRandom(random_max);
         connections.at(i).set_node(triangles.at(index1).get_position(), triangles.at(index2).get_position());

@@ -36,8 +36,11 @@ void ofApp::setup(){
     //6
     circularvertexes.setup();
     
-    explodeanimation.set_position(ofVec2f(ofGetWidth()/2,ofGetHeight()/2));
-    explodeanimation.init();
+    for(int i =0;i<4;i++){
+        explodeanimations.push_back(ExplodeAnimation());
+        explodeanimations.back().set_position(ofVec2f(ofRandom(ofGetWidth()),ofRandom(ofGetHeight())));
+        explodeanimations.back().init();
+    }
     
     //7
     fademotiongraphics.init();
@@ -116,8 +119,11 @@ void ofApp::update(){
             break;
         case 6:
             //6
-            circularvertexes.draw();
-            explodeanimation.draw();
+//            circularvertexes.draw();
+            for(int i=0; i<explodeanimations.size();i++){
+                explodeanimations.at(i).draw();
+            }
+            
             ofDrawBitmapString("[6]CircularVertexes", 20,20);
             break;
         case 7:
@@ -205,8 +211,12 @@ void ofApp::mousePressed(int x, int y, int button){
             delaunay.generate(x,y);
             break;
         case 6:
-            explodeanimation.init();
-            explodeanimation.set_position(ofVec2f(ofGetWidth()/2,ofGetHeight()/2));
+            explodeanimations.clear();
+            for(int i =0;i<4;i++){
+                explodeanimations.push_back(ExplodeAnimation());
+                explodeanimations.back().set_position(ofVec2f(ofRandom(ofGetWidth()),ofRandom(ofGetHeight())));
+                explodeanimations.back().init();
+            }
             break;
         case 8:
             rectswiper.init();

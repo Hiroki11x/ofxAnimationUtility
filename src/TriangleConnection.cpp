@@ -24,6 +24,6 @@ void TriangleConnection::init(){
 }
 void TriangleConnection::draw(){
     ofFill();
-    ofSetColor(color,ofRandom(20));
+    ofSetColor(color,ofRandom(3,8));
     ofTriangle(*pos1, *pos2, *pos3);
 }

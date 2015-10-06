@@ -62,7 +62,7 @@ class ofApp : public ofBaseApp{
     
     //6
     CircularVertexes circularvertexes;
-    ExplodeAnimation explodeanimation;
+    vector<ExplodeAnimation> explodeanimations;
     
     //7
     FadeMotionGraphics fademotiongraphics;

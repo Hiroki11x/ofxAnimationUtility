@@ -27,7 +27,7 @@ public:
     void update();
     void draw();
     
-    ofVec2f get_position();
+    ofVec2f* get_position();
     void set_size(float size);
     void set_speed(ofVec2f speed);
     void set_position(ofVec2f position);

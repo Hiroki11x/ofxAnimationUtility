@@ -12,8 +12,8 @@ void TriangleElement::set_color(ofColor arg_color){
     color = arg_color;
 }
 
-ofVec2f TriangleElement::get_position(){
-    return position;
+ofVec2f* TriangleElement::get_position(){
+    return &position;
 }
 
 void TriangleElement::set_size(float size){

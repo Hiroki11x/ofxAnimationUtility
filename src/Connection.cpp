@@ -8,7 +8,7 @@
 
 #include "Connection.h"
 
-void Connection::set_node(ofVec2f start, ofVec2f end){
+void Connection::set_node(ofVec2f* start, ofVec2f* end){
     start_pos = start;
     end_pos = end;
 }
@@ -19,5 +19,5 @@ void Connection::init(){
 }
 void Connection::draw(){
 //    ofSetColor(255);
-    ofLine(start_pos, end_pos);
+    ofLine(*start_pos, *end_pos);
 }

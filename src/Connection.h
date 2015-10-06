@@ -13,10 +13,11 @@
 
 class Connection{
 private:
-    ofVec2f start_pos,end_pos;
+    ofVec2f* start_pos;
+    ofVec2f* end_pos;
     ofColor color;
 public:
-    void set_node(ofVec2f start, ofVec2f end);
+    void set_node(ofVec2f* start, ofVec2f* end);
     void init();
     void draw();
 };

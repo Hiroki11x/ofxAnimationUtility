@@ -56,20 +56,13 @@ void ExplodeAnimation::init(){
 }
 
 void ExplodeAnimation::update(){
-    int random_max = triangles.size();
-    int index1 = ofRandom(random_max),index2,index3;
-    for(int i =0;i<connections.size();i++){
-        index2 = ofRandom(random_max);
-        index3 = ofRandom(random_max);
-        connections.at(i).set_node(triangles.at(index1).get_position(), triangles.at(index2).get_position());
-    }
-    
-    for(int i =0;i<triangleconnections.size();i++){
-        index1 = ofRandom(random_max);
-        index2 = ofRandom(random_max);
-        index3 = ofRandom(random_max);
-        triangleconnections.at(i).set_3_pos(triangles.at(index1).get_position(), triangles.at(index2).get_position(), triangles.at(index3).get_position());
-    }
+//    int random_max = triangles.size();
+//    int index1 = ofRandom(random_max),index2,index3;
+//    for(int i =0;i<connections.size();i++){
+//        index2 = ofRandom(random_max);
+//        index3 = ofRandom(random_max);
+//        connections.at(i).set_node(triangles.at(index1).get_position(), triangles.at(index2).get_position());
+//    }
 }
 
 void ExplodeAnimation::draw(){

@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		4E0B50EA1BB2E603008D839D /* PathManager.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E0B50E81BB2E603008D839D /* PathManager.cpp */; };
 		4E12E4761BBECF20001D9BA2 /* FadeMotionGraphics.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E12E4741BBECF20001D9BA2 /* FadeMotionGraphics.cpp */; };
-		4E12E47C1BBEE1D4001D9BA2 /* RectCircular.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E12E47B1BBEE1D4001D9BA2 /* RectCircular.cpp */; };
 		4E12E4D01BBF8A5E001D9BA2 /* ofxEasing.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E12E4B01BBF8A5E001D9BA2 /* ofxEasing.cpp */; };
 		4E12E4D11BBF8A5E001D9BA2 /* ofxEasingBack.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E12E4B21BBF8A5E001D9BA2 /* ofxEasingBack.cpp */; };
 		4E12E4D21BBF8A5E001D9BA2 /* ofxEasingBounce.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E12E4B41BBF8A5E001D9BA2 /* ofxEasingBounce.cpp */; };
@@ -37,11 +36,21 @@
 		4E7633061BC24C1A002F2530 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 4E7632DD1BC24C1A002F2530 /* README.md */; };
 		4E7633071BC24C1A002F2530 /* ofxPostGlitch.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E7633021BC24C1A002F2530 /* ofxPostGlitch.cpp */; };
 		4E76330E1BC24C6A002F2530 /* PostGlitch.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E76330C1BC24C6A002F2530 /* PostGlitch.cpp */; };
+		4E76337F1BC2B879002F2530 /* ExplodeAnimation.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E76337D1BC2B879002F2530 /* ExplodeAnimation.cpp */; };
+		4E7633831BC2C1C7002F2530 /* TriangleElement.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E7633811BC2C1C7002F2530 /* TriangleElement.cpp */; };
+		4E7633871BC2CF86002F2530 /* JsonReceiver.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E7633851BC2CF86002F2530 /* JsonReceiver.cpp */; };
+		4E7633E01BC2D2E5002F2530 /* jsoncpp.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E7633CE1BC2D2E5002F2530 /* jsoncpp.cpp */; };
+		4E7633E11BC2D2E5002F2530 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 4E7633CF1BC2D2E5002F2530 /* README.md */; };
+		4E7633E21BC2D2E5002F2530 /* ofxJSONElement.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E7633D21BC2D2E5002F2530 /* ofxJSONElement.cpp */; };
+		4E7633F21BC2D401002F2530 /* JsonScene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E7633F01BC2D401002F2530 /* JsonScene.cpp */; };
+		4E7633F51BC364EE002F2530 /* Connection.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E7633F31BC364EE002F2530 /* Connection.cpp */; };
+		4E8D036D1BC4121600B55810 /* TriangleConnection.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E8D036B1BC4121600B55810 /* TriangleConnection.cpp */; };
 		4E96DADE1BBD280700CEDB48 /* StatusCircle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E96DADC1BBD280700CEDB48 /* StatusCircle.cpp */; };
 		4EA457AC1BA9B38100AA8557 /* FadeBackgroundUtil.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4EA457AA1BA9B38100AA8557 /* FadeBackgroundUtil.cpp */; };
 		4EA457AF1BA9BA4B00AA8557 /* DelaunayUtil.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4EA457AD1BA9BA4B00AA8557 /* DelaunayUtil.cpp */; };
 		4EA457B21BA9C0D100AA8557 /* TrianglePoints.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4EA457B01BA9C0D100AA8557 /* TrianglePoints.cpp */; };
 		4EA457B51BA9C0F800AA8557 /* LinePoints.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4EA457B31BA9C0F800AA8557 /* LinePoints.cpp */; };
+		4EBB29A71BC3C1EF0062B974 /* RectCircular.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4EBB29A61BC3C1EF0062B974 /* RectCircular.cpp */; };
 		4EFA93A01BB43E300049B580 /* LineBelt.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4EFA939E1BB43E300049B580 /* LineBelt.cpp */; };
 		4EFA93A31BB6C4500049B580 /* CircularAnimation.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4EFA93A11BB6C4500049B580 /* CircularAnimation.cpp */; };
 		4EFA93A61BB6DF590049B580 /* CircularAnimationManager.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4EFA93A41BB6DF590049B580 /* CircularAnimationManager.cpp */; };
@@ -102,7 +111,6 @@
 		4E0B50E91BB2E603008D839D /* PathManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PathManager.h; sourceTree = "<group>"; };
 		4E12E4741BBECF20001D9BA2 /* FadeMotionGraphics.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FadeMotionGraphics.cpp; sourceTree = "<group>"; };
 		4E12E4751BBECF20001D9BA2 /* FadeMotionGraphics.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FadeMotionGraphics.h; sourceTree = "<group>"; };
-		4E12E47B1BBEE1D4001D9BA2 /* RectCircular.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = RectCircular.cpp; path = ../../../../../../../.Trash/RectCircular.cpp; sourceTree = "<group>"; };
 		4E12E47D1BBEE21B001D9BA2 /* RectCircular.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RectCircular.h; sourceTree = "<group>"; };
 		4E12E4881BBF8A5E001D9BA2 /* .cproject */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = .cproject; sourceTree = "<group>"; };
 		4E12E4891BBF8A5E001D9BA2 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
@@ -198,6 +206,28 @@
 		4E7633031BC24C1A002F2530 /* ofxPostGlitch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ofxPostGlitch.h; sourceTree = "<group>"; };
 		4E76330C1BC24C6A002F2530 /* PostGlitch.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = PostGlitch.cpp; sourceTree = "<group>"; };
 		4E76330D1BC24C6A002F2530 /* PostGlitch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostGlitch.h; sourceTree = "<group>"; };
+		4E76337D1BC2B879002F2530 /* ExplodeAnimation.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ExplodeAnimation.cpp; sourceTree = "<group>"; };
+		4E76337E1BC2B879002F2530 /* ExplodeAnimation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ExplodeAnimation.h; sourceTree = "<group>"; };
+		4E7633811BC2C1C7002F2530 /* TriangleElement.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = TriangleElement.cpp; sourceTree = "<group>"; };
+		4E7633821BC2C1C7002F2530 /* TriangleElement.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TriangleElement.h; sourceTree = "<group>"; };
+		4E7633851BC2CF86002F2530 /* JsonReceiver.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = JsonReceiver.cpp; sourceTree = "<group>"; };
+		4E7633861BC2CF86002F2530 /* JsonReceiver.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JsonReceiver.h; sourceTree = "<group>"; };
+		4E7633891BC2D2E5002F2530 /* .gitattributes */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitattributes; sourceTree = "<group>"; };
+		4E76338A1BC2D2E5002F2530 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		4E76338B1BC2D2E5002F2530 /* addon_config.mk */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = addon_config.mk; sourceTree = "<group>"; };
+		4E7633CB1BC2D2E5002F2530 /* json-forwards.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "json-forwards.h"; sourceTree = "<group>"; };
+		4E7633CC1BC2D2E5002F2530 /* json.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = json.h; sourceTree = "<group>"; };
+		4E7633CE1BC2D2E5002F2530 /* jsoncpp.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = jsoncpp.cpp; sourceTree = "<group>"; };
+		4E7633CF1BC2D2E5002F2530 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		4E7633D11BC2D2E5002F2530 /* ofxJSON.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ofxJSON.h; sourceTree = "<group>"; };
+		4E7633D21BC2D2E5002F2530 /* ofxJSONElement.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ofxJSONElement.cpp; sourceTree = "<group>"; };
+		4E7633D31BC2D2E5002F2530 /* ofxJSONElement.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ofxJSONElement.h; sourceTree = "<group>"; };
+		4E7633F01BC2D401002F2530 /* JsonScene.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = JsonScene.cpp; sourceTree = "<group>"; };
+		4E7633F11BC2D401002F2530 /* JsonScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JsonScene.h; sourceTree = "<group>"; };
+		4E7633F31BC364EE002F2530 /* Connection.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Connection.cpp; sourceTree = "<group>"; };
+		4E7633F41BC364EE002F2530 /* Connection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Connection.h; sourceTree = "<group>"; };
+		4E8D036B1BC4121600B55810 /* TriangleConnection.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = TriangleConnection.cpp; sourceTree = "<group>"; };
+		4E8D036C1BC4121600B55810 /* TriangleConnection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TriangleConnection.h; sourceTree = "<group>"; };
 		4E96DADC1BBD280700CEDB48 /* StatusCircle.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = StatusCircle.cpp; sourceTree = "<group>"; };
 		4E96DADD1BBD280700CEDB48 /* StatusCircle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StatusCircle.h; sourceTree = "<group>"; };
 		4EA457AA1BA9B38100AA8557 /* FadeBackgroundUtil.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FadeBackgroundUtil.cpp; sourceTree = "<group>"; };
@@ -208,6 +238,7 @@
 		4EA457B11BA9C0D100AA8557 /* TrianglePoints.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TrianglePoints.h; sourceTree = "<group>"; };
 		4EA457B31BA9C0F800AA8557 /* LinePoints.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = LinePoints.cpp; sourceTree = "<group>"; };
 		4EA457B41BA9C0F800AA8557 /* LinePoints.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LinePoints.h; sourceTree = "<group>"; };
+		4EBB29A61BC3C1EF0062B974 /* RectCircular.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = RectCircular.cpp; sourceTree = "<group>"; };
 		4EFA939E1BB43E300049B580 /* LineBelt.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = LineBelt.cpp; sourceTree = "<group>"; };
 		4EFA939F1BB43E300049B580 /* LineBelt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LineBelt.h; sourceTree = "<group>"; };
 		4EFA93A11BB6C4500049B580 /* CircularAnimation.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CircularAnimation.cpp; sourceTree = "<group>"; };
@@ -226,7 +257,7 @@
 		E45BE9770E8CC7DD009D7055 /* CoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreServices.framework; path = /System/Library/Frameworks/CoreServices.framework; sourceTree = "<absolute>"; };
 		E45BE9790E8CC7DD009D7055 /* OpenGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGL.framework; path = /System/Library/Frameworks/OpenGL.framework; sourceTree = "<absolute>"; };
 		E45BE97A0E8CC7DD009D7055 /* QuickTime.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuickTime.framework; path = /System/Library/Frameworks/QuickTime.framework; sourceTree = "<absolute>"; };
-		E4B69B5B0A3A1756003C02F2 /* ofxAnimationUtilityDebug.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ofxAnimationUtilityDebug.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E4B69B5B0A3A1756003C02F2 /* ofxAnimationUtility.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = ofxAnimationUtility.app; path = /Users/hirokinaganuma/Documents/hackenv/of_v0.8.4_osx_release/apps/Mau2015/ofxAnimationUtility/bin/ofxAnimationUtility.app; sourceTree = "<absolute>"; };
 		E4B69E1D0A3A1BDC003C02F2 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.cpp.cpp; name = main.cpp; path = src/main.cpp; sourceTree = SOURCE_ROOT; };
 		E4B69E1E0A3A1BDC003C02F2 /* ofApp.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = ofApp.cpp; path = src/ofApp.cpp; sourceTree = SOURCE_ROOT; };
 		E4B69E1F0A3A1BDC003C02F2 /* ofApp.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ofApp.h; path = src/ofApp.h; sourceTree = SOURCE_ROOT; };
@@ -360,6 +391,7 @@
 		4E12E4731BBECD6B001D9BA2 /* MotionGraphics */ = {
 			isa = PBXGroup;
 			children = (
+				4E76337C1BC2B4F0002F2530 /* ExplodeAnimation */,
 				4E5ED6641BC0D405004F1AF6 /* Base */,
 				4E7632561BC15929002F2530 /* AlphaSwiper */,
 				4E5ED6631BC0D3C2004F1AF6 /* StrechyRectSwiper */,
@@ -372,7 +404,7 @@
 			isa = PBXGroup;
 			children = (
 				4E12E47D1BBEE21B001D9BA2 /* RectCircular.h */,
-				4E12E47B1BBEE1D4001D9BA2 /* RectCircular.cpp */,
+				4EBB29A61BC3C1EF0062B974 /* RectCircular.cpp */,
 			);
 			name = Model;
 			sourceTree = "<group>";
@@ -618,9 +650,118 @@
 			name = PostGlitch;
 			sourceTree = "<group>";
 		};
+		4E76337C1BC2B4F0002F2530 /* ExplodeAnimation */ = {
+			isa = PBXGroup;
+			children = (
+				4E7633801BC2C1B1002F2530 /* Element */,
+				4E76337D1BC2B879002F2530 /* ExplodeAnimation.cpp */,
+				4E76337E1BC2B879002F2530 /* ExplodeAnimation.h */,
+			);
+			name = ExplodeAnimation;
+			sourceTree = "<group>";
+		};
+		4E7633801BC2C1B1002F2530 /* Element */ = {
+			isa = PBXGroup;
+			children = (
+				4E7633811BC2C1C7002F2530 /* TriangleElement.cpp */,
+				4E7633821BC2C1C7002F2530 /* TriangleElement.h */,
+				4E7633F31BC364EE002F2530 /* Connection.cpp */,
+				4E7633F41BC364EE002F2530 /* Connection.h */,
+				4E8D036B1BC4121600B55810 /* TriangleConnection.cpp */,
+				4E8D036C1BC4121600B55810 /* TriangleConnection.h */,
+			);
+			name = Element;
+			sourceTree = "<group>";
+		};
+		4E7633841BC2CF76002F2530 /* JsonReceiver */ = {
+			isa = PBXGroup;
+			children = (
+				4E7633851BC2CF86002F2530 /* JsonReceiver.cpp */,
+				4E7633861BC2CF86002F2530 /* JsonReceiver.h */,
+			);
+			name = JsonReceiver;
+			sourceTree = "<group>";
+		};
+		4E7633881BC2D2E5002F2530 /* ofxJSON */ = {
+			isa = PBXGroup;
+			children = (
+				4E7633891BC2D2E5002F2530 /* .gitattributes */,
+				4E76338A1BC2D2E5002F2530 /* .gitignore */,
+				4E76338B1BC2D2E5002F2530 /* addon_config.mk */,
+				4E7633C71BC2D2E5002F2530 /* libs */,
+				4E7633CF1BC2D2E5002F2530 /* README.md */,
+				4E7633D01BC2D2E5002F2530 /* src */,
+			);
+			name = ofxJSON;
+			path = ../../../addons/ofxJSON;
+			sourceTree = "<group>";
+		};
+		4E7633C71BC2D2E5002F2530 /* libs */ = {
+			isa = PBXGroup;
+			children = (
+				4E7633C81BC2D2E5002F2530 /* jsoncpp */,
+			);
+			path = libs;
+			sourceTree = "<group>";
+		};
+		4E7633C81BC2D2E5002F2530 /* jsoncpp */ = {
+			isa = PBXGroup;
+			children = (
+				4E7633C91BC2D2E5002F2530 /* include */,
+				4E7633CD1BC2D2E5002F2530 /* src */,
+			);
+			path = jsoncpp;
+			sourceTree = "<group>";
+		};
+		4E7633C91BC2D2E5002F2530 /* include */ = {
+			isa = PBXGroup;
+			children = (
+				4E7633CA1BC2D2E5002F2530 /* json */,
+			);
+			path = include;
+			sourceTree = "<group>";
+		};
+		4E7633CA1BC2D2E5002F2530 /* json */ = {
+			isa = PBXGroup;
+			children = (
+				4E7633CB1BC2D2E5002F2530 /* json-forwards.h */,
+				4E7633CC1BC2D2E5002F2530 /* json.h */,
+			);
+			path = json;
+			sourceTree = "<group>";
+		};
+		4E7633CD1BC2D2E5002F2530 /* src */ = {
+			isa = PBXGroup;
+			children = (
+				4E7633CE1BC2D2E5002F2530 /* jsoncpp.cpp */,
+			);
+			path = src;
+			sourceTree = "<group>";
+		};
+		4E7633D01BC2D2E5002F2530 /* src */ = {
+			isa = PBXGroup;
+			children = (
+				4E7633D11BC2D2E5002F2530 /* ofxJSON.h */,
+				4E7633D21BC2D2E5002F2530 /* ofxJSONElement.cpp */,
+				4E7633D31BC2D2E5002F2530 /* ofxJSONElement.h */,
+			);
+			path = src;
+			sourceTree = "<group>";
+		};
+		4E7633EF1BC2D3E5002F2530 /* JsonScene */ = {
+			isa = PBXGroup;
+			children = (
+				4E7633841BC2CF76002F2530 /* JsonReceiver */,
+				4E7633F01BC2D401002F2530 /* JsonScene.cpp */,
+				4E7633F11BC2D401002F2530 /* JsonScene.h */,
+			);
+			name = JsonScene;
+			sourceTree = "<group>";
+		};
 		BB4B014C10F69532006C3DED /* addons */ = {
 			isa = PBXGroup;
 			children = (
+				4E7633881BC2D2E5002F2530 /* ofxJSON */,
 				4E7632A81BC24C1A002F2530 /* ofxPostGlitch */,
 				4E7632621BC20590002F2530 /* ofxSuperLog */,
 				4E12E4871BBF8A5E001D9BA2 /* ofxTween */,
@@ -683,13 +824,13 @@
 				E4EEC9E9138DF44700A80321 /* openFrameworks */,
 				BB4B014C10F69532006C3DED /* addons */,
 				E45BE5980E8CC70C009D7055 /* frameworks */,
-				E4B69B5B0A3A1756003C02F2 /* ofxAnimationUtilityDebug.app */,
 			);
 			sourceTree = "<group>";
 		};
 		E4B69E1C0A3A1BDC003C02F2 /* src */ = {
 			isa = PBXGroup;
 			children = (
+				4E7633EF1BC2D3E5002F2530 /* JsonScene */,
 				4E76330B1BC24C50002F2530 /* PostGlitch */,
 				4E76329E1BC22299002F2530 /* GraphLog */,
 				4E7632611BC20579002F2530 /* SuperLog */,
@@ -733,7 +874,7 @@
 			);
 			name = ofxAnimationUtility;
 			productName = myOFApp;
-			productReference = E4B69B5B0A3A1756003C02F2 /* ofxAnimationUtilityDebug.app */;
+			productReference = E4B69B5B0A3A1756003C02F2 /* ofxAnimationUtility.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -801,26 +942,33 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4E7633E01BC2D2E5002F2530 /* jsoncpp.cpp in Sources */,
 				4E7632961BC205CF002F2530 /* ofxSuperLogUtil.cpp in Sources */,
 				4E7632591BC15AA1002F2530 /* AlphaSwiper.cpp in Sources */,
 				4E7633071BC24C1A002F2530 /* ofxPostGlitch.cpp in Sources */,
 				4EA457AC1BA9B38100AA8557 /* FadeBackgroundUtil.cpp in Sources */,
 				4E12E4D41BBF8A5E001D9BA2 /* ofxEasingCubic.cpp in Sources */,
+				4E7633F21BC2D401002F2530 /* JsonScene.cpp in Sources */,
 				4E5ED66C1BC0D85A004F1AF6 /* SwipeMode.cpp in Sources */,
 				4E7632901BC20591002F2530 /* ofxSuperLogDisplay.cpp in Sources */,
 				E4B69E200A3A1BDC003C02F2 /* main.cpp in Sources */,
+				4E7633831BC2C1C7002F2530 /* TriangleElement.cpp in Sources */,
 				4E12E4ED1BBF8C71001D9BA2 /* ofxTweenUtil.cpp in Sources */,
 				4EA457AF1BA9BA4B00AA8557 /* DelaunayUtil.cpp in Sources */,
+				4E8D036D1BC4121600B55810 /* TriangleConnection.cpp in Sources */,
 				4E12E4D61BBF8A5E001D9BA2 /* ofxEasingExpo.cpp in Sources */,
-				4E12E47C1BBEE1D4001D9BA2 /* RectCircular.cpp in Sources */,
+				4E76337F1BC2B879002F2530 /* ExplodeAnimation.cpp in Sources */,
 				4EFA93A61BB6DF590049B580 /* CircularAnimationManager.cpp in Sources */,
 				4EFA93AA1BB7BE110049B580 /* CircularVertexes.cpp in Sources */,
+				4E7633871BC2CF86002F2530 /* JsonReceiver.cpp in Sources */,
+				4EBB29A71BC3C1EF0062B974 /* RectCircular.cpp in Sources */,
 				4EA457B21BA9C0D100AA8557 /* TrianglePoints.cpp in Sources */,
 				4EFA93A31BB6C4500049B580 /* CircularAnimation.cpp in Sources */,
 				4E12E4D01BBF8A5E001D9BA2 /* ofxEasing.cpp in Sources */,
 				4E96DADE1BBD280700CEDB48 /* StatusCircle.cpp in Sources */,
 				4EFA93A01BB43E300049B580 /* LineBelt.cpp in Sources */,
 				4EA457B51BA9C0F800AA8557 /* LinePoints.cpp in Sources */,
+				4E7633F51BC364EE002F2530 /* Connection.cpp in Sources */,
 				4E7632A11BC222BB002F2530 /* GraphLog.cpp in Sources */,
 				4E5ED6741BC10DA8004F1AF6 /* SemiCirclePath.cpp in Sources */,
 				4E1655801BC0C43E00EBAD43 /* RectSwiper.cpp in Sources */,
@@ -829,6 +977,7 @@
 				4E12E4DA1BBF8A5E001D9BA2 /* ofxEasingQuint.cpp in Sources */,
 				4E12E4DB1BBF8A5E001D9BA2 /* ofxEasingSine.cpp in Sources */,
 				4E12E4D91BBF8A5E001D9BA2 /* ofxEasingQuart.cpp in Sources */,
+				4E7633E11BC2D2E5002F2530 /* README.md in Sources */,
 				4E12E4D21BBF8A5E001D9BA2 /* ofxEasingBounce.cpp in Sources */,
 				4E12E4DC1BBF8A5E001D9BA2 /* ofxTween.cpp in Sources */,
 				4E0B50EA1BB2E603008D839D /* PathManager.cpp in Sources */,
@@ -836,6 +985,7 @@
 				4E76328E1BC20591002F2530 /* README.md in Sources */,
 				4E76328F1BC20591002F2530 /* ofxSuperLog.cpp in Sources */,
 				4E5ED6671BC0D41D004F1AF6 /* StrechyRectSwiper.cpp in Sources */,
+				4E7633E21BC2D2E5002F2530 /* ofxJSONElement.cpp in Sources */,
 				4E12E4761BBECF20001D9BA2 /* FadeMotionGraphics.cpp in Sources */,
 				4E12E4D11BBF8A5E001D9BA2 /* ofxEasingBack.cpp in Sources */,
 				4E12E4D81BBF8A5E001D9BA2 /* ofxEasingQuad.cpp in Sources */,

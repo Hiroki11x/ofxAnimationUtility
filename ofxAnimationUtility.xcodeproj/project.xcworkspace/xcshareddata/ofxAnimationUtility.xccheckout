@@ -12,6 +12,8 @@
 	<dict>
 		<key>210A84CB64DBE001319448A793DFC671846EB46E</key>
 		<string>https://github.com/maxillacult/ofxPostGlitch.git</string>
+		<key>5DB7C332A3A89035E93556A2A38BF414005BA671</key>
+		<string>https://github.com/jefftimesten/ofxJSON.git</string>
 		<key>6B5D1DE462D521A98972DF70F1147E20268C546A</key>
 		<string>https://github.com/arturoc/ofxTween.git</string>
 		<key>A8D3CFED5208BD26E280BC9FB210A0D16501DA4D</key>
@@ -25,6 +27,8 @@
 	<dict>
 		<key>210A84CB64DBE001319448A793DFC671846EB46E</key>
 		<string>../../../addons/ofxPostGlitch</string>
+		<key>5DB7C332A3A89035E93556A2A38BF414005BA671</key>
+		<string>../../../addons/ofxJSON</string>
 		<key>6B5D1DE462D521A98972DF70F1147E20268C546A</key>
 		<string>../../../addons/ofxTween</string>
 		<key>A8D3CFED5208BD26E280BC9FB210A0D16501DA4D</key>
@@ -47,6 +51,14 @@
 			<string>A8D3CFED5208BD26E280BC9FB210A0D16501DA4D</string>
 			<key>IDESourceControlWCCName</key>
 			<string>ofxAnimationUtility</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5DB7C332A3A89035E93556A2A38BF414005BA671</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxJSON</string>
 		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>

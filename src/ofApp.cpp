@@ -36,6 +36,9 @@ void ofApp::setup(){
     //6
     circularvertexes.setup();
     
+    explodeanimation.set_position(ofVec2f(ofGetWidth()/2,ofGetHeight()/2));
+    explodeanimation.init();
+    
     //7
     fademotiongraphics.init();
     
@@ -46,6 +49,8 @@ void ofApp::setup(){
     strechyrectswiper.init();
     strechyrectswiper.set_color(ofColor::fromHsb(100, 200, 200));
     strechyrectswiper.set_mode(SwipeMode::Up);
+    
+    jsonscene.init();
 
 }
 
@@ -64,6 +69,10 @@ void ofApp::update(){
         case 4:
             //4
             linebelt.update_belt();
+            break;
+        case 9:
+            //4
+            jsonscene.update();
             break;
         default:
             break;
@@ -108,6 +117,7 @@ void ofApp::update(){
         case 6:
             //6
             circularvertexes.draw();
+            explodeanimation.draw();
             ofDrawBitmapString("[6]CircularVertexes", 20,20);
             break;
         case 7:
@@ -125,6 +135,7 @@ void ofApp::update(){
         case 9:
             //9
             strechyrectswiper.draw();
+            jsonscene.draw();
             ofDrawBitmapString("[9]StrechyRectSwiper", 20,20);
             break;
             
@@ -192,6 +203,10 @@ void ofApp::mousePressed(int x, int y, int button){
     switch (mode) {
         case 2:
             delaunay.generate(x,y);
+            break;
+        case 6:
+            explodeanimation.init();
+            explodeanimation.set_position(ofVec2f(ofGetWidth()/2,ofGetHeight()/2));
             break;
         case 8:
             rectswiper.init();

@@ -1,0 +1,2684 @@
+
+
+--------------------------------------- 2015-10-06-10-28-25-291
+[notice ] ElapsedTime: 0.215421 / 333
+[notice ] ElapsedTime: 0.21648 / 384
+[notice ] ElapsedTime: 0.367493 / 384
+[notice ] ElapsedTime: 0.398639 / 385
+[notice ] ElapsedTime: 0.415096 / 385
+[notice ] ElapsedTime: 0.432116 / 386
+[notice ] ElapsedTime: 0.448503 / 386
+[notice ] ElapsedTime: 0.481257 / 387
+[notice ] ElapsedTime: 0.48148 / 387
+[notice ] ElapsedTime: 0.526917 / 389
+[notice ] ElapsedTime: 0.665189 / 390
+[notice ] ElapsedTime: 0.681992 / 390
+[notice ] ElapsedTime: 0.698028 / 391
+[notice ] ElapsedTime: 0.715548 / 392
+[notice ] ElapsedTime: 0.731441 / 394
+[notice ] ElapsedTime: 0.749078 / 396
+[notice ] ElapsedTime: 0.765044 / 399
+[notice ] ElapsedTime: 0.782318 / 400
+[notice ] ElapsedTime: 0.799172 / 401
+[notice ] ElapsedTime: 0.815486 / 401
+[notice ] ElapsedTime: 2.59952 / 403
+[notice ] ElapsedTime: 2.61617 / 419
+[notice ] ElapsedTime: 2.63337 / 441
+[notice ] ElapsedTime: 2.64934 / 480
+[notice ] ElapsedTime: 2.66648 / 524
+[notice ] ElapsedTime: 2.68211 / 576
+[notice ] ElapsedTime: 2.69997 / 618
+[notice ] ElapsedTime: 2.71661 / 638
+[notice ] ElapsedTime: 2.7319 / 657
+[notice ] ElapsedTime: 2.74888 / 664
+[notice ] ElapsedTime: 2.76593 / 670
+[notice ] ElapsedTime: 2.78353 / 673
+[notice ] ElapsedTime: 2.79944 / 675
+[notice ] ElapsedTime: 2.833 / 676
+[notice ] ElapsedTime: 2.83331 / 677
+[notice ] ElapsedTime: 2.86689 / 677
+[notice ] ElapsedTime: 2.90071 / 677
+[notice ] ElapsedTime: 2.96102 / 677
+[notice ] ElapsedTime: 2.97514 / 678
+[notice ] ElapsedTime: 3.62865 / 679
+[notice ] ElapsedTime: 3.65803 / 683
+[notice ] ElapsedTime: 3.67835 / 686
+[notice ] ElapsedTime: 3.67909 / 691
+[notice ] ElapsedTime: 3.70976 / 693
+[notice ] ElapsedTime: 3.72656 / 695
+[notice ] ElapsedTime: 3.74313 / 696
+[notice ] ElapsedTime: 3.75893 / 697
+[notice ] ElapsedTime: 3.77784 / 698
+[notice ] ElapsedTime: 3.79494 / 699
+[notice ] ElapsedTime: 3.80848 / 699
+[notice ] ElapsedTime: 3.82441 / 699
+[notice ] ElapsedTime: 4.14484 / 699
+[notice ] ElapsedTime: 4.16182 / 699
+[notice ] ElapsedTime: 4.1763 / 700
+[notice ] ElapsedTime: 4.94353 / 706
+[notice ] ElapsedTime: 4.95819 / 722
+[notice ] ElapsedTime: 4.97944 / 741
+[notice ] ElapsedTime: 4.99147 / 782
+[notice ] ElapsedTime: 5.0079 / 811
+[notice ] ElapsedTime: 5.02778 / 844
+[notice ] ElapsedTime: 5.04369 / 862
+[notice ] ElapsedTime: 5.0599 / 880
+[notice ] ElapsedTime: 5.0771 / 888
+[notice ] ElapsedTime: 5.09359 / 897
+[notice ] ElapsedTime: 5.12574 / 902
+[notice ] ElapsedTime: 5.1439 / 904
+[notice ] ElapsedTime: 5.15868 / 906
+[notice ] ElapsedTime: 5.17949 / 907
+[notice ] ElapsedTime: 5.37616 / 906
+[notice ] ElapsedTime: 5.39304 / 888
+[notice ] ElapsedTime: 5.42455 / 847
+[notice ] ElapsedTime: 5.44312 / 758
+[notice ] ElapsedTime: 5.46195 / 617
+[notice ] ElapsedTime: 5.47873 / 576
+[notice ] ElapsedTime: 5.50861 / 537
+[notice ] ElapsedTime: 5.52817 / 519
+[notice ] ElapsedTime: 5.54436 / 508
+[notice ] ElapsedTime: 5.5614 / 501
+[notice ] ElapsedTime: 5.57729 / 499
+[notice ] ElapsedTime: 5.80872 / 498
+[notice ] ElapsedTime: 5.82721 / 482
+[notice ] ElapsedTime: 5.86075 / 405
+[notice ] ElapsedTime: 5.8777 / 363
+[notice ] ElapsedTime: 5.89454 / 343
+[notice ] ElapsedTime: 5.92502 / 332
+[notice ] ElapsedTime: 5.94418 / 320
+[notice ] ElapsedTime: 5.95798 / 312
+[notice ] ElapsedTime: 6.56029 / 311
+[notice ] ElapsedTime: 6.57831 / 301
+[notice ] ElapsedTime: 6.5937 / 267
+[notice ] ElapsedTime: 6.60935 / 222
+[notice ] ElapsedTime: 6.62672 / 201
+[notice ] ElapsedTime: 6.64253 / 173
+[notice ] ElapsedTime: 6.65794 / 162
+[notice ] ElapsedTime: 6.67635 / 154
+[notice ] ElapsedTime: 6.69201 / 151
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[ error ] ofxJSONElement::openLocal: Unable to parse MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[notice ] ElapsedTime: 58.7175 / 151
+[notice ] ElapsedTime: 58.7344 / 151

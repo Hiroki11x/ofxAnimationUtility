@@ -15,6 +15,9 @@
 #include "ofxSuperLogUtil.h"
 #include "GraphLog.h"
 #include "PostGlitch.h"
+#include "JsonScene.h"
+
+#include "ExplodeAnimation.h"
 
 class ofApp : public ofBaseApp{
 
@@ -59,6 +62,7 @@ class ofApp : public ofBaseApp{
     
     //6
     CircularVertexes circularvertexes;
+    ExplodeAnimation explodeanimation;
     
     //7
     FadeMotionGraphics fademotiongraphics;
@@ -68,4 +72,5 @@ class ofApp : public ofBaseApp{
     
     //9
     StrechyRectSwiper strechyrectswiper;
+    JsonScene jsonscene;
 };

@@ -21,6 +21,7 @@ private:
     ofVec2f position;
     float angle;//ここはRandomな
     float size = DEFAULT_SIZE;
+    bool isfade = false;
 public:
     void set_color(ofColor arg_color);
     void init();
@@ -31,6 +32,7 @@ public:
     void set_size(float size);
     void set_speed(ofVec2f speed);
     void set_position(ofVec2f position);
+    bool is_fade();
     
     TriangleElement(){
         angle = ofRandom(60);

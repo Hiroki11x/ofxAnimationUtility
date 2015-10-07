@@ -26,8 +26,9 @@ void ExplodeAnimation::set_position(ofVec2f pos){
 
 void ExplodeAnimation::init(){
     triangles.clear();
+    connections.clear();
     triangleconnections.clear();
-    for(int i=0;i<DEFAULT_NUM;i++){
+    for(int i=0;i<DEFAULT_PARTICLE_NUM;i++){
         triangles.push_back(TriangleElement());
         triangles.back().set_color(color);
         triangles.back().set_position(position);
@@ -35,7 +36,7 @@ void ExplodeAnimation::init(){
     }
     int random_max = triangles.size();
     int index1,index2,index3;
-    for(int i =0;i<DEFAULT_NUM;i++){
+    for(int i =0;i<DEFAULT_PARTICLE_NUM;i++){
         index1 = ofRandom(random_max);
         index2 = ofRandom(random_max);
         index3 = ofRandom(random_max);
@@ -44,7 +45,7 @@ void ExplodeAnimation::init(){
         connections.back().set_node(triangles.at(index1).get_position(), triangles.at(index2).get_position());
     }
     
-    for(int i =0;i<DEFAULT_NUM;i++){
+    for(int i =0;i<DEFAULT_PARTICLE_NUM;i++){
         index1 = ofRandom(random_max);
         index2 = ofRandom(random_max);
         index3 = ofRandom(random_max);
@@ -70,18 +71,34 @@ void ExplodeAnimation::draw(){
     update();
 
     ofPushStyle();
+    //Particle
     ofSetCircleResolution(60);
+    bool isfade;
     for(int i=0;i<triangles.size();i++){
         triangles.at(i).draw();
+        isfade |= triangles.at(i).is_fade();
     }
-    ofSetColor(color,100);
-    ofSetLineWidth(0.5);
-    for(int i =0;i<connections.size();i++){
-        connections.at(i).draw();
-    }
-    ofFill();
-    for(int i =0;i<triangleconnections.size();i++){
-        triangleconnections.at(i).draw();
+    
+    if(!isfade){//Particleがはみ出てたらTriangle表示しない
+        //Line
+        ofSetColor(color,100);
+        ofSetLineWidth(0.5);
+        for(int i =0;i<connections.size();i++){
+            connections.at(i).draw();
+        }
+        
+        //Triangle
+        ofFill();
+        for(int i =0;i<triangleconnections.size();i++){
+            triangleconnections.at(i).draw();
+        }
+    }else{
+        //Line
+        ofSetColor(color,50);
+        ofSetLineWidth(0.5);
+        for(int i =0;i<connections.size();i++){
+            connections.at(i).draw();
+        }
     }
     ofPopStyle();
 }

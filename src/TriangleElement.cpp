@@ -8,6 +8,10 @@
 
 #include "TriangleElement.h"
 
+bool TriangleElement::is_fade(){
+    return isfade;
+}
+
 void TriangleElement::set_color(ofColor arg_color){
     color = arg_color;
 }
@@ -36,9 +40,13 @@ void TriangleElement::init(){
 void TriangleElement::update(){
     if(position.x<ofGetWidth()+OFFSET && position.x> -OFFSET){
         position.x += speed.x;
+    }else{
+        isfade =true;
     }
     if(position.y<ofGetHeight()+OFFSET && position.y> -OFFSET){
         position.y += speed.y;
+    }else{
+        isfade =true;
     }
 }
 

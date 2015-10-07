@@ -11,6 +11,7 @@
 
 #include "ofxJSON.h"
 #include "ofMain.h"
+#include "ofxSuperLogUtil.h"
 
 class JsonReceiver {
     
@@ -27,21 +28,25 @@ public:
     
     static void recieve(){
         
-        bool parsingSuccessful = jsonElement.openLocal("MAU_twit/twitter.json");//Nodeで取得したJSON
+//        bool parsingSuccessful = jsonElement.openLocal("MAU_twit/twitter.json");//Nodeで取得したJSON
+        bool parsingSuccessful = jsonElement.openLocal("../../../MAU_twit/twitter.json");//Nodeで取得したJSON
+
+        static ofxSuperLogUtil log;
         
         if (parsingSuccessful){
             if(checkUpdateJson()){//新規キャッシュの際はパース
-                parseJson();
+                log.set_log(parseJson());
             }
         }else{
             cout << "Failed to parse JSON" << endl;
         }
     };
-    static void parseJson(){//userInfonい貯めていく
+    static string parseJson(){//userInfonい貯めていく
         ofImage img;
         img.loadImage(jsonElement["user"]["profile_image_url"].asCString());
         if(img.getWidth() == 0){return;}
         usersInfo.push_back((UserInfo){jsonElement["user"]["name"].asCString(),img});
+        return ofToString(jsonElement);
     };
     static bool checkUpdateJson(){
         if(jsonElement["id_str"].asCString() != cachedTweetId){//JSONで読んだidがキャッシュされていなかったらキャッシュ

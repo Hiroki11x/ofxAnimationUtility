@@ -14,15 +14,15 @@
 #include "Connection.h"
 #include "TriangleConnection.h"
 
-#define DEFAULT_NUM 20
-#define DEFAULT_RANGE 10
+#define DEFAULT_PARTICLE_NUM 15
+#define DEFAULT_SPEED_RANGE 5
 
 
 class ExplodeAnimation{
 private:
     ofVec2f position;
     vector<TriangleElement> triangles;
-    float speed_range = DEFAULT_RANGE;
+    float speed_range = DEFAULT_SPEED_RANGE;
     ofColor color = ofColor(0,255,0,100);
     
     vector<Connection> connections;

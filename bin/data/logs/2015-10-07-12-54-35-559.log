@@ -1,0 +1,1746 @@
+
+
+--------------------------------------- 2015-10-07-12-54-35-560
+[notice ] ElapsedTime: 1.79491 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Wed Oct 07 03:54:32 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 86, 93 ],
+				"text" : "うんこガチャ"
+			}
+		],
+		"symbols" : [],
+		"urls" : 
+		[
+			
+			{
+				"display_url" : "shindanmaker.com/459005",
+				"expanded_url" : "http://shindanmaker.com/459005",
+				"indices" : [ 94, 116 ],
+				"url" : "http://t.co/DV83We8slk"
+			}
+		],
+		"user_mentions" : 
+		[
+			
+			{
+				"id" : 3304310354,
+				"id_str" : "3304310354",
+				"indices" : [ 3, 14 ],
+				"name" : "ユハクオダ@戦争組",
+				"screen_name" : "_yuhakuoda"
+			}
+		]
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 651606508132679700,
+	"id_str" : "651606508132679680",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ja",
+	"place" : null,
+	"possibly_sensitive" : false,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"retweeted_status" : 
+	{
+		"contributors" : null,
+		"coordinates" : null,
+		"created_at" : "Wed Oct 07 03:53:45 +0000 2015",
+		"entities" : 
+		{
+			"hashtags" : 
+			[
+				
+				{
+					"indices" : [ 70, 77 ],
+					"text" : "うんこガチャ"
+				}
+			],
+			"symbols" : [],
+			"urls" : 
+			[
+				
+				{
+					"display_url" : "shindanmaker.com/459005",
+					"expanded_url" : "http://shindanmaker.com/459005",
+					"indices" : [ 78, 100 ],
+					"url" : "http://t.co/DV83We8slk"
+				}
+			],
+			"user_mentions" : []
+		},
+		"favorite_count" : 0,
+		"favorited" : false,
+		"filter_level" : "low",
+		"geo" : null,
+		"id" : 651606312774582300,
+		"id_str" : "651606312774582272",
+		"in_reply_to_screen_name" : null,
+		"in_reply_to_status_id" : null,
+		"in_reply_to_status_id_str" : null,
+		"in_reply_to_user_id" : null,
+		"in_reply_to_user_id_str" : null,
+		"is_quote_status" : false,
+		"lang" : "ja",
+		"place" : null,
+		"possibly_sensitive" : false,
+		"retweet_count" : 1,
+		"retweeted" : false,
+		"source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"text" : "うんこ10連ガチャ！\n\nN:うんこ\nN:うんこ\nN:うんこ\nN:うんこ\nR:下痢\nN:うんこ\nR:下痢\nN:うんこ\nN:うんこ\nN:うんこ\n#うんこガチャ\nhttp://t.co/DV83We8slk",
+		"truncated" : false,
+		"user" : 
+		{
+			"contributors_enabled" : false,
+			"created_at" : "Sun Aug 02 13:43:35 +0000 2015",
+			"default_profile" : true,
+			"default_profile_image" : false,
+			"description" : "渉さん貴方に貢ぎ倒しますよ",
+			"favourites_count" : 314,
+			"follow_request_sent" : null,
+			"followers_count" : 144,
+			"following" : null,
+			"friends_count" : 125,
+			"geo_enabled" : false,
+			"id" : 3304310354,
+			"id_str" : "3304310354",
+			"is_translator" : false,
+			"lang" : "ja",
+			"listed_count" : 7,
+			"location" : null,
+			"name" : "ユハクオダ@戦争組",
+			"notifications" : null,
+			"profile_background_color" : "C0DEED",
+			"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile" : false,
+			"profile_banner_url" : "https://pbs.twimg.com/profile_banners/3304310354/1443403370",
+			"profile_image_url" : "http://pbs.twimg.com/profile_images/650316310274928642/BVo-3e-U_normal.jpg",
+			"profile_image_url_https" : "https://pbs.twimg.com/profile_images/650316310274928642/BVo-3e-U_normal.jpg",
+			"profile_link_color" : "0084B4",
+			"profile_sidebar_border_color" : "C0DEED",
+			"profile_sidebar_fill_color" : "DDEEF6",
+			"profile_text_color" : "333333",
+			"profile_use_background_image" : true,
+			"protected" : false,
+			"screen_name" : "_yuhakuoda",
+			"statuses_count" : 2969,
+			"time_zone" : "International Date Line West",
+			"url" : null,
+			"utc_offset" : -39600,
+			"verified" : false
+		}
+	},
+	"source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+	"text" : "RT @_yuhakuoda: うんこ10連ガチャ！\n\nN:うんこ\nN:うんこ\nN:うんこ\nN:うんこ\nR:下痢\nN:うんこ\nR:下痢\nN:うんこ\nN:うんこ\nN:うんこ\n#うんこガチャ\nhttp://t.co/DV83We8slk",
+	"timestamp_ms" : "1444190072459",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Sun Apr 21 16:17:53 +0000 2013",
+		"default_profile" : true,
+		"default_profile_image" : false,
+		"description" : null,
+		"favourites_count" : 936,
+		"follow_request_sent" : null,
+		"followers_count" : 1057,
+		"following" : null,
+		"friends_count" : 434,
+		"geo_enabled" : true,
+		"id" : 1369930074,
+		"id_str" : "1369930074",
+		"is_translator" : false,
+		"lang" : "ja",
+		"listed_count" : 22,
+		"location" : "ハァ",
+		"name" : "ネギック",
+		"notifications" : null,
+		"profile_background_color" : "C0DEED",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile" : false,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/1369930074/1441095657",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/642723698940624897/iT4VgTZu_normal.jpg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/642723698940624897/iT4VgTZu_normal.jpg",
+		"profile_link_color" : "0084B4",
+		"profile_sidebar_border_color" : "C0DEED",
+		"profile_sidebar_fill_color" : "DDEEF6",
+		"profile_text_color" : "333333",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "JiJi__Nenn",
+		"statuses_count" : 55042,
+		"time_zone" : null,
+		"url" : "http://twpf.jp/JiJi__Nenn",
+		"utc_offset" : null,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 3.37257 / 499
+[notice ] ElapsedTime: 3.38885 / 510
+[notice ] ElapsedTime: 3.40625 / 528
+[notice ] ElapsedTime: 3.4221 / 556
+[notice ] ElapsedTime: 3.43926 / 586
+[notice ] ElapsedTime: 3.45581 / 616
+[notice ] ElapsedTime: 3.47222 / 650
+[notice ] ElapsedTime: 3.48926 / 671
+[notice ] ElapsedTime: 3.50638 / 691
+[notice ] ElapsedTime: 3.52187 / 705
+[notice ] ElapsedTime: 3.53937 / 717
+[notice ] ElapsedTime: 3.55655 / 726
+[notice ] ElapsedTime: 3.57269 / 736
+[notice ] ElapsedTime: 3.58947 / 743
+[notice ] ElapsedTime: 3.60591 / 752
+[notice ] ElapsedTime: 3.62273 / 756
+[notice ] ElapsedTime: 3.63854 / 758
+[notice ] ElapsedTime: 3.67254 / 758
+[notice ] ElapsedTime: 3.68978 / 757
+[notice ] ElapsedTime: 3.70501 / 756
+[notice ] ElapsedTime: 3.72286 / 755
+[notice ] ElapsedTime: 3.73971 / 754
+[notice ] ElapsedTime: 3.75661 / 753
+[notice ] ElapsedTime: 3.77309 / 748
+[notice ] ElapsedTime: 3.78852 / 733
+[notice ] ElapsedTime: 3.80604 / 698
+[notice ] ElapsedTime: 3.8226 / 652
+[notice ] ElapsedTime: 3.83916 / 610
+[notice ] ElapsedTime: 3.85571 / 569
+[notice ] ElapsedTime: 3.873 / 548
+[notice ] ElapsedTime: 3.88885 / 527
+[notice ] ElapsedTime: 3.90625 / 513
+[notice ] ElapsedTime: 3.92211 / 506
+[notice ] ElapsedTime: 3.93929 / 500
+[notice ] ElapsedTime: 3.95666 / 497
+[notice ] ElapsedTime: 3.97255 / 495
+[notice ] ElapsedTime: 4.00524 / 494
+[notice ] ElapsedTime: 4.02219 / 494
+[notice ] ElapsedTime: 4.05547 / 494
+[notice ] ElapsedTime: 4.37339 / 492
+[notice ] ElapsedTime: 4.39003 / 479
+[notice ] ElapsedTime: 4.40649 / 456
+[notice ] ElapsedTime: 4.42326 / 438
+[notice ] ElapsedTime: 4.43919 / 418
+[notice ] ElapsedTime: 4.45649 / 406
+[notice ] ElapsedTime: 4.47264 / 397
+[notice ] ElapsedTime: 4.49013 / 393
+[notice ] ElapsedTime: 4.50577 / 390
+[notice ] ElapsedTime: 4.52262 / 389
+[notice ] ElapsedTime: 18.1795 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Wed Oct 07 03:54:53 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 70, 77 ],
+				"text" : "うんこガチャ"
+			}
+		],
+		"symbols" : [],
+		"urls" : 
+		[
+			
+			{
+				"display_url" : "shindanmaker.com/459005",
+				"expanded_url" : "http://shindanmaker.com/459005",
+				"indices" : [ 78, 100 ],
+				"url" : "http://t.co/gauOwa9WeL"
+			}
+		],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 651606595848147000,
+	"id_str" : "651606595848146944",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ja",
+	"place" : null,
+	"possibly_sensitive" : false,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+	"text" : "うんこ10連ガチャ！\n\nR:下痢\nN:うんこ\nN:うんこ\nN:うんこ\nN:うんこ\nN:うんこ\nR:下痢\nN:うんこ\nN:うんこ\nN:うんこ\n#うんこガチャ\nhttp://t.co/gauOwa9WeL",
+	"timestamp_ms" : "1444190093372",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Tue Nov 22 08:55:12 +0000 2011",
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"description" : "ラリってるねこししゃもイカ@タコ※ゲソ",
+		"favourites_count" : 17163,
+		"follow_request_sent" : null,
+		"followers_count" : 444,
+		"following" : null,
+		"friends_count" : 358,
+		"geo_enabled" : true,
+		"id" : 418534617,
+		"id_str" : "418534617",
+		"is_translator" : false,
+		"lang" : "ja",
+		"listed_count" : 6,
+		"location" : "雑↑魚↓",
+		"name" : "顔面チタニウマーラリもと",
+		"notifications" : null,
+		"profile_background_color" : "B2DFDA",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme13/bg.gif",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme13/bg.gif",
+		"profile_background_tile" : false,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/418534617/1444135039",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/648886818759245824/Hn4eUmeO_normal.jpg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/648886818759245824/Hn4eUmeO_normal.jpg",
+		"profile_link_color" : "93A644",
+		"profile_sidebar_border_color" : "EEEEEE",
+		"profile_sidebar_fill_color" : "FFFFFF",
+		"profile_text_color" : "333333",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "hagegyunyubin",
+		"statuses_count" : 102040,
+		"time_zone" : "Tokyo",
+		"url" : null,
+		"utc_offset" : 32400,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 18.3971 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Wed Oct 07 03:54:53 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 107, 114 ],
+				"text" : "うんこガチャ"
+			},
+			
+			{
+				"indices" : [ 126, 135 ],
+				"text" : "一億総火の玉20"
+			}
+		],
+		"media" : 
+		[
+			
+			{
+				"display_url" : "pic.twitter.com/9XUX9BGu9i",
+				"expanded_url" : "http://twitter.com/GillingsPatsy/status/650343827530739712/photo/1",
+				"id" : 650343823638270000,
+				"id_str" : "650343823638269952",
+				"indices" : [ 78, 100 ],
+				"media_url" : "http://pbs.twimg.com/media/CQZ8Qw3UEAAhMFS.jpg",
+				"media_url_https" : "https://pbs.twimg.com/media/CQZ8Qw3UEAAhMFS.jpg",
+				"sizes" : 
+				{
+					"large" : 
+					{
+						"h" : 201,
+						"resize" : "fit",
+						"w" : 251
+					},
+					"medium" : 
+					{
+						"h" : 201,
+						"resize" : "fit",
+						"w" : 251
+					},
+					"small" : 
+					{
+						"h" : 201,
+						"resize" : "fit",
+						"w" : 251
+					},
+					"thumb" : 
+					{
+						"h" : 150,
+						"resize" : "crop",
+						"w" : 150
+					}
+				},
+				"source_status_id" : 650343827530739700,
+				"source_status_id_str" : "650343827530739712",
+				"source_user_id" : 3181131775,
+				"source_user_id_str" : "3181131775",
+				"type" : "photo",
+				"url" : "http://t.co/9XUX9BGu9i"
+			}
+		],
+		"symbols" : [],
+		"urls" : 
+		[
+			
+			{
+				"display_url" : "zkk5.click/7do8vy/c5e/",
+				"expanded_url" : "http://zkk5.click/7do8vy/c5e/",
+				"indices" : [ 25, 47 ],
+				"url" : "http://t.co/eusCJhdq2g"
+			}
+		],
+		"user_mentions" : []
+	},
+	"extended_entities" : 
+	{
+		"media" : 
+		[
+			
+			{
+				"display_url" : "pic.twitter.com/9XUX9BGu9i",
+				"expanded_url" : "http://twitter.com/GillingsPatsy/status/650343827530739712/photo/1",
+				"id" : 650343823638270000,
+				"id_str" : "650343823638269952",
+				"indices" : [ 78, 100 ],
+				"media_url" : "http://pbs.twimg.com/media/CQZ8Qw3UEAAhMFS.jpg",
+				"media_url_https" : "https://pbs.twimg.com/media/CQZ8Qw3UEAAhMFS.jpg",
+				"sizes" : 
+				{
+					"large" : 
+					{
+						"h" : 201,
+						"resize" : "fit",
+						"w" : 251
+					},
+					"medium" : 
+					{
+						"h" : 201,
+						"resize" : "fit",
+						"w" : 251
+					},
+					"small" : 
+					{
+						"h" : 201,
+						"resize" : "fit",
+						"w" : 251
+					},
+					"thumb" : 
+					{
+						"h" : 150,
+						"resize" : "crop",
+						"w" : 150
+					}
+				},
+				"source_status_id" : 650343827530739700,
+				"source_status_id_str" : "650343827530739712",
+				"source_user_id" : 3181131775,
+				"source_user_id_str" : "3181131775",
+				"type" : "photo",
+				"url" : "http://t.co/9XUX9BGu9i"
+			},
+			
+			{
+				"display_url" : "pic.twitter.com/9XUX9BGu9i",
+				"expanded_url" : "http://twitter.com/GillingsPatsy/status/650343827530739712/photo/1",
+				"id" : 650343823961292800,
+				"id_str" : "650343823961292801",
+				"indices" : [ 78, 100 ],
+				"media_url" : "http://pbs.twimg.com/media/CQZ8QyEVAAEgaVR.jpg",
+				"media_url_https" : "https://pbs.twimg.com/media/CQZ8QyEVAAEgaVR.jpg",
+				"sizes" : 
+				{
+					"large" : 
+					{
+						"h" : 650,
+						"resize" : "fit",
+						"w" : 433
+					},
+					"medium" : 
+					{
+						"h" : 650,
+						"resize" : "fit",
+						"w" : 433
+					},
+					"small" : 
+					{
+						"h" : 510,
+						"resize" : "fit",
+						"w" : 340
+					},
+					"thumb" : 
+					{
+						"h" : 150,
+						"resize" : "crop",
+						"w" : 150
+					}
+				},
+				"source_status_id" : 650343827530739700,
+				"source_status_id_str" : "650343827530739712",
+				"source_user_id" : 3181131775,
+				"source_user_id_str" : "3181131775",
+				"type" : "photo",
+				"url" : "http://t.co/9XUX9BGu9i"
+			},
+			
+			{
+				"display_url" : "pic.twitter.com/9XUX9BGu9i",
+				"expanded_url" : "http://twitter.com/GillingsPatsy/status/650343827530739712/photo/1",
+				"id" : 650343825970368500,
+				"id_str" : "650343825970368513",
+				"indices" : [ 78, 100 ],
+				"media_url" : "http://pbs.twimg.com/media/CQZ8Q5jVEAE-AnI.jpg",
+				"media_url_https" : "https://pbs.twimg.com/media/CQZ8Q5jVEAE-AnI.jpg",
+				"sizes" : 
+				{
+					"large" : 
+					{
+						"h" : 624,
+						"resize" : "fit",
+						"w" : 466
+					},
+					"medium" : 
+					{
+						"h" : 624,
+						"resize" : "fit",
+						"w" : 466
+					},
+					"small" : 
+					{
+						"h" : 454,
+						"resize" : "fit",
+						"w" : 340
+					},
+					"thumb" : 
+					{
+						"h" : 150,
+						"resize" : "crop",
+						"w" : 150
+					}
+				},
+				"source_status_id" : 650343827530739700,
+				"source_status_id_str" : "650343827530739712",
+				"source_user_id" : 3181131775,
+				"source_user_id_str" : "3181131775",
+				"type" : "photo",
+				"url" : "http://t.co/9XUX9BGu9i"
+			},
+			
+			{
+				"display_url" : "pic.twitter.com/9XUX9BGu9i",
+				"expanded_url" : "http://twitter.com/GillingsPatsy/status/650343827530739712/photo/1",
+				"id" : 650343825068552200,
+				"id_str" : "650343825068552192",
+				"indices" : [ 78, 100 ],
+				"media_url" : "http://pbs.twimg.com/media/CQZ8Q2MUcAAJH99.jpg",
+				"media_url_https" : "https://pbs.twimg.com/media/CQZ8Q2MUcAAJH99.jpg",
+				"sizes" : 
+				{
+					"large" : 
+					{
+						"h" : 650,
+						"resize" : "fit",
+						"w" : 433
+					},
+					"medium" : 
+					{
+						"h" : 650,
+						"resize" : "fit",
+						"w" : 433
+					},
+					"small" : 
+					{
+						"h" : 510,
+						"resize" : "fit",
+						"w" : 340
+					},
+					"thumb" : 
+					{
+						"h" : 150,
+						"resize" : "crop",
+						"w" : 150
+					}
+				},
+				"source_status_id" : 650343827530739700,
+				"source_status_id_str" : "650343827530739712",
+				"source_user_id" : 3181131775,
+				"source_user_id_str" : "3181131775",
+				"type" : "photo",
+				"url" : "http://t.co/9XUX9BGu9i"
+			}
+		]
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 651606596699590700,
+	"id_str" : "651606596699590656",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ja",
+	"place" : null,
+	"possibly_sensitive" : false,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://www.yahoo.co.jp/\" rel=\"nofollow\">楽しい毎日♡</a>",
+	"text" : "誰も知らない!!\n芸能人の脚ヤセの真実とは？\n⇒【http://t.co/eusCJhdq2g】\n水●希●やマ●ーも実際に愛用してるんだって♪(*´ω｀) http://t.co/9XUX9BGu9i 林原めぐみ #うんこガチャ 商人の鑑 ヤンキース #一億総火の玉20",
+	"timestamp_ms" : "1444190093575",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Sat Oct 03 11:32:45 +0000 2015",
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"description" : "人気のトレンドと共に、皆さんに役立つ、コレいいな！がありますように(*´ω｀*)",
+		"favourites_count" : 0,
+		"follow_request_sent" : null,
+		"followers_count" : 4,
+		"following" : null,
+		"friends_count" : 0,
+		"geo_enabled" : false,
+		"id" : 3769574473,
+		"id_str" : "3769574473",
+		"is_translator" : false,
+		"lang" : "ja",
+		"listed_count" : 0,
+		"location" : null,
+		"name" : "人気トレンド♡アイテム",
+		"notifications" : null,
+		"profile_background_color" : "000000",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile" : false,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/3769574473/1443872974",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/650276610948464640/dEjrnGj8_normal.jpg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/650276610948464640/dEjrnGj8_normal.jpg",
+		"profile_link_color" : "FFCC4D",
+		"profile_sidebar_border_color" : "000000",
+		"profile_sidebar_fill_color" : "000000",
+		"profile_text_color" : "000000",
+		"profile_use_background_image" : false,
+		"protected" : false,
+		"screen_name" : "trd_sho",
+		"statuses_count" : 369,
+		"time_zone" : "Pacific Time (US & Canada)",
+		"url" : null,
+		"utc_offset" : -25200,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 20.2189 / 394
+[notice ] ElapsedTime: 20.2366 / 405
+[notice ] ElapsedTime: 20.2531 / 418
+[notice ] ElapsedTime: 20.2847 / 452
+[notice ] ElapsedTime: 20.3018 / 499
+[notice ] ElapsedTime: 20.3187 / 534
+[notice ] ElapsedTime: 20.337 / 565
+[notice ] ElapsedTime: 20.3376 / 594
+[notice ] ElapsedTime: 20.3687 / 612
+[notice ] ElapsedTime: 20.386 / 625
+[notice ] ElapsedTime: 20.4023 / 636
+[notice ] ElapsedTime: 20.4193 / 653
+[notice ] ElapsedTime: 20.4359 / 667
+[notice ] ElapsedTime: 20.452 / 682
+[notice ] ElapsedTime: 20.4687 / 691
+[notice ] ElapsedTime: 20.4854 / 698
+[notice ] ElapsedTime: 20.5023 / 702
+[notice ] ElapsedTime: 20.5185 / 703
+[notice ] ElapsedTime: 20.5366 / 706
+[notice ] ElapsedTime: 20.552 / 708
+[notice ] ElapsedTime: 20.5692 / 711
+[notice ] ElapsedTime: 20.5861 / 715
+[notice ] ElapsedTime: 20.6022 / 718
+[notice ] ElapsedTime: 20.6188 / 722
+[notice ] ElapsedTime: 20.6356 / 724
+[notice ] ElapsedTime: 20.6524 / 726
+[notice ] ElapsedTime: 20.6691 / 728
+[notice ] ElapsedTime: 20.6857 / 729
+[notice ] ElapsedTime: 20.7021 / 730
+[notice ] ElapsedTime: 20.7188 / 731
+[notice ] ElapsedTime: 20.8028 / 730
+[notice ] ElapsedTime: 20.8192 / 726
+[notice ] ElapsedTime: 20.8357 / 721
+[notice ] ElapsedTime: 20.8532 / 707
+[notice ] ElapsedTime: 20.8695 / 689
+[notice ] ElapsedTime: 20.8855 / 651
+[notice ] ElapsedTime: 20.9031 / 606
+[notice ] ElapsedTime: 20.9188 / 573
+[notice ] ElapsedTime: 20.9358 / 541
+[notice ] ElapsedTime: 20.9536 / 526
+[notice ] ElapsedTime: 20.9701 / 508
+[notice ] ElapsedTime: 20.986 / 503
+[notice ] ElapsedTime: 21.0027 / 498
+[notice ] ElapsedTime: 21.0196 / 494
+[notice ] ElapsedTime: 21.036 / 493
+[notice ] ElapsedTime: 21.0525 / 491
+[notice ] ElapsedTime: 21.1022 / 490
+[notice ] ElapsedTime: 21.1195 / 490
+[notice ] ElapsedTime: 21.1359 / 488
+[notice ] ElapsedTime: 21.1524 / 486
+[notice ] ElapsedTime: 21.1692 / 482
+[notice ] ElapsedTime: 21.1858 / 466
+[notice ] ElapsedTime: 21.2031 / 450
+[notice ] ElapsedTime: 21.2201 / 434
+[notice ] ElapsedTime: 21.2355 / 420
+[notice ] ElapsedTime: 21.2531 / 415
+[notice ] ElapsedTime: 21.2861 / 406
+[notice ] ElapsedTime: 21.303 / 405
+[notice ] ElapsedTime: 21.3192 / 405
+[notice ] ElapsedTime: 26.3872 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Wed Oct 07 03:55:01 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 70, 77 ],
+				"text" : "うんこガチャ"
+			}
+		],
+		"symbols" : [],
+		"urls" : 
+		[
+			
+			{
+				"display_url" : "shindanmaker.com/459005",
+				"expanded_url" : "http://shindanmaker.com/459005",
+				"indices" : [ 78, 100 ],
+				"url" : "http://t.co/ycXlIUBlOD"
+			}
+		],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 651606630287544300,
+	"id_str" : "651606630287544320",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ja",
+	"place" : null,
+	"possibly_sensitive" : false,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+	"text" : "うんこ10連ガチャ！\n\nN:うんこ\nR:下痢\nN:うんこ\nN:うんこ\nN:うんこ\nN:うんこ\nN:うんこ\nN:うんこ\nR:下痢\nN:うんこ\n#うんこガチャ\nhttp://t.co/ycXlIUBlOD\n下痢",
+	"timestamp_ms" : "1444190101583",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Thu Jan 15 15:22:42 +0000 2015",
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"description" : "一鶯/大鶯主食 成人済でコスもしばしば",
+		"favourites_count" : 13989,
+		"follow_request_sent" : null,
+		"followers_count" : 415,
+		"following" : null,
+		"friends_count" : 289,
+		"geo_enabled" : false,
+		"id" : 2984307038,
+		"id_str" : "2984307038",
+		"is_translator" : false,
+		"lang" : "ja",
+		"listed_count" : 25,
+		"location" : "古備前",
+		"name" : "つばメントス",
+		"notifications" : null,
+		"profile_background_color" : "709397",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme6/bg.gif",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme6/bg.gif",
+		"profile_background_tile" : false,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/2984307038/1430600360",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/648255314916061184/589pXdNA_normal.jpg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/648255314916061184/589pXdNA_normal.jpg",
+		"profile_link_color" : "FF3300",
+		"profile_sidebar_border_color" : "86A4A6",
+		"profile_sidebar_fill_color" : "A0C5C7",
+		"profile_text_color" : "333333",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "kanpachi0v0",
+		"statuses_count" : 25401,
+		"time_zone" : null,
+		"url" : "http://twpf.jp/kanpachi0v0",
+		"utc_offset" : null,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 27.2657 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Wed Oct 07 03:55:02 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 68, 75 ],
+				"text" : "うんこガチャ"
+			}
+		],
+		"symbols" : [],
+		"urls" : 
+		[
+			
+			{
+				"display_url" : "shindanmaker.com/459005",
+				"expanded_url" : "http://shindanmaker.com/459005",
+				"indices" : [ 76, 98 ],
+				"url" : "http://t.co/iBu39HMutT"
+			}
+		],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 651606633705934800,
+	"id_str" : "651606633705934848",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ja",
+	"place" : null,
+	"possibly_sensitive" : false,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+	"text" : "うんこ10連ガチャ！\n\nN:うんこ\nR:下痢\nR:下痢\nN:うんこ\nN:うんこ\nR:下痢\nN:うんこ\nN:うんこ\nR:下痢\nN:うんこ\n#うんこガチャ\nhttp://t.co/iBu39HMutT\n\n結構いい感じか？(´･ω･｀)",
+	"timestamp_ms" : "1444190102398",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Mon Jul 15 00:38:31 +0000 2013",
+		"default_profile" : true,
+		"default_profile_image" : false,
+		"description" : "毎日体調悪い",
+		"favourites_count" : 4,
+		"follow_request_sent" : null,
+		"followers_count" : 50,
+		"following" : null,
+		"friends_count" : 121,
+		"geo_enabled" : false,
+		"id" : 1594619833,
+		"id_str" : "1594619833",
+		"is_translator" : false,
+		"lang" : "ja",
+		"listed_count" : 0,
+		"location" : null,
+		"name" : "やなぎ@堕天使",
+		"notifications" : null,
+		"profile_background_color" : "C0DEED",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile" : false,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/1594619833/1425474410",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/573107328116912128/baQN5XpC_normal.jpeg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/573107328116912128/baQN5XpC_normal.jpeg",
+		"profile_link_color" : "0084B4",
+		"profile_sidebar_border_color" : "C0DEED",
+		"profile_sidebar_fill_color" : "DDEEF6",
+		"profile_text_color" : "333333",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "yanaphone",
+		"statuses_count" : 272,
+		"time_zone" : null,
+		"url" : null,
+		"utc_offset" : null,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 27.6447 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Wed Oct 07 03:55:02 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 79, 86 ],
+				"text" : "うんこガチャ"
+			}
+		],
+		"symbols" : [],
+		"urls" : 
+		[
+			
+			{
+				"display_url" : "shindanmaker.com/459005",
+				"expanded_url" : "http://shindanmaker.com/459005",
+				"indices" : [ 87, 109 ],
+				"url" : "http://t.co/WhIvBtsFXK"
+			}
+		],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 651606635538812900,
+	"id_str" : "651606635538812928",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ja",
+	"place" : null,
+	"possibly_sensitive" : false,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+	"text" : "うんこ10連ガチャ！\n\nN:うんこ\nN:うんこ\nN:うんこ\nN:うんこ\nN:うんこ\nN:うんこ\nN:うんこ\nN:うんこ\nHR:一週間ぶりのうんこ\nN:うんこ\n#うんこガチャ\nhttp://t.co/WhIvBtsFXK",
+	"timestamp_ms" : "1444190102835",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Thu May 13 14:49:44 +0000 2010",
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"description" : "燃費が悪く腐り気味。熱し難く冷め易い。2次元の人になりたい。ものすごく愚痴が多い。いいかんじのつぶやきはあんまりない。ＲＯとかＤＱⅩにハマっては離れを繰り返し。日常絵日記→http://ameblo.jp/kozu50放置中^^",
+		"favourites_count" : 684,
+		"follow_request_sent" : null,
+		"followers_count" : 140,
+		"following" : null,
+		"friends_count" : 120,
+		"geo_enabled" : false,
+		"id" : 143464184,
+		"id_str" : "143464184",
+		"is_translator" : false,
+		"lang" : "ja",
+		"listed_count" : 18,
+		"location" : "東京都八王子市",
+		"name" : "￥50",
+		"notifications" : null,
+		"profile_background_color" : "679E8C",
+		"profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/101342424/_________.jpg",
+		"profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/101342424/_________.jpg",
+		"profile_background_tile" : true,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/143464184/1353032883",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/912219759/_______________normal.png",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/912219759/_______________normal.png",
+		"profile_link_color" : "739909",
+		"profile_sidebar_border_color" : "000000",
+		"profile_sidebar_fill_color" : "A6CCE0",
+		"profile_text_color" : "3C3940",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "kozu50",
+		"statuses_count" : 11015,
+		"time_zone" : "Tokyo",
+		"url" : "http://ich.sakura.ne.jp/kozukozu/",
+		"utc_offset" : 32400,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 31.6755 / 404
+[notice ] ElapsedTime: 31.691 / 401
+[notice ] ElapsedTime: 31.7083 / 396
+[notice ] ElapsedTime: 31.7257 / 393
+[notice ] ElapsedTime: 31.7414 / 389
+[notice ] ElapsedTime: 31.758 / 387
+[notice ] ElapsedTime: 31.7747 / 385
+[notice ] ElapsedTime: 31.7913 / 384
+[notice ] ElapsedTime: 31.8078 / 384
+[notice ] ElapsedTime: 31.8245 / 384
+[notice ] ElapsedTime: 31.8414 / 385
+[notice ] ElapsedTime: 31.8581 / 388
+[notice ] ElapsedTime: 31.8747 / 393
+[notice ] ElapsedTime: 31.8953 / 397
+[notice ] ElapsedTime: 31.9247 / 400
+[notice ] ElapsedTime: 31.9417 / 402
+[notice ] ElapsedTime: 31.9583 / 405
+[notice ] ElapsedTime: 31.9745 / 408
+[notice ] ElapsedTime: 31.9912 / 409
+[notice ] ElapsedTime: 32.0086 / 409
+[notice ] ElapsedTime: 32.0247 / 409
+[notice ] ElapsedTime: 32.0414 / 409
+[notice ] ElapsedTime: 32.1247 / 408
+[notice ] ElapsedTime: 32.1473 / 408
+[notice ] ElapsedTime: 32.5752 / 406
+[notice ] ElapsedTime: 32.5917 / 400
+[notice ] ElapsedTime: 32.6092 / 388
+[notice ] ElapsedTime: 32.6248 / 368
+[notice ] ElapsedTime: 32.6417 / 341
+[notice ] ElapsedTime: 32.6584 / 313
+[notice ] ElapsedTime: 32.6754 / 284
+[notice ] ElapsedTime: 32.692 / 262
+[notice ] ElapsedTime: 32.7081 / 242
+[notice ] ElapsedTime: 32.726 / 227
+[notice ] ElapsedTime: 32.7422 / 219
+[notice ] ElapsedTime: 32.7584 / 213
+[notice ] ElapsedTime: 32.7759 / 210
+[notice ] ElapsedTime: 32.7916 / 209
+[notice ] ElapsedTime: 32.8088 / 208
+[notice ] ElapsedTime: 32.8246 / 207
+[notice ] ElapsedTime: 32.8426 / 206
+[notice ] ElapsedTime: 32.8587 / 203
+[notice ] ElapsedTime: 32.8751 / 201
+[notice ] ElapsedTime: 32.892 / 195
+[notice ] ElapsedTime: 32.9093 / 190
+[notice ] ElapsedTime: 32.9262 / 185
+[notice ] ElapsedTime: 32.9585 / 180
+[notice ] ElapsedTime: 32.9761 / 176
+[notice ] ElapsedTime: 32.9919 / 170
+[notice ] ElapsedTime: 34.1471 / 644
+[notice ] ElapsedTime: 34.3798 / 960
+[notice ] ElapsedTime: 34.3969 / 960
+[notice ] ElapsedTime: 34.411 / 962
+[notice ] ElapsedTime: 34.4258 / 962
+[notice ] ElapsedTime: 34.4426 / 957
+[notice ] ElapsedTime: 34.4594 / 951
+[notice ] ElapsedTime: 34.4771 / 944
+[notice ] ElapsedTime: 34.4938 / 935
+[notice ] ElapsedTime: 34.5096 / 927
+[notice ] ElapsedTime: 34.5264 / 918
+[notice ] ElapsedTime: 34.5421 / 906
+[notice ] ElapsedTime: 34.5595 / 888
+[notice ] ElapsedTime: 34.5765 / 869
+[notice ] ElapsedTime: 34.5931 / 853
+[notice ] ElapsedTime: 34.6094 / 836
+[notice ] ElapsedTime: 34.627 / 825
+[notice ] ElapsedTime: 34.6439 / 819
+[notice ] ElapsedTime: 34.6777 / 807
+[notice ] ElapsedTime: 34.6941 / 804
+[notice ] ElapsedTime: 34.7264 / 800
+[notice ] ElapsedTime: 34.7463 / 790
+[notice ] ElapsedTime: 34.7762 / 783
+[notice ] ElapsedTime: 34.7935 / 777
+[notice ] ElapsedTime: 34.8095 / 772
+[notice ] ElapsedTime: 34.8261 / 767
+[notice ] ElapsedTime: 34.8431 / 764
+[notice ] ElapsedTime: 34.8606 / 761
+[notice ] ElapsedTime: 34.8763 / 760
+[notice ] ElapsedTime: 34.9091 / 760
+[notice ] ElapsedTime: 34.9989 / 761
+[notice ] ElapsedTime: 35.0263 / 763
+[notice ] ElapsedTime: 35.044 / 765
+[notice ] ElapsedTime: 35.0599 / 768
+[notice ] ElapsedTime: 35.0761 / 770
+[notice ] ElapsedTime: 35.0931 / 772
+[notice ] ElapsedTime: 35.1648 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Wed Oct 07 03:55:10 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 70, 77 ],
+				"text" : "うんこガチャ"
+			}
+		],
+		"symbols" : [],
+		"urls" : 
+		[
+			
+			{
+				"display_url" : "shindanmaker.com/459005",
+				"expanded_url" : "http://shindanmaker.com/459005",
+				"indices" : [ 78, 100 ],
+				"url" : "http://t.co/qiLZBiQco5"
+			}
+		],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 651606666773790700,
+	"id_str" : "651606666773790721",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ja",
+	"place" : null,
+	"possibly_sensitive" : false,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Mobile Web</a>",
+	"text" : "うんこ10連ガチャ！\n\nR:下痢\nN:うんこ\nN:うんこ\nN:うんこ\nN:うんこ\nN:うんこ\nN:うんこ\nN:うんこ\nR:下痢\nN:うんこ\n#うんこガチャ\nhttp://t.co/qiLZBiQco5",
+	"timestamp_ms" : "1444190110282",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Thu Jun 23 14:52:05 +0000 2011",
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"description" : "✿PSO2*ship4 IDName:Sally ✿AVA*少尉 S/D1.3xx ✿IIDX*九段 ✿BMS*九段 リコメンド★1.92 LR2 ID:071450 ✿Piano ✿ラブライブ！ ✿デレマス ✿パズドラ",
+		"favourites_count" : 2483,
+		"follow_request_sent" : null,
+		"followers_count" : 608,
+		"following" : null,
+		"friends_count" : 622,
+		"geo_enabled" : false,
+		"id" : 322657578,
+		"id_str" : "322657578",
+		"is_translator" : false,
+		"lang" : "ja",
+		"listed_count" : 54,
+		"location" : null,
+		"name" : "さりー＠ship4",
+		"notifications" : null,
+		"profile_background_color" : "FCEDFC",
+		"profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/352631544/irasuto008.jpg",
+		"profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/352631544/irasuto008.jpg",
+		"profile_background_tile" : true,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/322657578/1420899518",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/378800000527245135/1c336da5144c1a30b2fb378c1ebc65c5_normal.jpeg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/378800000527245135/1c336da5144c1a30b2fb378c1ebc65c5_normal.jpeg",
+		"profile_link_color" : "FA67FA",
+		"profile_sidebar_border_color" : "FAE1F0",
+		"profile_sidebar_fill_color" : "FAD2E7",
+		"profile_text_color" : "FA67FA",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "sally_mms",
+		"statuses_count" : 105467,
+		"time_zone" : "Tokyo",
+		"url" : null,
+		"utc_offset" : 32400,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 35.1676 / 774
+[notice ] ElapsedTime: 35.1926 / 774
+[notice ] ElapsedTime: 35.7206 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Wed Oct 07 03:55:10 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 69, 76 ],
+				"text" : "うんこガチャ"
+			}
+		],
+		"symbols" : [],
+		"urls" : 
+		[
+			
+			{
+				"display_url" : "shindanmaker.com/459005",
+				"expanded_url" : "http://shindanmaker.com/459005",
+				"indices" : [ 77, 99 ],
+				"url" : "http://t.co/hz7LNihi9Q"
+			}
+		],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 651606669235916800,
+	"id_str" : "651606669235916800",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ja",
+	"place" : null,
+	"possibly_sensitive" : false,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+	"text" : "うんこ10連ガチャ！\n\nN:うんこ\nN:うんこ\nN:うんこ\nR:下痢\nN:うんこ\nR:下痢\nN:うんこ\nN:うんこ\nR:下痢\nN:うんこ\n#うんこガチャ\nhttp://t.co/hz7LNihi9Q",
+	"timestamp_ms" : "1444190110869",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Fri Mar 07 12:48:46 +0000 2014",
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"description" : "遙凛宗   遙宗すき   18禁",
+		"favourites_count" : 28709,
+		"follow_request_sent" : null,
+		"followers_count" : 117,
+		"following" : null,
+		"friends_count" : 132,
+		"geo_enabled" : true,
+		"id" : 2377057536,
+		"id_str" : "2377057536",
+		"is_translator" : false,
+		"lang" : "ja",
+		"listed_count" : 10,
+		"location" : "ハイスピキメてる",
+		"name" : "ゆび＠DB23D-3",
+		"notifications" : null,
+		"profile_background_color" : "000000",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile" : false,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/2377057536/1426501654",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/633257628366340096/aOiM6Yrj_normal.jpg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/633257628366340096/aOiM6Yrj_normal.jpg",
+		"profile_link_color" : "ABB8C2",
+		"profile_sidebar_border_color" : "000000",
+		"profile_sidebar_fill_color" : "000000",
+		"profile_text_color" : "000000",
+		"profile_use_background_image" : false,
+		"protected" : false,
+		"screen_name" : "yubeen_be_f",
+		"statuses_count" : 20441,
+		"time_zone" : "Tokyo",
+		"url" : "http://pixiv.me/yubeen",
+		"utc_offset" : 32400,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 36.3767 / 559
+[notice ] ElapsedTime: 36.3948 / 579
+[notice ] ElapsedTime: 36.411 / 628
+[notice ] ElapsedTime: 36.4298 / 683
+[notice ] ElapsedTime: 36.4457 / 743
+[notice ] ElapsedTime: 36.4626 / 781
+[notice ] ElapsedTime: 36.4793 / 840
+[notice ] ElapsedTime: 37.5611 / 836
+[notice ] ElapsedTime: 37.5797 / 814
+[notice ] ElapsedTime: 37.5948 / 774
+[notice ] ElapsedTime: 37.6127 / 719
+[notice ] ElapsedTime: 37.6297 / 674
+[notice ] ElapsedTime: 37.6471 / 625
+[notice ] ElapsedTime: 37.6626 / 601
+[notice ] ElapsedTime: 37.678 / 590
+[notice ] ElapsedTime: 37.695 / 581
+[notice ] ElapsedTime: 37.7299 / 573
+[notice ] ElapsedTime: 37.7634 / 573
+[notice ] ElapsedTime: 37.8957 / 574
+[notice ] ElapsedTime: 37.9128 / 575
+[notice ] ElapsedTime: 37.9298 / 576
+[notice ] ElapsedTime: 37.9467 / 577
+[notice ] ElapsedTime: 37.9635 / 577
+[notice ] ElapsedTime: 37.9785 / 578
+[notice ] ElapsedTime: 37.995 / 578
+[notice ] ElapsedTime: 38.0118 / 578
+[notice ] ElapsedTime: 38.0273 / 578
+[notice ] ElapsedTime: 38.0451 / 577
+[notice ] ElapsedTime: 38.0975 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Wed Oct 07 03:55:13 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 81, 88 ],
+				"text" : "うんこガチャ"
+			},
+			
+			{
+				"indices" : [ 105, 116 ],
+				"text" : "キリト生誕祭2015"
+			}
+		],
+		"symbols" : [],
+		"urls" : 
+		[
+			
+			{
+				"display_url" : "ift.tt/1KYU4ym",
+				"expanded_url" : "http://ift.tt/1KYU4ym",
+				"indices" : [ 139, 140 ],
+				"url" : "http://t.co/qVx1LDP3mn"
+			}
+		],
+		"user_mentions" : 
+		[
+			
+			{
+				"id" : 3726950899,
+				"id_str" : "3726950899",
+				"indices" : [ 3, 16 ],
+				"name" : "全国のツイッタートレンド",
+				"screen_name" : "twitre_japan"
+			}
+		]
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 651606679511957500,
+	"id_str" : "651606679511957504",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ja",
+	"place" : null,
+	"possibly_sensitive" : false,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"retweeted_status" : 
+	{
+		"contributors" : null,
+		"coordinates" : null,
+		"created_at" : "Wed Oct 07 01:32:28 +0000 2015",
+		"entities" : 
+		{
+			"hashtags" : 
+			[
+				
+				{
+					"indices" : [ 63, 70 ],
+					"text" : "うんこガチャ"
+				},
+				
+				{
+					"indices" : [ 87, 98 ],
+					"text" : "キリト生誕祭2015"
+				}
+			],
+			"symbols" : [],
+			"urls" : 
+			[
+				
+				{
+					"display_url" : "ift.tt/1KYU4ym",
+					"expanded_url" : "http://ift.tt/1KYU4ym",
+					"indices" : [ 116, 138 ],
+					"url" : "http://t.co/qVx1LDP3mn"
+				}
+			],
+			"user_mentions" : []
+		},
+		"favorite_count" : 3,
+		"favorited" : false,
+		"filter_level" : "low",
+		"geo" : null,
+		"id" : 651570757101817900,
+		"id_str" : "651570757101817856",
+		"in_reply_to_screen_name" : null,
+		"in_reply_to_status_id" : null,
+		"in_reply_to_status_id_str" : null,
+		"in_reply_to_user_id" : null,
+		"in_reply_to_user_id_str" : null,
+		"is_quote_status" : false,
+		"lang" : "ja",
+		"place" : null,
+		"possibly_sensitive" : false,
+		"retweet_count" : 1,
+		"retweeted" : false,
+		"source" : "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"text" : "全国のTwitterトレンド: 2015/10/07(Wed)10:25\n\n被ばく\n\n自民行革\n\nSurface Book\n\n#うんこガチャ\n\n虎屋17代の休業あいさつ文\n\n#キリト生誕祭2015\n\nChau\n\n宇野ちゃん\n\n茂… http://t.co/qVx1LDP3mn",
+		"truncated" : false,
+		"user" : 
+		{
+			"contributors_enabled" : false,
+			"created_at" : "Tue Sep 29 15:04:44 +0000 2015",
+			"default_profile" : true,
+			"default_profile_image" : false,
+			"description" : "Twitter提供のトレンド情報に基づいて、全国で今話題になっているトレンドキーワードを定期的に配信中。ブログでは日本の各地域・都市別の配信情報も",
+			"favourites_count" : 0,
+			"follow_request_sent" : null,
+			"followers_count" : 343,
+			"following" : null,
+			"friends_count" : 449,
+			"geo_enabled" : false,
+			"id" : 3726950899,
+			"id_str" : "3726950899",
+			"is_translator" : false,
+			"lang" : "ja",
+			"listed_count" : 0,
+			"location" : "日本",
+			"name" : "全国のツイッタートレンド",
+			"notifications" : null,
+			"profile_background_color" : "C0DEED",
+			"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile" : false,
+			"profile_image_url" : "http://pbs.twimg.com/profile_images/648876412984627204/ZJQnGAW0_normal.jpg",
+			"profile_image_url_https" : "https://pbs.twimg.com/profile_images/648876412984627204/ZJQnGAW0_normal.jpg",
+			"profile_link_color" : "0084B4",
+			"profile_sidebar_border_color" : "C0DEED",
+			"profile_sidebar_fill_color" : "DDEEF6",
+			"profile_text_color" : "333333",
+			"profile_use_background_image" : true,
+			"protected" : false,
+			"screen_name" : "twitre_japan",
+			"statuses_count" : 187,
+			"time_zone" : "Pacific Time (US & Canada)",
+			"url" : "http://twitterxtrend.hatenablog.com/",
+			"utc_offset" : -25200,
+			"verified" : false
+		}
+	},
+	"source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+	"text" : "RT @twitre_japan: 全国のTwitterトレンド: 2015/10/07(Wed)10:25\n\n被ばく\n\n自民行革\n\nSurface Book\n\n#うんこガチャ\n\n虎屋17代の休業あいさつ文\n\n#キリト生誕祭2015\n\nChau\n\n宇野ちゃん\n\n茂… http:…",
+	"timestamp_ms" : "1444190113319",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Tue Apr 03 05:56:24 +0000 2012",
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"description" : "主に自分のための情報の収集と 発信にツイッターやってます。\r\nツイート、リツイート多いです。うるさいと思います。すみません。フォロー・リムーブお気軽に。過去ログ→http://twilog.org/simanekomama　…\r\nお気に入り→http://favolog.org/simanekomama",
+		"favourites_count" : 477329,
+		"follow_request_sent" : null,
+		"followers_count" : 3490,
+		"following" : null,
+		"friends_count" : 2167,
+		"geo_enabled" : true,
+		"id" : 544012988,
+		"id_str" : "544012988",
+		"is_translator" : false,
+		"lang" : "ja",
+		"listed_count" : 134,
+		"location" : "mixiにもいます",
+		"name" : "シマシマネコのママ（野党は本気を見せて）",
+		"notifications" : null,
+		"profile_background_color" : "B2DFDA",
+		"profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/624277827572105217/AXsyWDVx.jpg",
+		"profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/624277827572105217/AXsyWDVx.jpg",
+		"profile_background_tile" : true,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/544012988/1419531922",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/635074045554225152/hOMbcdYp_normal.jpg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/635074045554225152/hOMbcdYp_normal.jpg",
+		"profile_link_color" : "93A644",
+		"profile_sidebar_border_color" : "000000",
+		"profile_sidebar_fill_color" : "000000",
+		"profile_text_color" : "000000",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "simanekomama",
+		"statuses_count" : 814487,
+		"time_zone" : "Tokyo",
+		"url" : "http://mixi.jp/show_profile.pl?id=14796620",
+		"utc_offset" : 32400,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 38.1006 / 568
+[notice ] ElapsedTime: 38.112 / 564
+[notice ] ElapsedTime: 38.1286 / 560
+[notice ] ElapsedTime: 38.1456 / 557
+[notice ] ElapsedTime: 38.162 / 554
+[notice ] ElapsedTime: 38.1952 / 552
+[notice ] ElapsedTime: 38.2116 / 550
+[notice ] ElapsedTime: 38.228 / 548
+[notice ] ElapsedTime: 38.2446 / 545
+[notice ] ElapsedTime: 38.2616 / 543
+[notice ] ElapsedTime: 38.2791 / 537
+[notice ] ElapsedTime: 38.2946 / 530
+[notice ] ElapsedTime: 38.3119 / 519
+[notice ] ElapsedTime: 38.3286 / 506
+[notice ] ElapsedTime: 38.3444 / 494
+[notice ] ElapsedTime: 38.3613 / 485
+[notice ] ElapsedTime: 38.3781 / 477
+[notice ] ElapsedTime: 38.3949 / 472
+[notice ] ElapsedTime: 38.4126 / 469
+[notice ] ElapsedTime: 38.4289 / 468
+[notice ] ElapsedTime: 38.4442 / 467
+[notice ] ElapsedTime: 39.356 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Wed Oct 07 03:55:14 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 72, 79 ],
+				"text" : "うんこガチャ"
+			}
+		],
+		"symbols" : [],
+		"urls" : 
+		[
+			
+			{
+				"display_url" : "shindanmaker.com/459005",
+				"expanded_url" : "http://shindanmaker.com/459005",
+				"indices" : [ 80, 102 ],
+				"url" : "http://t.co/rNiA7RHXEd"
+			}
+		],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 651606684075319300,
+	"id_str" : "651606684075319296",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ja",
+	"place" : null,
+	"possibly_sensitive" : false,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+	"text" : "うんこ10連ガチャ！\n\nN:うんこ\nN:うんこ\nN:うんこ\nN:うんこ\nN:うんこ\nN:うんこ\nN:うんこ\nN:うんこ\nN:うんこ\nN:うんこ\n#うんこガチャ\nhttp://t.co/rNiA7RHXEd",
+	"timestamp_ms" : "1444190114407",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Fri Feb 10 08:48:53 +0000 2012",
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"description" : "成人済み腐。文の練習中。超絶チキンのため無言フォロー失礼します。くりみつ好き。たまに鶯丸と長谷部。FRBご自由にお願いします。",
+		"favourites_count" : 1359,
+		"follow_request_sent" : null,
+		"followers_count" : 36,
+		"following" : null,
+		"friends_count" : 93,
+		"geo_enabled" : false,
+		"id" : 488281055,
+		"id_str" : "488281055",
+		"is_translator" : false,
+		"lang" : "ja",
+		"listed_count" : 2,
+		"location" : null,
+		"name" : "ピャア＠社畜ツイ減",
+		"notifications" : null,
+		"profile_background_color" : "000000",
+		"profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/645014065283133440/obqjd_84.jpg",
+		"profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/645014065283133440/obqjd_84.jpg",
+		"profile_background_tile" : false,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/488281055/1442618099",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/623157157622472706/rbJ_5bcB_normal.jpg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/623157157622472706/rbJ_5bcB_normal.jpg",
+		"profile_link_color" : "000000",
+		"profile_sidebar_border_color" : "000000",
+		"profile_sidebar_fill_color" : "000000",
+		"profile_text_color" : "000000",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "ruri000111",
+		"statuses_count" : 876,
+		"time_zone" : null,
+		"url" : "http://www.pixiv.net/member.php?id=15474027",
+		"utc_offset" : null,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 42.116 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Wed Oct 07 03:55:17 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 77, 84 ],
+				"text" : "うんこガチャ"
+			}
+		],
+		"symbols" : [],
+		"urls" : 
+		[
+			
+			{
+				"display_url" : "shindanmaker.com/459005",
+				"expanded_url" : "http://shindanmaker.com/459005",
+				"indices" : [ 86, 108 ],
+				"url" : "http://t.co/YR4pWMyyIe"
+			}
+		],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 651606696029061100,
+	"id_str" : "651606696029061120",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ja",
+	"place" : null,
+	"possibly_sensitive" : false,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+	"text" : "うんこ10連ガチャ！\n\nN:うんこ\nN:うんこ\nR:下痢\nN:うんこ\nN:うんこ\nN:うんこ\nR:下痢\nHR:一週間ぶりのうんこ\nR:下痢\nN:うんこ\n\n#うんこガチャ\n\nhttp://t.co/YR4pWMyyIe",
+	"timestamp_ms" : "1444190117257",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Tue Sep 22 15:02:42 +0000 2015",
+		"default_profile" : true,
+		"default_profile_image" : false,
+		"description" : "絶賛塩対応極めてる脱毛ヲタな強火緑ペンラ担です。愛しの嫁【@317yt_kis】ラヴ☆同盟【@chankota_oo】【@hamuhamu_suke】#戦争組",
+		"favourites_count" : 4537,
+		"follow_request_sent" : null,
+		"followers_count" : 258,
+		"following" : null,
+		"friends_count" : 271,
+		"geo_enabled" : false,
+		"id" : 3649685592,
+		"id_str" : "3649685592",
+		"is_translator" : false,
+		"lang" : "en",
+		"listed_count" : 8,
+		"location" : null,
+		"name" : "はり菜はラヴ☆同盟の戦争組",
+		"notifications" : null,
+		"profile_background_color" : "C0DEED",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile" : false,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/3649685592/1443878807",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/649887411380420608/yRcEALJA_normal.jpg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/649887411380420608/yRcEALJA_normal.jpg",
+		"profile_link_color" : "0084B4",
+		"profile_sidebar_border_color" : "C0DEED",
+		"profile_sidebar_fill_color" : "DDEEF6",
+		"profile_text_color" : "333333",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "harinacs_2k1___",
+		"statuses_count" : 8333,
+		"time_zone" : null,
+		"url" : null,
+		"utc_offset" : null,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 42.2135 / 468
+[notice ] ElapsedTime: 42.2297 / 471
+[notice ] ElapsedTime: 42.2472 / 473
+[notice ] ElapsedTime: 42.2649 / 476
+[notice ] ElapsedTime: 42.281 / 479
+[notice ] ElapsedTime: 42.2968 / 483
+[notice ] ElapsedTime: 42.3139 / 485
+[notice ] ElapsedTime: 42.347 / 489
+[notice ] ElapsedTime: 42.3473 / 490
+[notice ] ElapsedTime: 42.3807 / 492
+[notice ] ElapsedTime: 42.3815 / 493
+[notice ] ElapsedTime: 42.4148 / 493
+[notice ] ElapsedTime: 42.4317 / 494
+[notice ] ElapsedTime: 42.4969 / 495
+[notice ] ElapsedTime: 42.7979 / 494
+[notice ] ElapsedTime: 42.8135 / 492
+[notice ] ElapsedTime: 42.8309 / 490
+[notice ] ElapsedTime: 42.8477 / 486
+[notice ] ElapsedTime: 42.8641 / 484
+[notice ] ElapsedTime: 42.8804 / 479
+[notice ] ElapsedTime: 42.897 / 477
+[notice ] ElapsedTime: 42.9142 / 475
+[notice ] ElapsedTime: 42.9311 / 474
+[notice ] ElapsedTime: 42.9646 / 474
+[notice ] ElapsedTime: 43.2968 / 475
+[notice ] ElapsedTime: 43.3152 / 481
+[notice ] ElapsedTime: 43.331 / 486
+[notice ] ElapsedTime: 43.3473 / 495
+[notice ] ElapsedTime: 43.3646 / 501
+[notice ] ElapsedTime: 43.3808 / 509
+[notice ] ElapsedTime: 43.4138 / 517
+[notice ] ElapsedTime: 43.4307 / 524
+[notice ] ElapsedTime: 43.4483 / 529
+[notice ] ElapsedTime: 43.4488 / 534
+[notice ] ElapsedTime: 43.4811 / 539
+[notice ] ElapsedTime: 43.4973 / 542
+[notice ] ElapsedTime: 43.5144 / 544
+[notice ] ElapsedTime: 43.531 / 545
+[notice ] ElapsedTime: 43.5472 / 547
+[notice ] ElapsedTime: 43.648 / 547
+[notice ] ElapsedTime: 43.6652 / 548
+[notice ] ElapsedTime: 43.6807 / 548
+[notice ] ElapsedTime: 43.6974 / 549
+[notice ] ElapsedTime: 43.7139 / 549
+[notice ] ElapsedTime: 43.7313 / 550
+[notice ] ElapsedTime: 43.765 / 550
+[notice ] ElapsedTime: 43.7811 / 550
+[notice ] ElapsedTime: 43.8149 / 550
+[notice ] ElapsedTime: 44.8157 / 680

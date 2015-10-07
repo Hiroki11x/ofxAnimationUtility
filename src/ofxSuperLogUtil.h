@@ -16,7 +16,7 @@ class ofxSuperLogUtil{
 private:
 public:
     void init();
-    void set_log(float arg);
+    void set_log(string arg);
 };
 
 #endif /* defined(__ofxAnimationUtility__ofxSuperLogUtil__) */

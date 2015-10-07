@@ -15,6 +15,6 @@ void ofxSuperLogUtil::init(){
     ofxSuperLog::getLogger()->setMaximized(true);//画面上に表示
 }
 
-void ofxSuperLogUtil::set_log(float arg){
+void ofxSuperLogUtil::set_log(string arg){
     ofLogNotice() << "ElapsedTime: " << ofGetElapsedTimef() << " / " << arg;
 }

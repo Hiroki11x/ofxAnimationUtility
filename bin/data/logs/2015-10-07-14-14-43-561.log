@@ -1,0 +1,7 @@
+
+
+--------------------------------------- 2015-10-07-14-14-43-562
+[ error ] ofURLFileLoader: handleRequest(): Host not found: pbs.twimg.com
+[ error ] ofImage: loadImage(): couldn't load image from ofBuffer, unable to guess image format from memory
+[ error ] ofImage: loadImage(): couldn't load image from "http://pbs.twimg.com/profile_images/644970037921513472/8TlO09Xl_normal.png"
+[notice ] ElapsedTime: 0.45864 / 

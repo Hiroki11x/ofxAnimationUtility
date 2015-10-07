@@ -29,8 +29,12 @@ public:
     static void recieve(){
         
 //        bool parsingSuccessful = jsonElement.openLocal("MAU_twit/twitter.json");//Nodeで取得したJSON
+        //Nodeを　プロジェクトディレクトリとおなじ階層にいれた
+        
         bool parsingSuccessful = jsonElement.openLocal("../../../MAU_twit/twitter.json");//Nodeで取得したJSON
 
+//        parsingSuccessful =false;
+        
         static ofxSuperLogUtil log;
         
         if (parsingSuccessful){

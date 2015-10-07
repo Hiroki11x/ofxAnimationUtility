@@ -1,0 +1,1927 @@
+
+
+--------------------------------------- 2015-10-07-16-08-41-526
+[notice ] ElapsedTime: 7.53768 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Wed Oct 07 07:08:48 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 21, 35 ],
+				"text" : "庭から出現すると嬉しい資源"
+			}
+		],
+		"symbols" : [],
+		"urls" : [],
+		"user_mentions" : 
+		[
+			
+			{
+				"id" : 910426686,
+				"id_str" : "910426686",
+				"indices" : [ 3, 19 ],
+				"name" : "MICHI",
+				"screen_name" : "miyazak47469715"
+			}
+		]
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 651655397405659100,
+	"id_str" : "651655397405659136",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ja",
+	"place" : null,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"retweeted_status" : 
+	{
+		"contributors" : null,
+		"coordinates" : null,
+		"created_at" : "Wed Oct 07 07:06:33 +0000 2015",
+		"entities" : 
+		{
+			"hashtags" : 
+			[
+				
+				{
+					"indices" : [ 0, 14 ],
+					"text" : "庭から出現すると嬉しい資源"
+				}
+			],
+			"symbols" : [],
+			"urls" : [],
+			"user_mentions" : []
+		},
+		"favorite_count" : 0,
+		"favorited" : false,
+		"filter_level" : "low",
+		"geo" : null,
+		"id" : 651654830981709800,
+		"id_str" : "651654830981709824",
+		"in_reply_to_screen_name" : null,
+		"in_reply_to_status_id" : null,
+		"in_reply_to_status_id_str" : null,
+		"in_reply_to_user_id" : null,
+		"in_reply_to_user_id_str" : null,
+		"is_quote_status" : false,
+		"lang" : "ja",
+		"place" : null,
+		"retweet_count" : 1,
+		"retweeted" : false,
+		"source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"text" : "#庭から出現すると嬉しい資源 \n才能の泉",
+		"truncated" : false,
+		"user" : 
+		{
+			"contributors_enabled" : false,
+			"created_at" : "Sun Oct 28 14:36:30 +0000 2012",
+			"default_profile" : false,
+			"default_profile_image" : false,
+			"description" : "#宮城生まれの戯け者 #余命3年事実日記 自己流 #発達障害 #安倍総理支持 バツ1チビ2⭐️マイルド右翼 ⭐️自分の家族を護る事が先♪ #拉致被害全員奪還 #日教組撲滅 #月曜禁酒クラブ #祝奉秩父神社御鎮座弐阡百年 #二合の会 #石田千尋 氏に大迷惑を掛けた大馬鹿野郎です反省中 #猫舌同盟締結@tonbimama",
+			"favourites_count" : 36769,
+			"follow_request_sent" : null,
+			"followers_count" : 1489,
+			"following" : null,
+			"friends_count" : 1233,
+			"geo_enabled" : false,
+			"id" : 910426686,
+			"id_str" : "910426686",
+			"is_translator" : false,
+			"lang" : "ja",
+			"listed_count" : 27,
+			"location" : "japan saitama ",
+			"name" : "MICHI",
+			"notifications" : null,
+			"profile_background_color" : "EBEBEB",
+			"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile" : false,
+			"profile_banner_url" : "https://pbs.twimg.com/profile_banners/910426686/1442763476",
+			"profile_image_url" : "http://pbs.twimg.com/profile_images/646202230865981441/hTVfC4WX_normal.jpg",
+			"profile_image_url_https" : "https://pbs.twimg.com/profile_images/646202230865981441/hTVfC4WX_normal.jpg",
+			"profile_link_color" : "990000",
+			"profile_sidebar_border_color" : "DFDFDF",
+			"profile_sidebar_fill_color" : "F3F3F3",
+			"profile_text_color" : "333333",
+			"profile_use_background_image" : true,
+			"protected" : false,
+			"screen_name" : "miyazak47469715",
+			"statuses_count" : 100634,
+			"time_zone" : "Tokyo",
+			"url" : null,
+			"utc_offset" : 32400,
+			"verified" : false
+		}
+	},
+	"source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+	"text" : "RT @miyazak47469715: #庭から出現すると嬉しい資源 \n才能の泉",
+	"timestamp_ms" : "1444201728570",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Sun Oct 20 06:32:00 +0000 2013",
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"description" : "ホモは大体美味しい腐っているババア( ^ω^ )二次元/BL/ラブライブ(希推/うたプリ(真斗担/ニコ動/ボカロ/アイドル/アニメ/漫画/音楽/映画/アイス\\お菓子 とうらぶ初心者！",
+		"favourites_count" : 890,
+		"follow_request_sent" : null,
+		"followers_count" : 197,
+		"following" : null,
+		"friends_count" : 645,
+		"geo_enabled" : false,
+		"id" : 1974053784,
+		"id_str" : "1974053784",
+		"is_translator" : false,
+		"lang" : "ja",
+		"listed_count" : 0,
+		"location" : null,
+		"name" : "土竜",
+		"notifications" : null,
+		"profile_background_color" : "000000",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile" : false,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/1974053784/1443454470",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/601647220547395585/gcZDEZTs_normal.png",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/601647220547395585/gcZDEZTs_normal.png",
+		"profile_link_color" : "F5ABB5",
+		"profile_sidebar_border_color" : "000000",
+		"profile_sidebar_fill_color" : "000000",
+		"profile_text_color" : "000000",
+		"profile_use_background_image" : false,
+		"protected" : false,
+		"screen_name" : "zuttokinbaku",
+		"statuses_count" : 3140,
+		"time_zone" : "Tokyo",
+		"url" : null,
+		"utc_offset" : 32400,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 8.72958 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Wed Oct 07 07:08:49 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 0, 14 ],
+				"text" : "庭から出現すると嬉しい資源"
+			}
+		],
+		"media" : 
+		[
+			
+			{
+				"display_url" : "pic.twitter.com/rjAXRzaGhH",
+				"expanded_url" : "http://twitter.com/TokyoZooNet_PR/status/651655403160268800/photo/1",
+				"id" : 651655401671229400,
+				"id_str" : "651655401671229441",
+				"indices" : [ 25, 47 ],
+				"media_url" : "http://pbs.twimg.com/media/CQslIpyUAAEyutD.jpg",
+				"media_url_https" : "https://pbs.twimg.com/media/CQslIpyUAAEyutD.jpg",
+				"sizes" : 
+				{
+					"large" : 
+					{
+						"h" : 365,
+						"resize" : "fit",
+						"w" : 550
+					},
+					"medium" : 
+					{
+						"h" : 365,
+						"resize" : "fit",
+						"w" : 550
+					},
+					"small" : 
+					{
+						"h" : 225,
+						"resize" : "fit",
+						"w" : 340
+					},
+					"thumb" : 
+					{
+						"h" : 150,
+						"resize" : "crop",
+						"w" : 150
+					}
+				},
+				"type" : "photo",
+				"url" : "http://t.co/rjAXRzaGhH"
+			}
+		],
+		"symbols" : [],
+		"urls" : [],
+		"user_mentions" : []
+	},
+	"extended_entities" : 
+	{
+		"media" : 
+		[
+			
+			{
+				"display_url" : "pic.twitter.com/rjAXRzaGhH",
+				"expanded_url" : "http://twitter.com/TokyoZooNet_PR/status/651655403160268800/photo/1",
+				"id" : 651655401671229400,
+				"id_str" : "651655401671229441",
+				"indices" : [ 25, 47 ],
+				"media_url" : "http://pbs.twimg.com/media/CQslIpyUAAEyutD.jpg",
+				"media_url_https" : "https://pbs.twimg.com/media/CQslIpyUAAEyutD.jpg",
+				"sizes" : 
+				{
+					"large" : 
+					{
+						"h" : 365,
+						"resize" : "fit",
+						"w" : 550
+					},
+					"medium" : 
+					{
+						"h" : 365,
+						"resize" : "fit",
+						"w" : 550
+					},
+					"small" : 
+					{
+						"h" : 225,
+						"resize" : "fit",
+						"w" : 340
+					},
+					"thumb" : 
+					{
+						"h" : 150,
+						"resize" : "crop",
+						"w" : 150
+					}
+				},
+				"type" : "photo",
+				"url" : "http://t.co/rjAXRzaGhH"
+			}
+		]
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 651655403160268800,
+	"id_str" : "651655403160268800",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ja",
+	"place" : null,
+	"possibly_sensitive" : false,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+	"text" : "#庭から出現すると嬉しい資源\n\n以前埋めたクルミ http://t.co/rjAXRzaGhH",
+	"timestamp_ms" : "1444201729942",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Thu Jan 10 08:36:41 +0000 2013",
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"description" : "上野動物園・多摩動物公園・葛西臨海水族園・井の頭自然文化園の公式サイト、それが東京ズーネット。中のヒトの事務所は上野動物園内。",
+		"favourites_count" : 4920,
+		"follow_request_sent" : null,
+		"followers_count" : 56163,
+		"following" : null,
+		"friends_count" : 29643,
+		"geo_enabled" : false,
+		"id" : 1076058583,
+		"id_str" : "1076058583",
+		"is_translator" : false,
+		"lang" : "ja",
+		"listed_count" : 1649,
+		"location" : null,
+		"name" : "東京ズーネット［公式］",
+		"notifications" : null,
+		"profile_background_color" : "EBEBEB",
+		"profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/378800000101357888/ce800fc3fc4dc978339b5e30c6e97dc1.gif",
+		"profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/378800000101357888/ce800fc3fc4dc978339b5e30c6e97dc1.gif",
+		"profile_background_tile" : false,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/1076058583/1418623881",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/634565443307462656/Sj7ks1mK_normal.jpg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/634565443307462656/Sj7ks1mK_normal.jpg",
+		"profile_link_color" : "009999",
+		"profile_sidebar_border_color" : "FFFFFF",
+		"profile_sidebar_fill_color" : "DDEEF6",
+		"profile_text_color" : "333333",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "TokyoZooNet_PR",
+		"statuses_count" : 14264,
+		"time_zone" : "Tokyo",
+		"url" : "http://www.tokyo-zoo.net/",
+		"utc_offset" : 32400,
+		"verified" : true
+	}
+}
+
+[notice ] ElapsedTime: 22.5026 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Wed Oct 07 07:09:03 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 8, 22 ],
+				"text" : "庭から出現すると嬉しい資源"
+			},
+			
+			{
+				"indices" : [ 23, 30 ],
+				"text" : "あなたの属性"
+			}
+		],
+		"symbols" : [],
+		"urls" : 
+		[
+			
+			{
+				"display_url" : "goo.gl/ZLx5RJ",
+				"expanded_url" : "http://goo.gl/ZLx5RJ",
+				"indices" : [ 103, 125 ],
+				"url" : "http://t.co/nFL3hHDj5K"
+			}
+		],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 651655460286627800,
+	"id_str" : "651655460286627840",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ja",
+	"place" : null,
+	"possibly_sensitive" : false,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"https://twitter.com/migakuwork\" rel=\"nofollow\">キラキラ女子速報！</a>",
+	"text" : "現在のトレンド\n#庭から出現すると嬉しい資源\n#あなたの属性\nうんこ10連ガチャ\nスタレジェ\n仮面ライダーあつめ\nErieちゃん\nFlower\nTHE ORIGIN\n林原めぐみ\n第3次安倍改造内閣\nまとめ→http://t.co/nFL3hHDj5K",
+	"timestamp_ms" : "1444201743562",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Sun Jul 19 11:55:21 +0000 2015",
+		"default_profile" : true,
+		"default_profile_image" : false,
+		"description" : "たいがでーす",
+		"favourites_count" : 0,
+		"follow_request_sent" : null,
+		"followers_count" : 16,
+		"following" : null,
+		"friends_count" : 36,
+		"geo_enabled" : false,
+		"id" : 3284295152,
+		"id_str" : "3284295152",
+		"is_translator" : false,
+		"lang" : "ja",
+		"listed_count" : 0,
+		"location" : null,
+		"name" : "たいが(╭☞´ิ∀´ิ)╭☞",
+		"notifications" : null,
+		"profile_background_color" : "C0DEED",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile" : false,
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/622737184739606528/mTwYA1bt_normal.jpg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/622737184739606528/mTwYA1bt_normal.jpg",
+		"profile_link_color" : "0084B4",
+		"profile_sidebar_border_color" : "C0DEED",
+		"profile_sidebar_fill_color" : "DDEEF6",
+		"profile_text_color" : "333333",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "KTaiga0314",
+		"statuses_count" : 3,
+		"time_zone" : null,
+		"url" : null,
+		"utc_offset" : null,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 22.5889 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Wed Oct 07 07:09:03 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 4, 18 ],
+				"text" : "庭から出現すると嬉しい資源"
+			}
+		],
+		"symbols" : [],
+		"urls" : [],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 651655462048260100,
+	"id_str" : "651655462048260096",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ja",
+	"place" : null,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+	"text" : "握手券 #庭から出現すると嬉しい資源",
+	"timestamp_ms" : "1444201743982",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Sun Aug 23 07:44:28 +0000 2009",
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"description" : "まどマギ/SKE48/艦これ/drop 百合好きお絵描きマンです。最近アイドルの話しかしません。SKE推しの矢神久美と谷真理佳推し。絵のお仕事なども募集しております。下記アドレスまでご連絡ください。 メール→jikasei@hotmail.co.jp アイドルトーク用垢→@JKS_48 pixivID→158417",
+		"favourites_count" : 3072,
+		"follow_request_sent" : null,
+		"followers_count" : 9007,
+		"following" : null,
+		"friends_count" : 553,
+		"geo_enabled" : false,
+		"id" : 68099529,
+		"id_str" : "68099529",
+		"is_translator" : false,
+		"lang" : "ja",
+		"listed_count" : 477,
+		"location" : "HYOGO",
+		"name" : "自家製",
+		"notifications" : null,
+		"profile_background_color" : "EDECE9",
+		"profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/31685454/__.jpg",
+		"profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/31685454/__.jpg",
+		"profile_background_tile" : true,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/68099529/1433686826",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/607554150109319169/JiZTJa9e_normal.jpg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/607554150109319169/JiZTJa9e_normal.jpg",
+		"profile_link_color" : "3B94D9",
+		"profile_sidebar_border_color" : "D3D2CF",
+		"profile_sidebar_fill_color" : "E3E2DE",
+		"profile_text_color" : "634047",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "jikasei430",
+		"statuses_count" : 239991,
+		"time_zone" : "Osaka",
+		"url" : "http://jikasei.tumblr.com/",
+		"utc_offset" : 32400,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 23.978 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Wed Oct 07 07:09:05 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 20, 34 ],
+				"text" : "庭から出現すると嬉しい資源"
+			}
+		],
+		"media" : 
+		[
+			
+			{
+				"display_url" : "pic.twitter.com/rjAXRzaGhH",
+				"expanded_url" : "http://twitter.com/TokyoZooNet_PR/status/651655403160268800/photo/1",
+				"id" : 651655401671229400,
+				"id_str" : "651655401671229441",
+				"indices" : [ 45, 67 ],
+				"media_url" : "http://pbs.twimg.com/media/CQslIpyUAAEyutD.jpg",
+				"media_url_https" : "https://pbs.twimg.com/media/CQslIpyUAAEyutD.jpg",
+				"sizes" : 
+				{
+					"large" : 
+					{
+						"h" : 365,
+						"resize" : "fit",
+						"w" : 550
+					},
+					"medium" : 
+					{
+						"h" : 365,
+						"resize" : "fit",
+						"w" : 550
+					},
+					"small" : 
+					{
+						"h" : 225,
+						"resize" : "fit",
+						"w" : 340
+					},
+					"thumb" : 
+					{
+						"h" : 150,
+						"resize" : "crop",
+						"w" : 150
+					}
+				},
+				"source_status_id" : 651655403160268800,
+				"source_status_id_str" : "651655403160268800",
+				"source_user_id" : 1076058583,
+				"source_user_id_str" : "1076058583",
+				"type" : "photo",
+				"url" : "http://t.co/rjAXRzaGhH"
+			}
+		],
+		"symbols" : [],
+		"urls" : [],
+		"user_mentions" : 
+		[
+			
+			{
+				"id" : 1076058583,
+				"id_str" : "1076058583",
+				"indices" : [ 3, 18 ],
+				"name" : "東京ズーネット［公式］",
+				"screen_name" : "TokyoZooNet_PR"
+			}
+		]
+	},
+	"extended_entities" : 
+	{
+		"media" : 
+		[
+			
+			{
+				"display_url" : "pic.twitter.com/rjAXRzaGhH",
+				"expanded_url" : "http://twitter.com/TokyoZooNet_PR/status/651655403160268800/photo/1",
+				"id" : 651655401671229400,
+				"id_str" : "651655401671229441",
+				"indices" : [ 45, 67 ],
+				"media_url" : "http://pbs.twimg.com/media/CQslIpyUAAEyutD.jpg",
+				"media_url_https" : "https://pbs.twimg.com/media/CQslIpyUAAEyutD.jpg",
+				"sizes" : 
+				{
+					"large" : 
+					{
+						"h" : 365,
+						"resize" : "fit",
+						"w" : 550
+					},
+					"medium" : 
+					{
+						"h" : 365,
+						"resize" : "fit",
+						"w" : 550
+					},
+					"small" : 
+					{
+						"h" : 225,
+						"resize" : "fit",
+						"w" : 340
+					},
+					"thumb" : 
+					{
+						"h" : 150,
+						"resize" : "crop",
+						"w" : 150
+					}
+				},
+				"source_status_id" : 651655403160268800,
+				"source_status_id_str" : "651655403160268800",
+				"source_user_id" : 1076058583,
+				"source_user_id_str" : "1076058583",
+				"type" : "photo",
+				"url" : "http://t.co/rjAXRzaGhH"
+			}
+		]
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 651655467547029500,
+	"id_str" : "651655467547029504",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ja",
+	"place" : null,
+	"possibly_sensitive" : false,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"retweeted_status" : 
+	{
+		"contributors" : null,
+		"coordinates" : null,
+		"created_at" : "Wed Oct 07 07:08:49 +0000 2015",
+		"entities" : 
+		{
+			"hashtags" : 
+			[
+				
+				{
+					"indices" : [ 0, 14 ],
+					"text" : "庭から出現すると嬉しい資源"
+				}
+			],
+			"media" : 
+			[
+				
+				{
+					"display_url" : "pic.twitter.com/rjAXRzaGhH",
+					"expanded_url" : "http://twitter.com/TokyoZooNet_PR/status/651655403160268800/photo/1",
+					"id" : 651655401671229400,
+					"id_str" : "651655401671229441",
+					"indices" : [ 25, 47 ],
+					"media_url" : "http://pbs.twimg.com/media/CQslIpyUAAEyutD.jpg",
+					"media_url_https" : "https://pbs.twimg.com/media/CQslIpyUAAEyutD.jpg",
+					"sizes" : 
+					{
+						"large" : 
+						{
+							"h" : 365,
+							"resize" : "fit",
+							"w" : 550
+						},
+						"medium" : 
+						{
+							"h" : 365,
+							"resize" : "fit",
+							"w" : 550
+						},
+						"small" : 
+						{
+							"h" : 225,
+							"resize" : "fit",
+							"w" : 340
+						},
+						"thumb" : 
+						{
+							"h" : 150,
+							"resize" : "crop",
+							"w" : 150
+						}
+					},
+					"type" : "photo",
+					"url" : "http://t.co/rjAXRzaGhH"
+				}
+			],
+			"symbols" : [],
+			"urls" : [],
+			"user_mentions" : []
+		},
+		"extended_entities" : 
+		{
+			"media" : 
+			[
+				
+				{
+					"display_url" : "pic.twitter.com/rjAXRzaGhH",
+					"expanded_url" : "http://twitter.com/TokyoZooNet_PR/status/651655403160268800/photo/1",
+					"id" : 651655401671229400,
+					"id_str" : "651655401671229441",
+					"indices" : [ 25, 47 ],
+					"media_url" : "http://pbs.twimg.com/media/CQslIpyUAAEyutD.jpg",
+					"media_url_https" : "https://pbs.twimg.com/media/CQslIpyUAAEyutD.jpg",
+					"sizes" : 
+					{
+						"large" : 
+						{
+							"h" : 365,
+							"resize" : "fit",
+							"w" : 550
+						},
+						"medium" : 
+						{
+							"h" : 365,
+							"resize" : "fit",
+							"w" : 550
+						},
+						"small" : 
+						{
+							"h" : 225,
+							"resize" : "fit",
+							"w" : 340
+						},
+						"thumb" : 
+						{
+							"h" : 150,
+							"resize" : "crop",
+							"w" : 150
+						}
+					},
+					"type" : "photo",
+					"url" : "http://t.co/rjAXRzaGhH"
+				}
+			]
+		},
+		"favorite_count" : 0,
+		"favorited" : false,
+		"filter_level" : "low",
+		"geo" : null,
+		"id" : 651655403160268800,
+		"id_str" : "651655403160268800",
+		"in_reply_to_screen_name" : null,
+		"in_reply_to_status_id" : null,
+		"in_reply_to_status_id_str" : null,
+		"in_reply_to_user_id" : null,
+		"in_reply_to_user_id_str" : null,
+		"is_quote_status" : false,
+		"lang" : "ja",
+		"place" : null,
+		"possibly_sensitive" : false,
+		"retweet_count" : 1,
+		"retweeted" : false,
+		"source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"text" : "#庭から出現すると嬉しい資源\n\n以前埋めたクルミ http://t.co/rjAXRzaGhH",
+		"truncated" : false,
+		"user" : 
+		{
+			"contributors_enabled" : false,
+			"created_at" : "Thu Jan 10 08:36:41 +0000 2013",
+			"default_profile" : false,
+			"default_profile_image" : false,
+			"description" : "上野動物園・多摩動物公園・葛西臨海水族園・井の頭自然文化園の公式サイト、それが東京ズーネット。中のヒトの事務所は上野動物園内。",
+			"favourites_count" : 4920,
+			"follow_request_sent" : null,
+			"followers_count" : 56163,
+			"following" : null,
+			"friends_count" : 29643,
+			"geo_enabled" : false,
+			"id" : 1076058583,
+			"id_str" : "1076058583",
+			"is_translator" : false,
+			"lang" : "ja",
+			"listed_count" : 1649,
+			"location" : null,
+			"name" : "東京ズーネット［公式］",
+			"notifications" : null,
+			"profile_background_color" : "EBEBEB",
+			"profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/378800000101357888/ce800fc3fc4dc978339b5e30c6e97dc1.gif",
+			"profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/378800000101357888/ce800fc3fc4dc978339b5e30c6e97dc1.gif",
+			"profile_background_tile" : false,
+			"profile_banner_url" : "https://pbs.twimg.com/profile_banners/1076058583/1418623881",
+			"profile_image_url" : "http://pbs.twimg.com/profile_images/634565443307462656/Sj7ks1mK_normal.jpg",
+			"profile_image_url_https" : "https://pbs.twimg.com/profile_images/634565443307462656/Sj7ks1mK_normal.jpg",
+			"profile_link_color" : "009999",
+			"profile_sidebar_border_color" : "FFFFFF",
+			"profile_sidebar_fill_color" : "DDEEF6",
+			"profile_text_color" : "333333",
+			"profile_use_background_image" : true,
+			"protected" : false,
+			"screen_name" : "TokyoZooNet_PR",
+			"statuses_count" : 14264,
+			"time_zone" : "Tokyo",
+			"url" : "http://www.tokyo-zoo.net/",
+			"utc_offset" : 32400,
+			"verified" : true
+		}
+	},
+	"source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+	"text" : "RT @TokyoZooNet_PR: #庭から出現すると嬉しい資源\n\n以前埋めたクルミ http://t.co/rjAXRzaGhH",
+	"timestamp_ms" : "1444201745293",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Thu Aug 19 16:20:18 +0000 2010",
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"description" : "趣向：右兎固定/ 獅子兎/ 虎兎等。成人。Twitterですのでフォロー時のご挨拶は不要です。無言フォロー派。趣向不一致／不明の方へのフォロバは致しかねます。T&Bダーツライ部。ビーズ等々の工作もしております。アイコンは自作ケーキです。",
+		"favourites_count" : 319,
+		"follow_request_sent" : null,
+		"followers_count" : 333,
+		"following" : null,
+		"friends_count" : 544,
+		"geo_enabled" : false,
+		"id" : 180426560,
+		"id_str" : "180426560",
+		"is_translator" : false,
+		"lang" : "ja",
+		"listed_count" : 4,
+		"location" : "バニかわ村 23区",
+		"name" : "みゆき@T&B",
+		"notifications" : null,
+		"profile_background_color" : "642D8B",
+		"profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/378800000017733761/0e1075b156865b55c4d83c36e627a512.jpeg",
+		"profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/378800000017733761/0e1075b156865b55c4d83c36e627a512.jpeg",
+		"profile_background_tile" : false,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/180426560/1373253109",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/548782689327661056/ZwYIJ-R9_normal.jpeg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/548782689327661056/ZwYIJ-R9_normal.jpeg",
+		"profile_link_color" : "A200FF",
+		"profile_sidebar_border_color" : "FFFFFF",
+		"profile_sidebar_fill_color" : "7AC3EE",
+		"profile_text_color" : "3D1957",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "xx_miyuki",
+		"statuses_count" : 29370,
+		"time_zone" : "Tokyo",
+		"url" : "http://pixiv.me/miyukixx",
+		"utc_offset" : 32400,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 24.2942 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Wed Oct 07 07:09:05 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 15, 29 ],
+				"text" : "庭から出現すると嬉しい資源"
+			}
+		],
+		"symbols" : [],
+		"urls" : [],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 651655469010808800,
+	"id_str" : "651655469010808832",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ja",
+	"place" : null,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://twitter.softama.com/\" rel=\"nofollow\">ツイタマ</a>",
+	"text" : "インフィニティ・ガントレット　#庭から出現すると嬉しい資源",
+	"timestamp_ms" : "1444201745642",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Wed Jan 09 03:31:57 +0000 2013",
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"description" : "アクション映画、香港映画、日本の古いアクション、時代劇、特撮が好きです。拳銃や小さなアメトイ玩具も好物。音楽は洋楽中心ですがPerfumeと中谷美紀、thee michelle gun elephantは大好き。タイのアイドルPOPもね。80年代ロックもOK。よろしくお願いいたします。",
+		"favourites_count" : 8810,
+		"follow_request_sent" : null,
+		"followers_count" : 1198,
+		"following" : null,
+		"friends_count" : 1989,
+		"geo_enabled" : false,
+		"id" : 1072726819,
+		"id_str" : "1072726819",
+		"is_translator" : false,
+		"lang" : "ja",
+		"listed_count" : 31,
+		"location" : "スターリング・シティ都心から32km",
+		"name" : "あなぐらむ(ARROW)",
+		"notifications" : null,
+		"profile_background_color" : "C0DEED",
+		"profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/539345913689276416/f1QuwJ82.jpeg",
+		"profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/539345913689276416/f1QuwJ82.jpeg",
+		"profile_background_tile" : true,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/1072726819/1376919907",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/378800000141362838/34e84129feed4211cb2698b1a26b672b_normal.jpeg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/378800000141362838/34e84129feed4211cb2698b1a26b672b_normal.jpeg",
+		"profile_link_color" : "0084B4",
+		"profile_sidebar_border_color" : "FFFFFF",
+		"profile_sidebar_fill_color" : "DDEEF6",
+		"profile_text_color" : "333333",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "G08U26N",
+		"statuses_count" : 49883,
+		"time_zone" : "Irkutsk",
+		"url" : "http://eroblo.exblog.jp/",
+		"utc_offset" : 28800,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 24.8045 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Wed Oct 07 07:09:06 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 22, 36 ],
+				"text" : "庭から出現すると嬉しい資源"
+			}
+		],
+		"symbols" : [],
+		"urls" : [],
+		"user_mentions" : 
+		[
+			
+			{
+				"id" : 632093828,
+				"id_str" : "632093828",
+				"indices" : [ 3, 17 ],
+				"name" : "なまこのこのこ",
+				"screen_name" : "Ekurea_namakO"
+			}
+		]
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 651655470801817600,
+	"id_str" : "651655470801817601",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ja",
+	"place" : null,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"retweeted_status" : 
+	{
+		"contributors" : null,
+		"coordinates" : null,
+		"created_at" : "Wed Oct 07 07:07:54 +0000 2015",
+		"entities" : 
+		{
+			"hashtags" : 
+			[
+				
+				{
+					"indices" : [ 3, 17 ],
+					"text" : "庭から出現すると嬉しい資源"
+				}
+			],
+			"symbols" : [],
+			"urls" : [],
+			"user_mentions" : []
+		},
+		"favorite_count" : 0,
+		"favorited" : false,
+		"filter_level" : "low",
+		"geo" : null,
+		"id" : 651655169604653000,
+		"id_str" : "651655169604653056",
+		"in_reply_to_screen_name" : null,
+		"in_reply_to_status_id" : null,
+		"in_reply_to_status_id_str" : null,
+		"in_reply_to_user_id" : null,
+		"in_reply_to_user_id_str" : null,
+		"is_quote_status" : false,
+		"lang" : "ja",
+		"place" : null,
+		"retweet_count" : 1,
+		"retweeted" : false,
+		"source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"text" : "札束\n#庭から出現すると嬉しい資源",
+		"truncated" : false,
+		"user" : 
+		{
+			"contributors_enabled" : false,
+			"created_at" : "Tue Jul 10 15:57:45 +0000 2012",
+			"default_profile" : false,
+			"default_profile_image" : false,
+			"description" : "絵を描くｹﾞｰﾑ好き新米提督｡うちの子厨な親馬鹿｡R18発言注意｡現在はGE2RBﾒｲﾝﾌﾟﾚｲ｡創作ﾈﾀ多｡ ﾍｯﾀﾞｰ:自作 ｻﾑﾈ:ちのさん(@tino0224) ※ﾂｲﾌﾟﾛ必読",
+			"favourites_count" : 6205,
+			"follow_request_sent" : null,
+			"followers_count" : 634,
+			"following" : null,
+			"friends_count" : 1931,
+			"geo_enabled" : false,
+			"id" : 632093828,
+			"id_str" : "632093828",
+			"is_translator" : false,
+			"lang" : "ja",
+			"listed_count" : 24,
+			"location" : "フェンリル極東支部 自室(ひきこもり)",
+			"name" : "なまこのこのこ",
+			"notifications" : null,
+			"profile_background_color" : "1A1B1F",
+			"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile" : false,
+			"profile_banner_url" : "https://pbs.twimg.com/profile_banners/632093828/1442445384",
+			"profile_image_url" : "http://pbs.twimg.com/profile_images/644288755583455232/q5ND6hGt_normal.jpg",
+			"profile_image_url_https" : "https://pbs.twimg.com/profile_images/644288755583455232/q5ND6hGt_normal.jpg",
+			"profile_link_color" : "663366",
+			"profile_sidebar_border_color" : "FFFFFF",
+			"profile_sidebar_fill_color" : "DDEEF6",
+			"profile_text_color" : "333333",
+			"profile_use_background_image" : true,
+			"protected" : false,
+			"screen_name" : "Ekurea_namakO",
+			"statuses_count" : 13816,
+			"time_zone" : "Irkutsk",
+			"url" : "http://twpf.jp/Ekurea_namakO",
+			"utc_offset" : 28800,
+			"verified" : false
+		}
+	},
+	"source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+	"text" : "RT @Ekurea_namakO: 札束\n#庭から出現すると嬉しい資源",
+	"timestamp_ms" : "1444201746069",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Sun Oct 20 06:32:00 +0000 2013",
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"description" : "ホモは大体美味しい腐っているババア( ^ω^ )二次元/BL/ラブライブ(希推/うたプリ(真斗担/ニコ動/ボカロ/アイドル/アニメ/漫画/音楽/映画/アイス\\お菓子 とうらぶ初心者！",
+		"favourites_count" : 890,
+		"follow_request_sent" : null,
+		"followers_count" : 198,
+		"following" : null,
+		"friends_count" : 645,
+		"geo_enabled" : false,
+		"id" : 1974053784,
+		"id_str" : "1974053784",
+		"is_translator" : false,
+		"lang" : "ja",
+		"listed_count" : 0,
+		"location" : null,
+		"name" : "土竜",
+		"notifications" : null,
+		"profile_background_color" : "000000",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile" : false,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/1974053784/1443454470",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/601647220547395585/gcZDEZTs_normal.png",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/601647220547395585/gcZDEZTs_normal.png",
+		"profile_link_color" : "F5ABB5",
+		"profile_sidebar_border_color" : "000000",
+		"profile_sidebar_fill_color" : "000000",
+		"profile_text_color" : "000000",
+		"profile_use_background_image" : false,
+		"protected" : false,
+		"screen_name" : "zuttokinbaku",
+		"statuses_count" : 3141,
+		"time_zone" : "Tokyo",
+		"url" : null,
+		"utc_offset" : 32400,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 27.2634 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Wed Oct 07 07:09:08 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 20, 34 ],
+				"text" : "庭から出現すると嬉しい資源"
+			}
+		],
+		"media" : 
+		[
+			
+			{
+				"display_url" : "pic.twitter.com/rjAXRzaGhH",
+				"expanded_url" : "http://twitter.com/TokyoZooNet_PR/status/651655403160268800/photo/1",
+				"id" : 651655401671229400,
+				"id_str" : "651655401671229441",
+				"indices" : [ 45, 67 ],
+				"media_url" : "http://pbs.twimg.com/media/CQslIpyUAAEyutD.jpg",
+				"media_url_https" : "https://pbs.twimg.com/media/CQslIpyUAAEyutD.jpg",
+				"sizes" : 
+				{
+					"large" : 
+					{
+						"h" : 365,
+						"resize" : "fit",
+						"w" : 550
+					},
+					"medium" : 
+					{
+						"h" : 365,
+						"resize" : "fit",
+						"w" : 550
+					},
+					"small" : 
+					{
+						"h" : 225,
+						"resize" : "fit",
+						"w" : 340
+					},
+					"thumb" : 
+					{
+						"h" : 150,
+						"resize" : "crop",
+						"w" : 150
+					}
+				},
+				"source_status_id" : 651655403160268800,
+				"source_status_id_str" : "651655403160268800",
+				"source_user_id" : 1076058583,
+				"source_user_id_str" : "1076058583",
+				"type" : "photo",
+				"url" : "http://t.co/rjAXRzaGhH"
+			}
+		],
+		"symbols" : [],
+		"urls" : [],
+		"user_mentions" : 
+		[
+			
+			{
+				"id" : 1076058583,
+				"id_str" : "1076058583",
+				"indices" : [ 3, 18 ],
+				"name" : "東京ズーネット［公式］",
+				"screen_name" : "TokyoZooNet_PR"
+			}
+		]
+	},
+	"extended_entities" : 
+	{
+		"media" : 
+		[
+			
+			{
+				"display_url" : "pic.twitter.com/rjAXRzaGhH",
+				"expanded_url" : "http://twitter.com/TokyoZooNet_PR/status/651655403160268800/photo/1",
+				"id" : 651655401671229400,
+				"id_str" : "651655401671229441",
+				"indices" : [ 45, 67 ],
+				"media_url" : "http://pbs.twimg.com/media/CQslIpyUAAEyutD.jpg",
+				"media_url_https" : "https://pbs.twimg.com/media/CQslIpyUAAEyutD.jpg",
+				"sizes" : 
+				{
+					"large" : 
+					{
+						"h" : 365,
+						"resize" : "fit",
+						"w" : 550
+					},
+					"medium" : 
+					{
+						"h" : 365,
+						"resize" : "fit",
+						"w" : 550
+					},
+					"small" : 
+					{
+						"h" : 225,
+						"resize" : "fit",
+						"w" : 340
+					},
+					"thumb" : 
+					{
+						"h" : 150,
+						"resize" : "crop",
+						"w" : 150
+					}
+				},
+				"source_status_id" : 651655403160268800,
+				"source_status_id_str" : "651655403160268800",
+				"source_user_id" : 1076058583,
+				"source_user_id_str" : "1076058583",
+				"type" : "photo",
+				"url" : "http://t.co/rjAXRzaGhH"
+			}
+		]
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 651655480327041000,
+	"id_str" : "651655480327041024",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ja",
+	"place" : null,
+	"possibly_sensitive" : false,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"retweeted_status" : 
+	{
+		"contributors" : null,
+		"coordinates" : null,
+		"created_at" : "Wed Oct 07 07:08:49 +0000 2015",
+		"entities" : 
+		{
+			"hashtags" : 
+			[
+				
+				{
+					"indices" : [ 0, 14 ],
+					"text" : "庭から出現すると嬉しい資源"
+				}
+			],
+			"media" : 
+			[
+				
+				{
+					"display_url" : "pic.twitter.com/rjAXRzaGhH",
+					"expanded_url" : "http://twitter.com/TokyoZooNet_PR/status/651655403160268800/photo/1",
+					"id" : 651655401671229400,
+					"id_str" : "651655401671229441",
+					"indices" : [ 25, 47 ],
+					"media_url" : "http://pbs.twimg.com/media/CQslIpyUAAEyutD.jpg",
+					"media_url_https" : "https://pbs.twimg.com/media/CQslIpyUAAEyutD.jpg",
+					"sizes" : 
+					{
+						"large" : 
+						{
+							"h" : 365,
+							"resize" : "fit",
+							"w" : 550
+						},
+						"medium" : 
+						{
+							"h" : 365,
+							"resize" : "fit",
+							"w" : 550
+						},
+						"small" : 
+						{
+							"h" : 225,
+							"resize" : "fit",
+							"w" : 340
+						},
+						"thumb" : 
+						{
+							"h" : 150,
+							"resize" : "crop",
+							"w" : 150
+						}
+					},
+					"type" : "photo",
+					"url" : "http://t.co/rjAXRzaGhH"
+				}
+			],
+			"symbols" : [],
+			"urls" : [],
+			"user_mentions" : []
+		},
+		"extended_entities" : 
+		{
+			"media" : 
+			[
+				
+				{
+					"display_url" : "pic.twitter.com/rjAXRzaGhH",
+					"expanded_url" : "http://twitter.com/TokyoZooNet_PR/status/651655403160268800/photo/1",
+					"id" : 651655401671229400,
+					"id_str" : "651655401671229441",
+					"indices" : [ 25, 47 ],
+					"media_url" : "http://pbs.twimg.com/media/CQslIpyUAAEyutD.jpg",
+					"media_url_https" : "https://pbs.twimg.com/media/CQslIpyUAAEyutD.jpg",
+					"sizes" : 
+					{
+						"large" : 
+						{
+							"h" : 365,
+							"resize" : "fit",
+							"w" : 550
+						},
+						"medium" : 
+						{
+							"h" : 365,
+							"resize" : "fit",
+							"w" : 550
+						},
+						"small" : 
+						{
+							"h" : 225,
+							"resize" : "fit",
+							"w" : 340
+						},
+						"thumb" : 
+						{
+							"h" : 150,
+							"resize" : "crop",
+							"w" : 150
+						}
+					},
+					"type" : "photo",
+					"url" : "http://t.co/rjAXRzaGhH"
+				}
+			]
+		},
+		"favorite_count" : 0,
+		"favorited" : false,
+		"filter_level" : "low",
+		"geo" : null,
+		"id" : 651655403160268800,
+		"id_str" : "651655403160268800",
+		"in_reply_to_screen_name" : null,
+		"in_reply_to_status_id" : null,
+		"in_reply_to_status_id_str" : null,
+		"in_reply_to_user_id" : null,
+		"in_reply_to_user_id_str" : null,
+		"is_quote_status" : false,
+		"lang" : "ja",
+		"place" : null,
+		"possibly_sensitive" : false,
+		"retweet_count" : 2,
+		"retweeted" : false,
+		"source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"text" : "#庭から出現すると嬉しい資源\n\n以前埋めたクルミ http://t.co/rjAXRzaGhH",
+		"truncated" : false,
+		"user" : 
+		{
+			"contributors_enabled" : false,
+			"created_at" : "Thu Jan 10 08:36:41 +0000 2013",
+			"default_profile" : false,
+			"default_profile_image" : false,
+			"description" : "上野動物園・多摩動物公園・葛西臨海水族園・井の頭自然文化園の公式サイト、それが東京ズーネット。中のヒトの事務所は上野動物園内。",
+			"favourites_count" : 4920,
+			"follow_request_sent" : null,
+			"followers_count" : 56163,
+			"following" : null,
+			"friends_count" : 29643,
+			"geo_enabled" : false,
+			"id" : 1076058583,
+			"id_str" : "1076058583",
+			"is_translator" : false,
+			"lang" : "ja",
+			"listed_count" : 1649,
+			"location" : null,
+			"name" : "東京ズーネット［公式］",
+			"notifications" : null,
+			"profile_background_color" : "EBEBEB",
+			"profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/378800000101357888/ce800fc3fc4dc978339b5e30c6e97dc1.gif",
+			"profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/378800000101357888/ce800fc3fc4dc978339b5e30c6e97dc1.gif",
+			"profile_background_tile" : false,
+			"profile_banner_url" : "https://pbs.twimg.com/profile_banners/1076058583/1418623881",
+			"profile_image_url" : "http://pbs.twimg.com/profile_images/634565443307462656/Sj7ks1mK_normal.jpg",
+			"profile_image_url_https" : "https://pbs.twimg.com/profile_images/634565443307462656/Sj7ks1mK_normal.jpg",
+			"profile_link_color" : "009999",
+			"profile_sidebar_border_color" : "FFFFFF",
+			"profile_sidebar_fill_color" : "DDEEF6",
+			"profile_text_color" : "333333",
+			"profile_use_background_image" : true,
+			"protected" : false,
+			"screen_name" : "TokyoZooNet_PR",
+			"statuses_count" : 14264,
+			"time_zone" : "Tokyo",
+			"url" : "http://www.tokyo-zoo.net/",
+			"utc_offset" : 32400,
+			"verified" : true
+		}
+	},
+	"source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+	"text" : "RT @TokyoZooNet_PR: #庭から出現すると嬉しい資源\n\n以前埋めたクルミ http://t.co/rjAXRzaGhH",
+	"timestamp_ms" : "1444201748340",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Thu May 16 13:55:17 +0000 2013",
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"description" : "言葉は回収され、思想は紡げない。 http://twilog.org/kou_ter　単なる備忘録。急性心不全から復活して心筋障害歴7年。",
+		"favourites_count" : 914,
+		"follow_request_sent" : null,
+		"followers_count" : 261,
+		"following" : null,
+		"friends_count" : 42,
+		"geo_enabled" : false,
+		"id" : 1433162413,
+		"id_str" : "1433162413",
+		"is_translator" : false,
+		"lang" : "ja",
+		"listed_count" : 24,
+		"location" : null,
+		"name" : "Kou",
+		"notifications" : null,
+		"profile_background_color" : "1A1B1F",
+		"profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/452996424154628096/ioaMEuW5.jpeg",
+		"profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/452996424154628096/ioaMEuW5.jpeg",
+		"profile_background_tile" : false,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/1433162413/1401331439",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/601601599081881600/ZOvzhDwH_normal.jpg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/601601599081881600/ZOvzhDwH_normal.jpg",
+		"profile_link_color" : "075710",
+		"profile_sidebar_border_color" : "FFFFFF",
+		"profile_sidebar_fill_color" : "252429",
+		"profile_text_color" : "666666",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "kou_ter",
+		"statuses_count" : 40573,
+		"time_zone" : "Tokyo",
+		"url" : null,
+		"utc_offset" : 32400,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 28.3901 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Wed Oct 07 07:09:09 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 0, 14 ],
+				"text" : "庭から出現すると嬉しい資源"
+			}
+		],
+		"symbols" : [],
+		"urls" : [],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 651655485905436700,
+	"id_str" : "651655485905436672",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ja",
+	"place" : null,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+	"text" : "#庭から出現すると嬉しい資源\n画力",
+	"timestamp_ms" : "1444201749670",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Fri Nov 09 08:25:48 +0000 2012",
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"description" : "モモンガ。ギャルディーノ。マルコ。庄司慎吾。次元大介。食満留三郎。右固定派。3バギやＢＷ、クザモモを推奨中。クロスオーバー大好きっ子　裏@100nga2",
+		"favourites_count" : 5627,
+		"follow_request_sent" : null,
+		"followers_count" : 98,
+		"following" : null,
+		"friends_count" : 154,
+		"geo_enabled" : false,
+		"id" : 936397746,
+		"id_str" : "936397746",
+		"is_translator" : false,
+		"lang" : "ja",
+		"listed_count" : 1,
+		"location" : null,
+		"name" : "黒村さぁちゃん",
+		"notifications" : null,
+		"profile_background_color" : "C0DEED",
+		"profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/462805565022806017/coUjsXQ9.png",
+		"profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/462805565022806017/coUjsXQ9.png",
+		"profile_background_tile" : true,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/936397746/1443389492",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/622540147825840128/Ut59gtvs_normal.jpg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/622540147825840128/Ut59gtvs_normal.jpg",
+		"profile_link_color" : "0084B4",
+		"profile_sidebar_border_color" : "FFFFFF",
+		"profile_sidebar_fill_color" : "DDEEF6",
+		"profile_text_color" : "333333",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "100nga",
+		"statuses_count" : 19724,
+		"time_zone" : "Tokyo",
+		"url" : "http://www.pixiv.net/member.php?id=3093197",
+		"utc_offset" : 32400,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 29.4153 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Wed Oct 07 07:09:10 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 20, 34 ],
+				"text" : "庭から出現すると嬉しい資源"
+			}
+		],
+		"media" : 
+		[
+			
+			{
+				"display_url" : "pic.twitter.com/rjAXRzaGhH",
+				"expanded_url" : "http://twitter.com/TokyoZooNet_PR/status/651655403160268800/photo/1",
+				"id" : 651655401671229400,
+				"id_str" : "651655401671229441",
+				"indices" : [ 45, 67 ],
+				"media_url" : "http://pbs.twimg.com/media/CQslIpyUAAEyutD.jpg",
+				"media_url_https" : "https://pbs.twimg.com/media/CQslIpyUAAEyutD.jpg",
+				"sizes" : 
+				{
+					"large" : 
+					{
+						"h" : 365,
+						"resize" : "fit",
+						"w" : 550
+					},
+					"medium" : 
+					{
+						"h" : 365,
+						"resize" : "fit",
+						"w" : 550
+					},
+					"small" : 
+					{
+						"h" : 225,
+						"resize" : "fit",
+						"w" : 340
+					},
+					"thumb" : 
+					{
+						"h" : 150,
+						"resize" : "crop",
+						"w" : 150
+					}
+				},
+				"source_status_id" : 651655403160268800,
+				"source_status_id_str" : "651655403160268800",
+				"source_user_id" : 1076058583,
+				"source_user_id_str" : "1076058583",
+				"type" : "photo",
+				"url" : "http://t.co/rjAXRzaGhH"
+			}
+		],
+		"symbols" : [],
+		"urls" : [],
+		"user_mentions" : 
+		[
+			
+			{
+				"id" : 1076058583,
+				"id_str" : "1076058583",
+				"indices" : [ 3, 18 ],
+				"name" : "東京ズーネット［公式］",
+				"screen_name" : "TokyoZooNet_PR"
+			}
+		]
+	},
+	"extended_entities" : 
+	{
+		"media" : 
+		[
+			
+			{
+				"display_url" : "pic.twitter.com/rjAXRzaGhH",
+				"expanded_url" : "http://twitter.com/TokyoZooNet_PR/status/651655403160268800/photo/1",
+				"id" : 651655401671229400,
+				"id_str" : "651655401671229441",
+				"indices" : [ 45, 67 ],
+				"media_url" : "http://pbs.twimg.com/media/CQslIpyUAAEyutD.jpg",
+				"media_url_https" : "https://pbs.twimg.com/media/CQslIpyUAAEyutD.jpg",
+				"sizes" : 
+				{
+					"large" : 
+					{
+						"h" : 365,
+						"resize" : "fit",
+						"w" : 550
+					},
+					"medium" : 
+					{
+						"h" : 365,
+						"resize" : "fit",
+						"w" : 550
+					},
+					"small" : 
+					{
+						"h" : 225,
+						"resize" : "fit",
+						"w" : 340
+					},
+					"thumb" : 
+					{
+						"h" : 150,
+						"resize" : "crop",
+						"w" : 150
+					}
+				},
+				"source_status_id" : 651655403160268800,
+				"source_status_id_str" : "651655403160268800",
+				"source_user_id" : 1076058583,
+				"source_user_id_str" : "1076058583",
+				"type" : "photo",
+				"url" : "http://t.co/rjAXRzaGhH"
+			}
+		]
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 651655490330431500,
+	"id_str" : "651655490330431488",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ja",
+	"place" : null,
+	"possibly_sensitive" : false,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"retweeted_status" : 
+	{
+		"contributors" : null,
+		"coordinates" : null,
+		"created_at" : "Wed Oct 07 07:08:49 +0000 2015",
+		"entities" : 
+		{
+			"hashtags" : 
+			[
+				
+				{
+					"indices" : [ 0, 14 ],
+					"text" : "庭から出現すると嬉しい資源"
+				}
+			],
+			"media" : 
+			[
+				
+				{
+					"display_url" : "pic.twitter.com/rjAXRzaGhH",
+					"expanded_url" : "http://twitter.com/TokyoZooNet_PR/status/651655403160268800/photo/1",
+					"id" : 651655401671229400,
+					"id_str" : "651655401671229441",
+					"indices" : [ 25, 47 ],
+					"media_url" : "http://pbs.twimg.com/media/CQslIpyUAAEyutD.jpg",
+					"media_url_https" : "https://pbs.twimg.com/media/CQslIpyUAAEyutD.jpg",
+					"sizes" : 
+					{
+						"large" : 
+						{
+							"h" : 365,
+							"resize" : "fit",
+							"w" : 550
+						},
+						"medium" : 
+						{
+							"h" : 365,
+							"resize" : "fit",
+							"w" : 550
+						},
+						"small" : 
+						{
+							"h" : 225,
+							"resize" : "fit",
+							"w" : 340
+						},
+						"thumb" : 
+						{
+							"h" : 150,
+							"resize" : "crop",
+							"w" : 150
+						}
+					},
+					"type" : "photo",
+					"url" : "http://t.co/rjAXRzaGhH"
+				}
+			],
+			"symbols" : [],
+			"urls" : [],
+			"user_mentions" : []
+		},
+		"extended_entities" : 
+		{
+			"media" : 
+			[
+				
+				{
+					"display_url" : "pic.twitter.com/rjAXRzaGhH",
+					"expanded_url" : "http://twitter.com/TokyoZooNet_PR/status/651655403160268800/photo/1",
+					"id" : 651655401671229400,
+					"id_str" : "651655401671229441",
+					"indices" : [ 25, 47 ],
+					"media_url" : "http://pbs.twimg.com/media/CQslIpyUAAEyutD.jpg",
+					"media_url_https" : "https://pbs.twimg.com/media/CQslIpyUAAEyutD.jpg",
+					"sizes" : 
+					{
+						"large" : 
+						{
+							"h" : 365,
+							"resize" : "fit",
+							"w" : 550
+						},
+						"medium" : 
+						{
+							"h" : 365,
+							"resize" : "fit",
+							"w" : 550
+						},
+						"small" : 
+						{
+							"h" : 225,
+							"resize" : "fit",
+							"w" : 340
+						},
+						"thumb" : 
+						{
+							"h" : 150,
+							"resize" : "crop",
+							"w" : 150
+						}
+					},
+					"type" : "photo",
+					"url" : "http://t.co/rjAXRzaGhH"
+				}
+			]
+		},
+		"favorite_count" : 0,
+		"favorited" : false,
+		"filter_level" : "low",
+		"geo" : null,
+		"id" : 651655403160268800,
+		"id_str" : "651655403160268800",
+		"in_reply_to_screen_name" : null,
+		"in_reply_to_status_id" : null,
+		"in_reply_to_status_id_str" : null,
+		"in_reply_to_user_id" : null,
+		"in_reply_to_user_id_str" : null,
+		"is_quote_status" : false,
+		"lang" : "ja",
+		"place" : null,
+		"possibly_sensitive" : false,
+		"retweet_count" : 3,
+		"retweeted" : false,
+		"source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"text" : "#庭から出現すると嬉しい資源\n\n以前埋めたクルミ http://t.co/rjAXRzaGhH",
+		"truncated" : false,
+		"user" : 
+		{
+			"contributors_enabled" : false,
+			"created_at" : "Thu Jan 10 08:36:41 +0000 2013",
+			"default_profile" : false,
+			"default_profile_image" : false,
+			"description" : "上野動物園・多摩動物公園・葛西臨海水族園・井の頭自然文化園の公式サイト、それが東京ズーネット。中のヒトの事務所は上野動物園内。",
+			"favourites_count" : 4920,
+			"follow_request_sent" : null,
+			"followers_count" : 56163,
+			"following" : null,
+			"friends_count" : 29643,
+			"geo_enabled" : false,
+			"id" : 1076058583,
+			"id_str" : "1076058583",
+			"is_translator" : false,
+			"lang" : "ja",
+			"listed_count" : 1649,
+			"location" : null,
+			"name" : "東京ズーネット［公式］",
+			"notifications" : null,
+			"profile_background_color" : "EBEBEB",
+			"profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/378800000101357888/ce800fc3fc4dc978339b5e30c6e97dc1.gif",
+			"profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/378800000101357888/ce800fc3fc4dc978339b5e30c6e97dc1.gif",
+			"profile_background_tile" : false,
+			"profile_banner_url" : "https://pbs.twimg.com/profile_banners/1076058583/1418623881",
+			"profile_image_url" : "http://pbs.twimg.com/profile_images/634565443307462656/Sj7ks1mK_normal.jpg",
+			"profile_image_url_https" : "https://pbs.twimg.com/profile_images/634565443307462656/Sj7ks1mK_normal.jpg",
+			"profile_link_color" : "009999",
+			"profile_sidebar_border_color" : "FFFFFF",
+			"profile_sidebar_fill_color" : "DDEEF6",
+			"profile_text_color" : "333333",
+			"profile_use_background_image" : true,
+			"protected" : false,
+			"screen_name" : "TokyoZooNet_PR",
+			"statuses_count" : 14264,
+			"time_zone" : "Tokyo",
+			"url" : "http://www.tokyo-zoo.net/",
+			"utc_offset" : 32400,
+			"verified" : true
+		}
+	},
+	"source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+	"text" : "RT @TokyoZooNet_PR: #庭から出現すると嬉しい資源\n\n以前埋めたクルミ http://t.co/rjAXRzaGhH",
+	"timestamp_ms" : "1444201750725",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Tue Jun 05 09:52:11 +0000 2012",
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"description" : "すきな ひと もの こと を すきなだけ 綴る。Love;)*Figure Skater D1sk, Akko | Tennis Player Kei Nishikori | Rurouni Kenshin as Takeru Satoh:)*",
+		"favourites_count" : 240,
+		"follow_request_sent" : null,
+		"followers_count" : 223,
+		"following" : null,
+		"friends_count" : 117,
+		"geo_enabled" : false,
+		"id" : 599986675,
+		"id_str" : "599986675",
+		"is_translator" : false,
+		"lang" : "ja",
+		"listed_count" : 7,
+		"location" : "Japan, Hokkaido",
+		"name" : "Haruka*",
+		"notifications" : null,
+		"profile_background_color" : "EDE4AD",
+		"profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/378800000090454975/a92cce5e8b59a58c47ef13f75d17836c.png",
+		"profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/378800000090454975/a92cce5e8b59a58c47ef13f75d17836c.png",
+		"profile_background_tile" : true,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/599986675/1443679607",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/649465223544352768/e0fENu5D_normal.jpg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/649465223544352768/e0fENu5D_normal.jpg",
+		"profile_link_color" : "120CC4",
+		"profile_sidebar_border_color" : "FFFFFF",
+		"profile_sidebar_fill_color" : "140D9A",
+		"profile_text_color" : "EFEDF7",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "Hakka611107",
+		"statuses_count" : 60875,
+		"time_zone" : "Sapporo",
+		"url" : null,
+		"utc_offset" : 32400,
+		"verified" : false
+	}
+}
+

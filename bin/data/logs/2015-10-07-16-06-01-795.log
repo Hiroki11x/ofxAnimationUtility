@@ -1,0 +1,1755 @@
+
+
+--------------------------------------- 2015-10-07-16-06-01-796
+[notice ] ElapsedTime: 3.94792 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Wed Oct 07 07:06:00 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 0, 14 ],
+				"text" : "庭から出現すると嬉しい資源"
+			}
+		],
+		"symbols" : [],
+		"urls" : [],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 651654690447294500,
+	"id_str" : "651654690447294464",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ja",
+	"place" : null,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+	"text" : "#庭から出現すると嬉しい資源\n\n昆布。",
+	"timestamp_ms" : "1444201560018",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Thu Apr 24 13:42:59 +0000 2014",
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"description" : "昆布とネギが好きなショタコン野郎です。なぐるよの人。昆布が1日1袋なんて当たり前だろ！カオナシとおしら様が可愛すぎてつらい _:(´ཀ`」∠):_ ニコ動/ラブライブ/フリーゲームect… 相方→@note1539 CAS垢→@SPICa_mutsuki",
+		"favourites_count" : 5579,
+		"follow_request_sent" : null,
+		"followers_count" : 277,
+		"following" : null,
+		"friends_count" : 282,
+		"geo_enabled" : false,
+		"id" : 2461600190,
+		"id_str" : "2461600190",
+		"is_translator" : false,
+		"lang" : "ja",
+		"listed_count" : 10,
+		"location" : "なぐるよ (๑¯ω¯๑)",
+		"name" : "SPICa@昆布とネギの人は低浮上",
+		"notifications" : null,
+		"profile_background_color" : "9AE4E8",
+		"profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/461036451153473536/NRW0SIBW.jpeg",
+		"profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/461036451153473536/NRW0SIBW.jpeg",
+		"profile_background_tile" : true,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/2461600190/1441814022",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/648633557716369408/6cjOuGiB_normal.jpg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/648633557716369408/6cjOuGiB_normal.jpg",
+		"profile_link_color" : "0084B4",
+		"profile_sidebar_border_color" : "000000",
+		"profile_sidebar_fill_color" : "DDEEF6",
+		"profile_text_color" : "333333",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "SPICa_WaoWao",
+		"statuses_count" : 8312,
+		"time_zone" : "Irkutsk",
+		"url" : "http://hibari.nana-music.com/w/profile/1039235/",
+		"utc_offset" : 28800,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 4.40768 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Wed Oct 07 07:06:06 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 18, 32 ],
+				"text" : "庭から出現すると嬉しい資源"
+			}
+		],
+		"symbols" : [],
+		"urls" : [],
+		"user_mentions" : 
+		[
+			
+			{
+				"id" : 440544439,
+				"id_str" : "440544439",
+				"indices" : [ 3, 10 ],
+				"name" : "nop666@舞鶴",
+				"screen_name" : "nop666"
+			}
+		]
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 651654715567009800,
+	"id_str" : "651654715567009793",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ja",
+	"place" : null,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"retweeted_status" : 
+	{
+		"contributors" : null,
+		"coordinates" : null,
+		"created_at" : "Wed Oct 07 02:53:20 +0000 2015",
+		"entities" : 
+		{
+			"hashtags" : 
+			[
+				
+				{
+					"indices" : [ 6, 20 ],
+					"text" : "庭から出現すると嬉しい資源"
+				}
+			],
+			"symbols" : [],
+			"urls" : [],
+			"user_mentions" : []
+		},
+		"favorite_count" : 7,
+		"favorited" : false,
+		"filter_level" : "low",
+		"geo" : null,
+		"id" : 651591105314598900,
+		"id_str" : "651591105314598912",
+		"in_reply_to_screen_name" : null,
+		"in_reply_to_status_id" : null,
+		"in_reply_to_status_id_str" : null,
+		"in_reply_to_user_id" : null,
+		"in_reply_to_user_id_str" : null,
+		"is_quote_status" : false,
+		"lang" : "ja",
+		"place" : null,
+		"retweet_count" : 9,
+		"retweeted" : false,
+		"source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"text" : "生きる気力 #庭から出現すると嬉しい資源",
+		"truncated" : false,
+		"user" : 
+		{
+			"contributors_enabled" : false,
+			"created_at" : "Mon Dec 19 03:58:10 +0000 2011",
+			"default_profile" : true,
+			"default_profile_image" : true,
+			"description" : "艦これ／Diva(CS専)／初音ミク／鏡音リン(但し新しい曲はほぼわかりません)／他ゲーム色々　スパム垢の類は無警告でブロックします。　",
+			"favourites_count" : 7720,
+			"follow_request_sent" : null,
+			"followers_count" : 122,
+			"following" : null,
+			"friends_count" : 324,
+			"geo_enabled" : false,
+			"id" : 440544439,
+			"id_str" : "440544439",
+			"is_translator" : false,
+			"lang" : "ja",
+			"listed_count" : 8,
+			"location" : null,
+			"name" : "nop666@舞鶴",
+			"notifications" : null,
+			"profile_background_color" : "C0DEED",
+			"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile" : false,
+			"profile_image_url" : "http://abs.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+			"profile_image_url_https" : "https://abs.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+			"profile_link_color" : "0084B4",
+			"profile_sidebar_border_color" : "C0DEED",
+			"profile_sidebar_fill_color" : "DDEEF6",
+			"profile_text_color" : "333333",
+			"profile_use_background_image" : true,
+			"protected" : false,
+			"screen_name" : "nop666",
+			"statuses_count" : 49101,
+			"time_zone" : "Tokyo",
+			"url" : null,
+			"utc_offset" : 32400,
+			"verified" : false
+		}
+	},
+	"source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+	"text" : "RT @nop666: 生きる気力 #庭から出現すると嬉しい資源",
+	"timestamp_ms" : "1444201566007",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Sun Oct 20 06:32:00 +0000 2013",
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"description" : "ホモは大体美味しい腐っているババア( ^ω^ )二次元/BL/ラブライブ(希推/うたプリ(真斗担/ニコ動/ボカロ/アイドル/アニメ/漫画/音楽/映画/アイス\\お菓子 とうらぶ初心者！",
+		"favourites_count" : 890,
+		"follow_request_sent" : null,
+		"followers_count" : 197,
+		"following" : null,
+		"friends_count" : 645,
+		"geo_enabled" : false,
+		"id" : 1974053784,
+		"id_str" : "1974053784",
+		"is_translator" : false,
+		"lang" : "ja",
+		"listed_count" : 0,
+		"location" : null,
+		"name" : "土竜",
+		"notifications" : null,
+		"profile_background_color" : "000000",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile" : false,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/1974053784/1443454470",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/601647220547395585/gcZDEZTs_normal.png",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/601647220547395585/gcZDEZTs_normal.png",
+		"profile_link_color" : "F5ABB5",
+		"profile_sidebar_border_color" : "000000",
+		"profile_sidebar_fill_color" : "000000",
+		"profile_text_color" : "000000",
+		"profile_use_background_image" : false,
+		"protected" : false,
+		"screen_name" : "zuttokinbaku",
+		"statuses_count" : 3126,
+		"time_zone" : "Tokyo",
+		"url" : null,
+		"utc_offset" : 32400,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 5.44259 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Wed Oct 07 07:06:07 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 50, 64 ],
+				"text" : "庭から出現すると嬉しい資源"
+			},
+			
+			{
+				"indices" : [ 65, 72 ],
+				"text" : "あなたの属性"
+			}
+		],
+		"media" : 
+		[
+			
+			{
+				"display_url" : "pic.twitter.com/SVjhTDEBAZ",
+				"expanded_url" : "http://twitter.com/Luna316c/status/596926202218086400/video/1",
+				"id" : 596926089680654300,
+				"id_str" : "596926089680654336",
+				"indices" : [ 27, 49 ],
+				"media_url" : "http://pbs.twimg.com/ext_tw_video_thumb/596926089680654336/pu/img/lsAL04NjPK2Xfeqm.jpg",
+				"media_url_https" : "https://pbs.twimg.com/ext_tw_video_thumb/596926089680654336/pu/img/lsAL04NjPK2Xfeqm.jpg",
+				"sizes" : 
+				{
+					"large" : 
+					{
+						"h" : 480,
+						"resize" : "fit",
+						"w" : 480
+					},
+					"medium" : 
+					{
+						"h" : 480,
+						"resize" : "fit",
+						"w" : 480
+					},
+					"small" : 
+					{
+						"h" : 340,
+						"resize" : "fit",
+						"w" : 340
+					},
+					"thumb" : 
+					{
+						"h" : 150,
+						"resize" : "crop",
+						"w" : 150
+					}
+				},
+				"source_status_id" : 596926202218086400,
+				"source_status_id_str" : "596926202218086400",
+				"source_user_id" : 1365618499,
+				"source_user_id_str" : "1365618499",
+				"type" : "photo",
+				"url" : "http://t.co/SVjhTDEBAZ"
+			}
+		],
+		"symbols" : [],
+		"urls" : [],
+		"user_mentions" : []
+	},
+	"extended_entities" : 
+	{
+		"media" : 
+		[
+			
+			{
+				"display_url" : "pic.twitter.com/SVjhTDEBAZ",
+				"expanded_url" : "http://twitter.com/Luna316c/status/596926202218086400/video/1",
+				"id" : 596926089680654300,
+				"id_str" : "596926089680654336",
+				"indices" : [ 27, 49 ],
+				"media_url" : "http://pbs.twimg.com/ext_tw_video_thumb/596926089680654336/pu/img/lsAL04NjPK2Xfeqm.jpg",
+				"media_url_https" : "https://pbs.twimg.com/ext_tw_video_thumb/596926089680654336/pu/img/lsAL04NjPK2Xfeqm.jpg",
+				"sizes" : 
+				{
+					"large" : 
+					{
+						"h" : 480,
+						"resize" : "fit",
+						"w" : 480
+					},
+					"medium" : 
+					{
+						"h" : 480,
+						"resize" : "fit",
+						"w" : 480
+					},
+					"small" : 
+					{
+						"h" : 340,
+						"resize" : "fit",
+						"w" : 340
+					},
+					"thumb" : 
+					{
+						"h" : 150,
+						"resize" : "crop",
+						"w" : 150
+					}
+				},
+				"source_status_id" : 596926202218086400,
+				"source_status_id_str" : "596926202218086400",
+				"source_user_id" : 1365618499,
+				"source_user_id_str" : "1365618499",
+				"type" : "video",
+				"url" : "http://t.co/SVjhTDEBAZ",
+				"video_info" : 
+				{
+					"aspect_ratio" : [ 1, 1 ],
+					"duration_millis" : 22869,
+					"variants" : 
+					[
+						
+						{
+							"bitrate" : 832000,
+							"content_type" : "video/mp4",
+							"url" : "https://video.twimg.com/ext_tw_video/596926089680654336/pu/vid/480x480/F6kkhFFlhDwgMwrz.mp4"
+						},
+						
+						{
+							"content_type" : "application/dash+xml",
+							"url" : "https://video.twimg.com/ext_tw_video/596926089680654336/pu/pl/EFt9TBNW1HoO1Hnr.mpd"
+						},
+						
+						{
+							"bitrate" : 832000,
+							"content_type" : "video/webm",
+							"url" : "https://video.twimg.com/ext_tw_video/596926089680654336/pu/vid/480x480/F6kkhFFlhDwgMwrz.webm"
+						},
+						
+						{
+							"bitrate" : 320000,
+							"content_type" : "video/mp4",
+							"url" : "https://video.twimg.com/ext_tw_video/596926089680654336/pu/vid/240x240/vU4dl8M7CVL4Hois.mp4"
+						},
+						
+						{
+							"content_type" : "application/x-mpegURL",
+							"url" : "https://video.twimg.com/ext_tw_video/596926089680654336/pu/pl/EFt9TBNW1HoO1Hnr.m3u8"
+						}
+					]
+				}
+			}
+		]
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 651654719878754300,
+	"id_str" : "651654719878754304",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ja",
+	"place" : null,
+	"possibly_sensitive" : false,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://www.yahoo.co.jp/\" rel=\"nofollow\">猫、猫、子猫♡</a>",
+	"text" : "西野カナ『もしも運命の人がいるのなら 』Part3?\nhttp://t.co/SVjhTDEBAZ #庭から出現すると嬉しい資源 #あなたの属性 仮面ライダーあつめ うんこ10連ガチャ THE ORIGIN スタレジェ 第3次安倍内閣 林原めぐみ Cygames Flower",
+	"timestamp_ms" : "1444201567035",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Wed Sep 30 07:06:09 +0000 2015",
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"description" : "人気のトレンドワードをお知らせすると同時に、人気動画をご紹介します♡面白かったらリツイートしてね(*´ω｀*)",
+		"favourites_count" : 0,
+		"follow_request_sent" : null,
+		"followers_count" : 46,
+		"following" : null,
+		"friends_count" : 1,
+		"geo_enabled" : false,
+		"id" : 3734285414,
+		"id_str" : "3734285414",
+		"is_translator" : false,
+		"lang" : "ja",
+		"listed_count" : 2,
+		"location" : null,
+		"name" : "♡おもしろ動画ちゃん♡",
+		"notifications" : null,
+		"profile_background_color" : "000000",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile" : false,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/3734285414/1443597371",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/649120561709191168/OCIbOqY7_normal.jpg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/649120561709191168/OCIbOqY7_normal.jpg",
+		"profile_link_color" : "F5ABB5",
+		"profile_sidebar_border_color" : "000000",
+		"profile_sidebar_fill_color" : "000000",
+		"profile_text_color" : "000000",
+		"profile_use_background_image" : false,
+		"protected" : false,
+		"screen_name" : "omo_dougachan",
+		"statuses_count" : 650,
+		"time_zone" : "Pacific Time (US & Canada)",
+		"url" : null,
+		"utc_offset" : -25200,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 7.70873 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Wed Oct 07 07:06:09 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 8, 22 ],
+				"text" : "庭から出現すると嬉しい資源"
+			}
+		],
+		"symbols" : [],
+		"urls" : [],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 651654728611295200,
+	"id_str" : "651654728611295233",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ja",
+	"place" : null,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+	"text" : "キュウイジャム #庭から出現すると嬉しい資源",
+	"timestamp_ms" : "1444201569117",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Mon Aug 02 03:55:49 +0000 2010",
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"description" : "世界中の泣いている女の子にティッシュを差し出すヒーロー系女子を目指して花嫁修業中。 あなたの戦闘のおともアイルー(温室育ち)として派遣会社に登録しています。",
+		"favourites_count" : 2586,
+		"follow_request_sent" : null,
+		"followers_count" : 326,
+		"following" : null,
+		"friends_count" : 306,
+		"geo_enabled" : false,
+		"id" : 173700113,
+		"id_str" : "173700113",
+		"is_translator" : false,
+		"lang" : "en",
+		"listed_count" : 14,
+		"location" : "ぽかぽか島",
+		"name" : "駆逐艦きちきち",
+		"notifications" : null,
+		"profile_background_color" : "FF0863",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile" : true,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/173700113/1412572164",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/1134044798/P1000191_normal.jpg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/1134044798/P1000191_normal.jpg",
+		"profile_link_color" : "FF0000",
+		"profile_sidebar_border_color" : "65B0DA",
+		"profile_sidebar_fill_color" : "8ECFF5",
+		"profile_text_color" : "3D1957",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "bitter0side0up",
+		"statuses_count" : 12684,
+		"time_zone" : "Tokyo",
+		"url" : null,
+		"utc_offset" : 32400,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 7.86718 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Wed Oct 07 07:06:09 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 4, 18 ],
+				"text" : "庭から出現すると嬉しい資源"
+			}
+		],
+		"symbols" : [],
+		"urls" : [],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 651654730049941500,
+	"id_str" : "651654730049941505",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ja",
+	"place" : null,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+	"text" : "内定\n\n#庭から出現すると嬉しい資源",
+	"timestamp_ms" : "1444201569460",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Wed Jun 26 10:15:02 +0000 2013",
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"description" : "こんな思いをするのなら花や草に生まれたかった。 アイコン @Mia_PastelColor",
+		"favourites_count" : 2128,
+		"follow_request_sent" : null,
+		"followers_count" : 203,
+		"following" : null,
+		"friends_count" : 191,
+		"geo_enabled" : false,
+		"id" : 1547836700,
+		"id_str" : "1547836700",
+		"is_translator" : false,
+		"lang" : "ja",
+		"listed_count" : 4,
+		"location" : "涅槃に行きたい",
+		"name" : "じゅんこんぬ",
+		"notifications" : null,
+		"profile_background_color" : "022330",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme15/bg.png",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme15/bg.png",
+		"profile_background_tile" : false,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/1547836700/1428760237",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/651035787216031744/ZQvFgke6_normal.jpg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/651035787216031744/ZQvFgke6_normal.jpg",
+		"profile_link_color" : "0084B4",
+		"profile_sidebar_border_color" : "A8C7F7",
+		"profile_sidebar_fill_color" : "C0DFEC",
+		"profile_text_color" : "333333",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "temple_god",
+		"statuses_count" : 59689,
+		"time_zone" : null,
+		"url" : null,
+		"utc_offset" : null,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 14.1456 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Wed Oct 07 07:06:15 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 19, 33 ],
+				"text" : "庭から出現すると嬉しい資源"
+			}
+		],
+		"symbols" : [],
+		"urls" : [],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 651654755966541800,
+	"id_str" : "651654755966541824",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ja",
+	"place" : null,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+	"text" : "GS400.430セドリック,免許\n\n#庭から出現すると嬉しい資源",
+	"timestamp_ms" : "1444201575639",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Fri Oct 25 09:40:43 +0000 2013",
+		"default_profile" : true,
+		"default_profile_image" : false,
+		"description" : "YouTubeで旧車関係の動画活動をしています！ 主にイベントやプラモデルの動画が中心となっておりますので良ければ下のリンクからお願い致します！ bjw 大日魂",
+		"favourites_count" : 1147,
+		"follow_request_sent" : null,
+		"followers_count" : 683,
+		"following" : null,
+		"friends_count" : 97,
+		"geo_enabled" : true,
+		"id" : 2152361536,
+		"id_str" : "2152361536",
+		"is_translator" : false,
+		"lang" : "ja",
+		"listed_count" : 9,
+		"location" : "笑顔、良い雰囲気、怒らない！",
+		"name" : "_マーシャル_",
+		"notifications" : null,
+		"profile_background_color" : "C0DEED",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile" : false,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/2152361536/1439337931",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/623700626954784768/MHT1i612_normal.jpg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/623700626954784768/MHT1i612_normal.jpg",
+		"profile_link_color" : "0084B4",
+		"profile_sidebar_border_color" : "C0DEED",
+		"profile_sidebar_fill_color" : "DDEEF6",
+		"profile_text_color" : "333333",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "430marshall",
+		"statuses_count" : 2985,
+		"time_zone" : "Seoul",
+		"url" : "https://www.youtube.com/channel/UCIKceO994xW5lVGyGuboWrA",
+		"utc_offset" : 32400,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 15.1614 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Wed Oct 07 07:06:16 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 43, 57 ],
+				"text" : "庭から出現すると嬉しい資源"
+			}
+		],
+		"symbols" : [],
+		"urls" : 
+		[
+			
+			{
+				"display_url" : "goo.gl/e86Vy9",
+				"expanded_url" : "https://goo.gl/e86Vy9",
+				"indices" : [ 19, 42 ],
+				"url" : "https://t.co/toJ1jrYJ5N"
+			}
+		],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 651654760538370000,
+	"id_str" : "651654760538370048",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ja",
+	"place" : null,
+	"possibly_sensitive" : false,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"https://twitter.com/2nomatome?lang=ja\" rel=\"nofollow\">2ch Matome Bot</a>",
+	"text" : "平野綾「ネット荒れるんだろうなぁ…」→https://t.co/toJ1jrYJ5N #庭から出現すると嬉しい資源 Flower 第3次安倍改造内閣 仮面ライダーあつめ THE ORIGIN",
+	"timestamp_ms" : "1444201576729",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Thu Oct 01 13:44:43 +0000 2015",
+		"default_profile" : true,
+		"default_profile_image" : false,
+		"description" : null,
+		"favourites_count" : 0,
+		"follow_request_sent" : null,
+		"followers_count" : 2,
+		"following" : null,
+		"friends_count" : 0,
+		"geo_enabled" : false,
+		"id" : 3748455085,
+		"id_str" : "3748455085",
+		"is_translator" : false,
+		"lang" : "ja",
+		"listed_count" : 0,
+		"location" : null,
+		"name" : "2chmatome",
+		"notifications" : null,
+		"profile_background_color" : "C0DEED",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile" : false,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/3748455085/1443708801",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/649584833849503745/u1CxNa1a_normal.jpg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/649584833849503745/u1CxNa1a_normal.jpg",
+		"profile_link_color" : "0084B4",
+		"profile_sidebar_border_color" : "C0DEED",
+		"profile_sidebar_fill_color" : "DDEEF6",
+		"profile_text_color" : "333333",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "2nomatome",
+		"statuses_count" : 8039,
+		"time_zone" : null,
+		"url" : null,
+		"utc_offset" : null,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 17.2172 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Wed Oct 07 07:06:18 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 0, 14 ],
+				"text" : "庭から出現すると嬉しい資源"
+			}
+		],
+		"symbols" : [],
+		"urls" : [],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 651654768759214100,
+	"id_str" : "651654768759214080",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ja",
+	"place" : null,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+	"text" : "#庭から出現すると嬉しい資源\n\n女子高生",
+	"timestamp_ms" : "1444201578689",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Wed May 20 04:28:07 +0000 2015",
+		"default_profile" : true,
+		"default_profile_image" : false,
+		"description" : "感情を失ってるっていう設定ね？",
+		"favourites_count" : 2827,
+		"follow_request_sent" : null,
+		"followers_count" : 97,
+		"following" : null,
+		"friends_count" : 75,
+		"geo_enabled" : false,
+		"id" : 3220965684,
+		"id_str" : "3220965684",
+		"is_translator" : false,
+		"lang" : "ja",
+		"listed_count" : 1,
+		"location" : "いわゆるハマです",
+		"name" : "حساب حقيقي",
+		"notifications" : null,
+		"profile_background_color" : "C0DEED",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile" : false,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/3220965684/1437413686",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/651179999907573761/d7eR9VGr_normal.jpg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/651179999907573761/d7eR9VGr_normal.jpg",
+		"profile_link_color" : "0084B4",
+		"profile_sidebar_border_color" : "C0DEED",
+		"profile_sidebar_fill_color" : "DDEEF6",
+		"profile_text_color" : "333333",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "ngowwww1",
+		"statuses_count" : 5895,
+		"time_zone" : null,
+		"url" : null,
+		"utc_offset" : null,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 19.5741 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Wed Oct 07 07:06:21 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 20, 34 ],
+				"text" : "庭から出現すると嬉しい資源"
+			}
+		],
+		"symbols" : [],
+		"urls" : [],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 651654779102343200,
+	"id_str" : "651654779102343168",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ja",
+	"place" : null,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+	"text" : "やっぱ、温泉でしょう*\\(^o^)/* #庭から出現すると嬉しい資源",
+	"timestamp_ms" : "1444201581155",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Mon Jan 11 05:59:59 +0000 2010",
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"description" : "はやぶさ2応援中！「HAYABUSA2ーRETURN TO THE UNIVERSE」http://www.live-net.co.jp/hayabusa2/ https://www.youtube.com/watch?v=esuuDO5QoyM&feature=youtu.be",
+		"favourites_count" : 7420,
+		"follow_request_sent" : null,
+		"followers_count" : 1092,
+		"following" : null,
+		"friends_count" : 1803,
+		"geo_enabled" : true,
+		"id" : 103773643,
+		"id_str" : "103773643",
+		"is_translator" : false,
+		"lang" : "ja",
+		"listed_count" : 79,
+		"location" : "太陽系",
+		"name" : "サンデスぽ☆HAYA2ご安全に！",
+		"notifications" : null,
+		"profile_background_color" : "0099B9",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme4/bg.gif",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme4/bg.gif",
+		"profile_background_tile" : false,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/103773643/1440030038",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/3767381986/8d70a21a23d9c6e7cccef7915d9dd8f4_normal.jpeg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/3767381986/8d70a21a23d9c6e7cccef7915d9dd8f4_normal.jpeg",
+		"profile_link_color" : "0099B9",
+		"profile_sidebar_border_color" : "5ED4DC",
+		"profile_sidebar_fill_color" : "95E8EC",
+		"profile_text_color" : "3C3940",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "sun_dess",
+		"statuses_count" : 55333,
+		"time_zone" : "Tokyo",
+		"url" : null,
+		"utc_offset" : 32400,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 20.3806 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Wed Oct 07 07:06:22 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 0, 14 ],
+				"text" : "庭から出現すると嬉しい資源"
+			}
+		],
+		"symbols" : [],
+		"urls" : [],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 651654782822645800,
+	"id_str" : "651654782822645760",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ja",
+	"place" : null,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+	"text" : "#庭から出現すると嬉しい資源\n\n資源っしょ？\n\n鉄、石油とあとはバナジウム？",
+	"timestamp_ms" : "1444201582042",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Mon Apr 27 11:20:35 +0000 2015",
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"description" : "提督になったり神喰ったり懲役刑されたり最近はMMD始めたりしてる人。努力型主人公の対義語とも言えるが、中途半端にいろいろこねくり回すだけで才能に恵まれているわけでもない。つまり怠惰なだけ。",
+		"favourites_count" : 2744,
+		"follow_request_sent" : null,
+		"followers_count" : 170,
+		"following" : null,
+		"friends_count" : 170,
+		"geo_enabled" : true,
+		"id" : 3177772952,
+		"id_str" : "3177772952",
+		"is_translator" : false,
+		"lang" : "ja",
+		"listed_count" : 12,
+		"location" : "工具箱の中",
+		"name" : "スパナ@そろそろ壊れたい",
+		"notifications" : null,
+		"profile_background_color" : "000000",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile" : false,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/3177772952/1439379537",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/651316469679058944/JrdhFi4V_normal.jpg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/651316469679058944/JrdhFi4V_normal.jpg",
+		"profile_link_color" : "4A913C",
+		"profile_sidebar_border_color" : "000000",
+		"profile_sidebar_fill_color" : "000000",
+		"profile_text_color" : "000000",
+		"profile_use_background_image" : false,
+		"protected" : false,
+		"screen_name" : "toolbox_0440",
+		"statuses_count" : 6956,
+		"time_zone" : "Pacific Time (US & Canada)",
+		"url" : "http://twpf.jp/toolbox_0440",
+		"utc_offset" : -25200,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 22.8485 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Wed Oct 07 07:06:24 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 99, 113 ],
+				"text" : "庭から出現すると嬉しい資源"
+			},
+			
+			{
+				"indices" : [ 114, 121 ],
+				"text" : "あなたの属性"
+			}
+		],
+		"media" : 
+		[
+			
+			{
+				"display_url" : "pic.twitter.com/HhJE8NcIc7",
+				"expanded_url" : "http://twitter.com/GillingsPatsy/status/650342398309044226/photo/1",
+				"id" : 650342396941570000,
+				"id_str" : "650342396941570049",
+				"indices" : [ 76, 98 ],
+				"media_url" : "http://pbs.twimg.com/media/CQZ69uAUEAEXicc.png",
+				"media_url_https" : "https://pbs.twimg.com/media/CQZ69uAUEAEXicc.png",
+				"sizes" : 
+				{
+					"large" : 
+					{
+						"h" : 452,
+						"resize" : "fit",
+						"w" : 617
+					},
+					"medium" : 
+					{
+						"h" : 439,
+						"resize" : "fit",
+						"w" : 600
+					},
+					"small" : 
+					{
+						"h" : 249,
+						"resize" : "fit",
+						"w" : 340
+					},
+					"thumb" : 
+					{
+						"h" : 150,
+						"resize" : "crop",
+						"w" : 150
+					}
+				},
+				"source_status_id" : 650342398309044200,
+				"source_status_id_str" : "650342398309044226",
+				"source_user_id" : 3181131775,
+				"source_user_id_str" : "3181131775",
+				"type" : "photo",
+				"url" : "http://t.co/HhJE8NcIc7"
+			}
+		],
+		"symbols" : [],
+		"urls" : 
+		[
+			
+			{
+				"display_url" : "cxy.zjh13.top/506a2r/",
+				"expanded_url" : "http://cxy.zjh13.top/506a2r/",
+				"indices" : [ 20, 42 ],
+				"url" : "http://t.co/2C2sddRE3B"
+			}
+		],
+		"user_mentions" : []
+	},
+	"extended_entities" : 
+	{
+		"media" : 
+		[
+			
+			{
+				"display_url" : "pic.twitter.com/HhJE8NcIc7",
+				"expanded_url" : "http://twitter.com/GillingsPatsy/status/650342398309044226/photo/1",
+				"id" : 650342396941570000,
+				"id_str" : "650342396941570049",
+				"indices" : [ 76, 98 ],
+				"media_url" : "http://pbs.twimg.com/media/CQZ69uAUEAEXicc.png",
+				"media_url_https" : "https://pbs.twimg.com/media/CQZ69uAUEAEXicc.png",
+				"sizes" : 
+				{
+					"large" : 
+					{
+						"h" : 452,
+						"resize" : "fit",
+						"w" : 617
+					},
+					"medium" : 
+					{
+						"h" : 439,
+						"resize" : "fit",
+						"w" : 600
+					},
+					"small" : 
+					{
+						"h" : 249,
+						"resize" : "fit",
+						"w" : 340
+					},
+					"thumb" : 
+					{
+						"h" : 150,
+						"resize" : "crop",
+						"w" : 150
+					}
+				},
+				"source_status_id" : 650342398309044200,
+				"source_status_id_str" : "650342398309044226",
+				"source_user_id" : 3181131775,
+				"source_user_id_str" : "3181131775",
+				"type" : "photo",
+				"url" : "http://t.co/HhJE8NcIc7"
+			}
+		]
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 651654792863879200,
+	"id_str" : "651654792863879168",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ja",
+	"place" : null,
+	"possibly_sensitive" : false,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://www.yahoo.co.jp/\" rel=\"nofollow\">人気商品マスター</a>",
+	"text" : "ベッキーの美脚の秘密は○○だった！\n⇒【http://t.co/2C2sddRE3B】\n1日で脚を細くしたい時に\nモデルたちはコレを使ってるんだって♪ http://t.co/HhJE8NcIc7 #庭から出現すると嬉しい資源 #あなたの属性 仮面ライダーあつめ うんこ",
+	"timestamp_ms" : "1444201584436",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Fri May 01 00:08:10 +0000 2015",
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"description" : "今人気のトレンドキーワードと人気商品と人気動画をご紹介します。\n気に入ったらお気に入りとリツイートして下さいね！",
+		"favourites_count" : 0,
+		"follow_request_sent" : null,
+		"followers_count" : 15,
+		"following" : null,
+		"friends_count" : 0,
+		"geo_enabled" : false,
+		"id" : 3225536421,
+		"id_str" : "3225536421",
+		"is_translator" : false,
+		"lang" : "ja",
+		"listed_count" : 5,
+		"location" : null,
+		"name" : "【厳選】～トレンド人気商品～",
+		"notifications" : null,
+		"profile_background_color" : "000000",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile" : false,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/3225536421/1443871772",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/650267266324393988/V8QrfJE__normal.jpg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/650267266324393988/V8QrfJE__normal.jpg",
+		"profile_link_color" : "FA743E",
+		"profile_sidebar_border_color" : "000000",
+		"profile_sidebar_fill_color" : "000000",
+		"profile_text_color" : "000000",
+		"profile_use_background_image" : false,
+		"protected" : false,
+		"screen_name" : "trend__shop",
+		"statuses_count" : 3913,
+		"time_zone" : "Tokyo",
+		"url" : null,
+		"utc_offset" : 32400,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 24.5948 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Wed Oct 07 07:06:25 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 4, 18 ],
+				"text" : "庭から出現すると嬉しい資源"
+			}
+		],
+		"symbols" : [],
+		"urls" : [],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 651654797880258600,
+	"id_str" : "651654797880258560",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ja",
+	"place" : null,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+	"text" : "魔法石\n#庭から出現すると嬉しい資源",
+	"timestamp_ms" : "1444201585632",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Tue Feb 03 13:51:27 +0000 2015",
+		"default_profile" : true,
+		"default_profile_image" : false,
+		"description" : "無言フォローすみませんm(_ _)m東京喰種/うまる/ラブライブ/デレマス/銀魂/HQ/Free/のんのんびより/ごちうさ/暗殺教室/うたプリ/終わセラ/あんスタ/スクフェス/デレステ/パズドラ/歌い手さん/┌(┌^p^)┐/時間かかるかもしれませんが、大抵フォロバします！邦ロックも好きです",
+		"favourites_count" : 644,
+		"follow_request_sent" : null,
+		"followers_count" : 952,
+		"following" : null,
+		"friends_count" : 1049,
+		"geo_enabled" : false,
+		"id" : 3009274280,
+		"id_str" : "3009274280",
+		"is_translator" : false,
+		"lang" : "ja",
+		"listed_count" : 5,
+		"location" : "＊虹月学園＊",
+		"name" : "まるこ@",
+		"notifications" : null,
+		"profile_background_color" : "C0DEED",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile" : false,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/3009274280/1426638965",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/582724427634200576/Dr-lhcQG_normal.jpg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/582724427634200576/Dr-lhcQG_normal.jpg",
+		"profile_link_color" : "0084B4",
+		"profile_sidebar_border_color" : "C0DEED",
+		"profile_sidebar_fill_color" : "DDEEF6",
+		"profile_text_color" : "333333",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "kedamarukochan",
+		"statuses_count" : 2005,
+		"time_zone" : "Irkutsk",
+		"url" : null,
+		"utc_offset" : 28800,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 24.637 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Wed Oct 07 07:06:26 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 0, 14 ],
+				"text" : "庭から出現すると嬉しい資源"
+			}
+		],
+		"media" : 
+		[
+			
+			{
+				"display_url" : "pic.twitter.com/TwQBPVt1GE",
+				"expanded_url" : "http://twitter.com/rinrin1600/status/651654799562137600/photo/1",
+				"id" : 651654789818810400,
+				"id_str" : "651654789818810369",
+				"indices" : [ 25, 47 ],
+				"media_url" : "http://pbs.twimg.com/media/CQsklCdVAAEv_Be.jpg",
+				"media_url_https" : "https://pbs.twimg.com/media/CQsklCdVAAEv_Be.jpg",
+				"sizes" : 
+				{
+					"large" : 
+					{
+						"h" : 332,
+						"resize" : "fit",
+						"w" : 443
+					},
+					"medium" : 
+					{
+						"h" : 332,
+						"resize" : "fit",
+						"w" : 443
+					},
+					"small" : 
+					{
+						"h" : 254,
+						"resize" : "fit",
+						"w" : 340
+					},
+					"thumb" : 
+					{
+						"h" : 150,
+						"resize" : "crop",
+						"w" : 150
+					}
+				},
+				"type" : "photo",
+				"url" : "http://t.co/TwQBPVt1GE"
+			}
+		],
+		"symbols" : [],
+		"urls" : [],
+		"user_mentions" : []
+	},
+	"extended_entities" : 
+	{
+		"media" : 
+		[
+			
+			{
+				"display_url" : "pic.twitter.com/TwQBPVt1GE",
+				"expanded_url" : "http://twitter.com/rinrin1600/status/651654799562137600/photo/1",
+				"id" : 651654789818810400,
+				"id_str" : "651654789818810369",
+				"indices" : [ 25, 47 ],
+				"media_url" : "http://pbs.twimg.com/media/CQsklCdVAAEv_Be.jpg",
+				"media_url_https" : "https://pbs.twimg.com/media/CQsklCdVAAEv_Be.jpg",
+				"sizes" : 
+				{
+					"large" : 
+					{
+						"h" : 332,
+						"resize" : "fit",
+						"w" : 443
+					},
+					"medium" : 
+					{
+						"h" : 332,
+						"resize" : "fit",
+						"w" : 443
+					},
+					"small" : 
+					{
+						"h" : 254,
+						"resize" : "fit",
+						"w" : 340
+					},
+					"thumb" : 
+					{
+						"h" : 150,
+						"resize" : "crop",
+						"w" : 150
+					}
+				},
+				"type" : "photo",
+				"url" : "http://t.co/TwQBPVt1GE"
+			}
+		]
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 651654799562137600,
+	"id_str" : "651654799562137600",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ja",
+	"place" : null,
+	"possibly_sensitive" : false,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+	"text" : "#庭から出現すると嬉しい資源\nきれいなジャイアン http://t.co/TwQBPVt1GE",
+	"timestamp_ms" : "1444201586033",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Fri Mar 06 04:29:05 +0000 2015",
+		"default_profile" : true,
+		"default_profile_image" : false,
+		"description" : "FNCT F4 無言フォロー失礼します フォロバ99.99% like エヴァンゲリオン/がっこうぐらし！/コレコレ/瀬戸弘司/福井のカズさん/ボカロ/猫/アニメはあまり観ないです",
+		"favourites_count" : 8339,
+		"follow_request_sent" : null,
+		"followers_count" : 940,
+		"following" : null,
+		"friends_count" : 958,
+		"geo_enabled" : true,
+		"id" : 3063941766,
+		"id_str" : "3063941766",
+		"is_translator" : false,
+		"lang" : "ja",
+		"listed_count" : 18,
+		"location" : "福井県",
+		"name" : "いの丼",
+		"notifications" : null,
+		"profile_background_color" : "C0DEED",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile" : false,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/3063941766/1434971848",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/644337984104366080/h_I1NahQ_normal.png",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/644337984104366080/h_I1NahQ_normal.png",
+		"profile_link_color" : "0084B4",
+		"profile_sidebar_border_color" : "C0DEED",
+		"profile_sidebar_fill_color" : "DDEEF6",
+		"profile_text_color" : "333333",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "rinrin1600",
+		"statuses_count" : 4878,
+		"time_zone" : null,
+		"url" : null,
+		"utc_offset" : null,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 28.0006 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Wed Oct 07 07:06:28 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 0, 14 ],
+				"text" : "庭から出現すると嬉しい資源"
+			}
+		],
+		"symbols" : [],
+		"urls" : [],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 651654810614169600,
+	"id_str" : "651654810614169603",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ja",
+	"place" : null,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+	"text" : "#庭から出現すると嬉しい資源\n\nOCDのライブチケット\n\nあれ？これ資源じゃない？まぁいいや( ˇωˇ )",
+	"timestamp_ms" : "1444201588668",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Fri Aug 07 10:19:19 +0000 2015",
+		"default_profile" : true,
+		"default_profile_image" : false,
+		"description" : "OLDCODEX/GRANRODEO/声優/LiSA/佐香智久/UNISON SQUARE GARDEN\n-No OLDCODEX No Life-  \nわんぷれ名古屋2days参戦済み\nPLEDGE GIRLS♡\n無言フォローとRT多すぎる人はごめんなさい←\n\n岐阜",
+		"favourites_count" : 857,
+		"follow_request_sent" : null,
+		"followers_count" : 75,
+		"following" : null,
+		"friends_count" : 68,
+		"geo_enabled" : false,
+		"id" : 3308697073,
+		"id_str" : "3308697073",
+		"is_translator" : false,
+		"lang" : "ja",
+		"listed_count" : 9,
+		"location" : "OLDCODEX武道館2/10参戦   ",
+		"name" : "さやか( 'ω' 2.11探してますっ)",
+		"notifications" : null,
+		"profile_background_color" : "C0DEED",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile" : false,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/3308697073/1439775594",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/647932087496904704/UbVssXtN_normal.jpg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/647932087496904704/UbVssXtN_normal.jpg",
+		"profile_link_color" : "0084B4",
+		"profile_sidebar_border_color" : "C0DEED",
+		"profile_sidebar_fill_color" : "DDEEF6",
+		"profile_text_color" : "333333",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "sayaka_ta2yorke",
+		"statuses_count" : 4163,
+		"time_zone" : "Pacific Time (US & Canada)",
+		"url" : null,
+		"utc_offset" : -25200,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 30.6383 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Wed Oct 07 07:06:32 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 3, 17 ],
+				"text" : "庭から出現すると嬉しい資源"
+			}
+		],
+		"media" : 
+		[
+			
+			{
+				"display_url" : "pic.twitter.com/9ZLGHH5HSq",
+				"expanded_url" : "http://twitter.com/s111w136/status/651654824836988928/photo/1",
+				"id" : 651654823901659100,
+				"id_str" : "651654823901659136",
+				"indices" : [ 18, 40 ],
+				"media_url" : "http://pbs.twimg.com/media/CQsknBbUAAArUaA.jpg",
+				"media_url_https" : "https://pbs.twimg.com/media/CQsknBbUAAArUaA.jpg",
+				"sizes" : 
+				{
+					"large" : 
+					{
+						"h" : 163,
+						"resize" : "fit",
+						"w" : 310
+					},
+					"medium" : 
+					{
+						"h" : 163,
+						"resize" : "fit",
+						"w" : 310
+					},
+					"small" : 
+					{
+						"h" : 163,
+						"resize" : "fit",
+						"w" : 310
+					},
+					"thumb" : 
+					{
+						"h" : 150,
+						"resize" : "crop",
+						"w" : 150
+					}
+				},
+				"type" : "photo",
+				"url" : "http://t.co/9ZLGHH5HSq"
+			}
+		],
+		"symbols" : [],
+		"urls" : [],
+		"user_mentions" : []
+	},
+	"extended_entities" : 
+	{
+		"media" : 
+		[
+			
+			{
+				"display_url" : "pic.twitter.com/9ZLGHH5HSq",
+				"expanded_url" : "http://twitter.com/s111w136/status/651654824836988928/photo/1",
+				"id" : 651654823901659100,
+				"id_str" : "651654823901659136",
+				"indices" : [ 18, 40 ],
+				"media_url" : "http://pbs.twimg.com/media/CQsknBbUAAArUaA.jpg",
+				"media_url_https" : "https://pbs.twimg.com/media/CQsknBbUAAArUaA.jpg",
+				"sizes" : 
+				{
+					"large" : 
+					{
+						"h" : 163,
+						"resize" : "fit",
+						"w" : 310
+					},
+					"medium" : 
+					{
+						"h" : 163,
+						"resize" : "fit",
+						"w" : 310
+					},
+					"small" : 
+					{
+						"h" : 163,
+						"resize" : "fit",
+						"w" : 310
+					},
+					"thumb" : 
+					{
+						"h" : 150,
+						"resize" : "crop",
+						"w" : 150
+					}
+				},
+				"type" : "photo",
+				"url" : "http://t.co/9ZLGHH5HSq"
+			}
+		]
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 651654824836988900,
+	"id_str" : "651654824836988928",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ja",
+	"place" : null,
+	"possibly_sensitive" : false,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+	"text" : "これ\n#庭から出現すると嬉しい資源 http://t.co/9ZLGHH5HSq",
+	"timestamp_ms" : "1444201592059",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Thu Apr 30 07:42:16 +0000 2015",
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"description" : "可愛いは正義\r\n東方Project艦これその他もろもろなどいろいろ好きです\r\n超甘党　超プラス思考　ドイツ語とロシア語覚えたい\r\n暑いのよりも寒いの　将来黒猫を飼いたいです",
+		"favourites_count" : 861,
+		"follow_request_sent" : null,
+		"followers_count" : 9,
+		"following" : null,
+		"friends_count" : 43,
+		"geo_enabled" : false,
+		"id" : 3180339512,
+		"id_str" : "3180339512",
+		"is_translator" : false,
+		"lang" : "ja",
+		"listed_count" : 0,
+		"location" : "北半球　日本",
+		"name" : "司田　s111",
+		"notifications" : null,
+		"profile_background_color" : "000000",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile" : false,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/3180339512/1440041221",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/649981562193207298/1zXI7rrW_normal.jpg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/649981562193207298/1zXI7rrW_normal.jpg",
+		"profile_link_color" : "000000",
+		"profile_sidebar_border_color" : "000000",
+		"profile_sidebar_fill_color" : "000000",
+		"profile_text_color" : "000000",
+		"profile_use_background_image" : false,
+		"protected" : false,
+		"screen_name" : "s111w136",
+		"statuses_count" : 704,
+		"time_zone" : "Pacific Time (US & Canada)",
+		"url" : null,
+		"utc_offset" : -25200,
+		"verified" : false
+	}
+}
+

@@ -74,12 +74,23 @@ void ExplodeAnimation::draw(){
     //Particle
     ofSetCircleResolution(60);
     bool isfade;
+    bool isclear;
     for(int i=0;i<triangles.size();i++){
         triangles.at(i).draw();
+        cout <<i <<": is fade :"<< triangles.at(i).is_fade()<<endl;
         isfade |= triangles.at(i).is_fade();
+        isclear &=triangles.at(i).is_fade();
     }
     
-    if(!isfade){//Particleがはみ出てたらTriangle表示しない
+    cout <<isclear<<endl;
+    
+    if(isclear){//そもそも全てのparticleがはみ出たらvector削除
+        
+        triangles.clear();
+        connections.clear();
+        triangleconnections.clear();
+        
+    }else if(!isfade){//Particleがはみ出てたらTriangle表示しない
         //Line
         ofSetColor(color,100);
         ofSetLineWidth(0.5);
@@ -92,7 +103,8 @@ void ExplodeAnimation::draw(){
         for(int i =0;i<triangleconnections.size();i++){
             triangleconnections.at(i).draw();
         }
-    }else{
+        
+    }else{//particleは表示させない
         //Line
         ofSetColor(color,50);
         ofSetLineWidth(0.5);

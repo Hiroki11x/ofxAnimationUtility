@@ -15,8 +15,12 @@ void JsonScene::update(){
     JsonReceiver::recieve();
 }
 void JsonScene::draw(){
+    float x,y;
+    float offset;
     for(int i = 0; i < JsonReceiver::usersInfo.size(); i++){
-        float y = ((100*i)/(int)ofGetWidth())*100;
-        JsonReceiver::usersInfo.at(i).icon.draw( 100 * i, y, 100, 100);
+        x = i ;
+        y = ((100 * i)/(int)ofGetWidth());
+        offset = ofGetWidth()*y;
+        JsonReceiver::usersInfo.at(i).icon.draw( 100 * x -offset  , 100 * y, 100, 100);
     }
 }

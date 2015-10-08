@@ -27,6 +27,9 @@ private:
     
     vector<Connection> connections;
     vector<TriangleConnection> triangleconnections;
+    
+    ofVec2f speed_generator(float range);
+    
 public:
     void set_color(ofColor color);
     void set_position(ofVec2f pos);

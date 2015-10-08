@@ -33,7 +33,7 @@ public:
         
         bool parsingSuccessful = jsonElement.openLocal("../../../MAU_twit/twitter.json");//Nodeで取得したJSON
 
-//        parsingSuccessful =false;
+        parsingSuccessful =false; // Node動かさないときはこのコメントを外す
         
         static ofxSuperLogUtil log;
         

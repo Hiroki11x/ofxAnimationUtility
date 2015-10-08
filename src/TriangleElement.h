@@ -21,7 +21,7 @@ private:
     ofVec2f position;
     float angle;//ここはRandomな
     float size = DEFAULT_SIZE;
-    bool isfade;
+    bool isfade =false;
 public:
     void set_color(ofColor arg_color);
     void init();

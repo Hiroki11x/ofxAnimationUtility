@@ -17,6 +17,15 @@ void ExplodeAnimation::set_speed_range(float range){
     speed_range = range;
 }
 
+ofVec2f ExplodeAnimation::speed_generator(float range){//0に近いスピードができないように
+    ofVec2f speed = ofVec2f(1,1);
+    float angle = ofRandom(2*PI);
+    float radius = ofRandom(range/2,range);
+    speed.x = radius * cos(angle);
+    speed.y = radius * sin(angle);
+    return speed;
+}
+
 void ExplodeAnimation::set_position(ofVec2f pos){
     position = pos;
     for(int i =0;i<triangles.size();i++){
@@ -24,16 +33,20 @@ void ExplodeAnimation::set_position(ofVec2f pos){
     }
 }
 
+
+
 void ExplodeAnimation::init(){
     triangles.clear();
     connections.clear();
     triangleconnections.clear();
+    
     for(int i=0;i<DEFAULT_PARTICLE_NUM;i++){
         triangles.push_back(TriangleElement());
         triangles.back().set_color(color);
         triangles.back().set_position(position);
-        triangles.back().set_speed(ofVec2f(ofRandom(-speed_range,speed_range),ofRandom(-speed_range,speed_range)));
+        triangles.back().set_speed(speed_generator(speed_range));
     }
+    
     int random_max = triangles.size();
     int index1,index2,index3;
     for(int i =0;i<DEFAULT_PARTICLE_NUM;i++){
@@ -73,16 +86,18 @@ void ExplodeAnimation::draw(){
     ofPushStyle();
     //Particle
     ofSetCircleResolution(60);
-    bool isfade;
-    bool isclear;
+    bool isfade = false ;
+    bool isclear =true ;
     for(int i=0;i<triangles.size();i++){
         triangles.at(i).draw();
         cout <<i <<": is fade :"<< triangles.at(i).is_fade()<<endl;
         isfade |= triangles.at(i).is_fade();
-        isclear &=triangles.at(i).is_fade();
+        isclear &= triangles.at(i).is_fade();//全部
     }
     
-    cout <<isclear<<endl;
+    cout <<"triangles.size"<<triangles.size()<<endl;
+    cout <<"isfade"<<isfade<<endl;
+    cout <<"isclear"<<isclear<<endl;
     
     if(isclear){//そもそも全てのparticleがはみ出たらvector削除
         

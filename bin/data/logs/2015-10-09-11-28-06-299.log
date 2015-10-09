@@ -1,0 +1,1024 @@
+
+
+--------------------------------------- 2015-10-09-11-28-06-299
+[notice ] ElapsedTime: 0.445086 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Fri Oct 09 02:27:45 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 26, 33 ],
+				"text" : "ノンストップ"
+			}
+		],
+		"media" : 
+		[
+			
+			{
+				"display_url" : "pic.twitter.com/KKWky6tRUX",
+				"expanded_url" : "http://twitter.com/MelondashPop212/status/652304567787503616/photo/1",
+				"id" : 652304567598743600,
+				"id_str" : "652304567598743555",
+				"indices" : [ 34, 56 ],
+				"media_url" : "http://pbs.twimg.com/media/CQ1zjFUWgAMWIEY.jpg",
+				"media_url_https" : "https://pbs.twimg.com/media/CQ1zjFUWgAMWIEY.jpg",
+				"sizes" : 
+				{
+					"large" : 
+					{
+						"h" : 480,
+						"resize" : "fit",
+						"w" : 854
+					},
+					"medium" : 
+					{
+						"h" : 337,
+						"resize" : "fit",
+						"w" : 600
+					},
+					"small" : 
+					{
+						"h" : 191,
+						"resize" : "fit",
+						"w" : 340
+					},
+					"thumb" : 
+					{
+						"h" : 150,
+						"resize" : "crop",
+						"w" : 150
+					}
+				},
+				"source_status_id" : 652304567787503600,
+				"source_status_id_str" : "652304567787503616",
+				"source_user_id" : 822975758,
+				"source_user_id_str" : "822975758",
+				"type" : "photo",
+				"url" : "http://t.co/KKWky6tRUX"
+			}
+		],
+		"symbols" : [],
+		"urls" : [],
+		"user_mentions" : 
+		[
+			
+			{
+				"id" : 822975758,
+				"id_str" : "822975758",
+				"indices" : [ 3, 19 ],
+				"name" : "水紀＠長野くん誕生日おめでとう！！",
+				"screen_name" : "MelondashPop212"
+			}
+		]
+	},
+	"extended_entities" : 
+	{
+		"media" : 
+		[
+			
+			{
+				"display_url" : "pic.twitter.com/KKWky6tRUX",
+				"expanded_url" : "http://twitter.com/MelondashPop212/status/652304567787503616/photo/1",
+				"id" : 652304567598743600,
+				"id_str" : "652304567598743555",
+				"indices" : [ 34, 56 ],
+				"media_url" : "http://pbs.twimg.com/media/CQ1zjFUWgAMWIEY.jpg",
+				"media_url_https" : "https://pbs.twimg.com/media/CQ1zjFUWgAMWIEY.jpg",
+				"sizes" : 
+				{
+					"large" : 
+					{
+						"h" : 480,
+						"resize" : "fit",
+						"w" : 854
+					},
+					"medium" : 
+					{
+						"h" : 337,
+						"resize" : "fit",
+						"w" : 600
+					},
+					"small" : 
+					{
+						"h" : 191,
+						"resize" : "fit",
+						"w" : 340
+					},
+					"thumb" : 
+					{
+						"h" : 150,
+						"resize" : "crop",
+						"w" : 150
+					}
+				},
+				"source_status_id" : 652304567787503600,
+				"source_status_id_str" : "652304567787503616",
+				"source_user_id" : 822975758,
+				"source_user_id_str" : "822975758",
+				"type" : "photo",
+				"url" : "http://t.co/KKWky6tRUX"
+			}
+		]
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 652309445674840000,
+	"id_str" : "652309445674840064",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ja",
+	"place" : null,
+	"possibly_sensitive" : false,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"retweeted_status" : 
+	{
+		"contributors" : null,
+		"coordinates" : null,
+		"created_at" : "Fri Oct 09 02:08:22 +0000 2015",
+		"entities" : 
+		{
+			"hashtags" : 
+			[
+				
+				{
+					"indices" : [ 5, 12 ],
+					"text" : "ノンストップ"
+				}
+			],
+			"media" : 
+			[
+				
+				{
+					"display_url" : "pic.twitter.com/KKWky6tRUX",
+					"expanded_url" : "http://twitter.com/MelondashPop212/status/652304567787503616/photo/1",
+					"id" : 652304567598743600,
+					"id_str" : "652304567598743555",
+					"indices" : [ 13, 35 ],
+					"media_url" : "http://pbs.twimg.com/media/CQ1zjFUWgAMWIEY.jpg",
+					"media_url_https" : "https://pbs.twimg.com/media/CQ1zjFUWgAMWIEY.jpg",
+					"sizes" : 
+					{
+						"large" : 
+						{
+							"h" : 480,
+							"resize" : "fit",
+							"w" : 854
+						},
+						"medium" : 
+						{
+							"h" : 337,
+							"resize" : "fit",
+							"w" : 600
+						},
+						"small" : 
+						{
+							"h" : 191,
+							"resize" : "fit",
+							"w" : 340
+						},
+						"thumb" : 
+						{
+							"h" : 150,
+							"resize" : "crop",
+							"w" : 150
+						}
+					},
+					"type" : "photo",
+					"url" : "http://t.co/KKWky6tRUX"
+				}
+			],
+			"symbols" : [],
+			"urls" : [],
+			"user_mentions" : []
+		},
+		"extended_entities" : 
+		{
+			"media" : 
+			[
+				
+				{
+					"display_url" : "pic.twitter.com/KKWky6tRUX",
+					"expanded_url" : "http://twitter.com/MelondashPop212/status/652304567787503616/photo/1",
+					"id" : 652304567598743600,
+					"id_str" : "652304567598743555",
+					"indices" : [ 13, 35 ],
+					"media_url" : "http://pbs.twimg.com/media/CQ1zjFUWgAMWIEY.jpg",
+					"media_url_https" : "https://pbs.twimg.com/media/CQ1zjFUWgAMWIEY.jpg",
+					"sizes" : 
+					{
+						"large" : 
+						{
+							"h" : 480,
+							"resize" : "fit",
+							"w" : 854
+						},
+						"medium" : 
+						{
+							"h" : 337,
+							"resize" : "fit",
+							"w" : 600
+						},
+						"small" : 
+						{
+							"h" : 191,
+							"resize" : "fit",
+							"w" : 340
+						},
+						"thumb" : 
+						{
+							"h" : 150,
+							"resize" : "crop",
+							"w" : 150
+						}
+					},
+					"type" : "photo",
+					"url" : "http://t.co/KKWky6tRUX"
+				}
+			]
+		},
+		"favorite_count" : 1,
+		"favorited" : false,
+		"filter_level" : "low",
+		"geo" : null,
+		"id" : 652304567787503600,
+		"id_str" : "652304567787503616",
+		"in_reply_to_screen_name" : null,
+		"in_reply_to_status_id" : null,
+		"in_reply_to_status_id_str" : null,
+		"in_reply_to_user_id" : null,
+		"in_reply_to_user_id_str" : null,
+		"is_quote_status" : false,
+		"lang" : "ja",
+		"place" : null,
+		"possibly_sensitive" : false,
+		"retweet_count" : 4,
+		"retweeted" : false,
+		"source" : "<a href=\"http://www.movatwi.jp\" rel=\"nofollow\">モバツイ / www.movatwi.jp .</a>",
+		"text" : "おまけ\n #ノンストップ http://t.co/KKWky6tRUX",
+		"truncated" : false,
+		"user" : 
+		{
+			"contributors_enabled" : false,
+			"created_at" : "Fri Sep 14 09:13:05 +0000 2012",
+			"default_profile" : true,
+			"default_profile_image" : false,
+			"description" : "水紀(ﾐｽﾞｷ)と申します。\r\n二次創作や妄想が大好きな20↑。\r\n▼取引希望の方は必ずこちらの閲覧をお願いします。→http://twpf.jp/MelondashPop212\r\n▼ゆうちょ口座有。手渡し未対応。\r\n★景時政虎贔屓兄貴紅丸シェン大好きポケモントレーナー\r\n※好き嫌いがあるのでリムブロはご自由に",
+			"favourites_count" : 3325,
+			"follow_request_sent" : null,
+			"followers_count" : 100,
+			"following" : null,
+			"friends_count" : 162,
+			"geo_enabled" : false,
+			"id" : 822975758,
+			"id_str" : "822975758",
+			"is_translator" : false,
+			"lang" : "ja",
+			"listed_count" : 3,
+			"location" : "リプライ機能の扱いが苦手な者です。※誤リプ申し訳ありません",
+			"name" : "水紀＠長野くん誕生日おめでとう！！",
+			"notifications" : null,
+			"profile_background_color" : "C0DEED",
+			"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile" : false,
+			"profile_image_url" : "http://pbs.twimg.com/profile_images/652134635959394304/vkJn_D4p_normal.jpg",
+			"profile_image_url_https" : "https://pbs.twimg.com/profile_images/652134635959394304/vkJn_D4p_normal.jpg",
+			"profile_link_color" : "0084B4",
+			"profile_sidebar_border_color" : "C0DEED",
+			"profile_sidebar_fill_color" : "DDEEF6",
+			"profile_text_color" : "333333",
+			"profile_use_background_image" : true,
+			"protected" : false,
+			"screen_name" : "MelondashPop212",
+			"statuses_count" : 30813,
+			"time_zone" : "Tokyo",
+			"url" : null,
+			"utc_offset" : 32400,
+			"verified" : false
+		}
+	},
+	"source" : "<a href=\"http://www.yahoo.co.jp/\" rel=\"nofollow\">アプリ名を記入する</a>",
+	"text" : "RT @MelondashPop212: おまけ\n #ノンストップ http://t.co/KKWky6tRUX",
+	"timestamp_ms" : "1444357665829",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Thu Sep 27 05:44:56 +0000 2012",
+		"default_profile" : true,
+		"default_profile_image" : false,
+		"description" : "ネット資産設計アドバイザー\nインターネットを活用した資産設計をご提案致します。\nネットビジネス、ツール販売事業、WEBマーケティング、SEO、幸せで豊かな生活を送るためのネット資産設計のことならお任せください。",
+		"favourites_count" : 0,
+		"follow_request_sent" : null,
+		"followers_count" : 8498,
+		"following" : null,
+		"friends_count" : 8565,
+		"geo_enabled" : false,
+		"id" : 848718450,
+		"id_str" : "848718450",
+		"is_translator" : false,
+		"lang" : "ja",
+		"listed_count" : 6,
+		"location" : null,
+		"name" : "OumiMasanori",
+		"notifications" : null,
+		"profile_background_color" : "C0DEED",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile" : false,
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/2654270774/132572695cb377c43b3b0beae70e25d8_normal.jpeg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/2654270774/132572695cb377c43b3b0beae70e25d8_normal.jpeg",
+		"profile_link_color" : "0084B4",
+		"profile_sidebar_border_color" : "C0DEED",
+		"profile_sidebar_fill_color" : "DDEEF6",
+		"profile_text_color" : "333333",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "oumimasanori",
+		"statuses_count" : 2686,
+		"time_zone" : "Irkutsk",
+		"url" : "http://ameblo.jp/oumimasanori/",
+		"utc_offset" : 28800,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 16.8375 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Fri Oct 09 02:28:21 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 65, 72 ],
+				"text" : "ノンストップ"
+			}
+		],
+		"symbols" : [],
+		"urls" : 
+		[
+			
+			{
+				"display_url" : "goo.gl/e86Vy9",
+				"expanded_url" : "https://goo.gl/e86Vy9",
+				"indices" : [ 20, 43 ],
+				"url" : "https://t.co/toJ1jrYJ5N"
+			}
+		],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 652309597332500500,
+	"id_str" : "652309597332500480",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ja",
+	"place" : null,
+	"possibly_sensitive" : false,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"https://twitter.com/2nomatome?lang=ja\" rel=\"nofollow\">2ch Matome Bot</a>",
+	"text" : "【結婚】竹野内豊・倉科カナ、事実婚状態→https://t.co/toJ1jrYJ5N アニメ分野 きんようび デュエル裁定診断 #ノンストップ 年間10万",
+	"timestamp_ms" : "1444357701987",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Thu Oct 01 13:44:43 +0000 2015",
+		"default_profile" : true,
+		"default_profile_image" : false,
+		"description" : null,
+		"favourites_count" : 0,
+		"follow_request_sent" : null,
+		"followers_count" : 2,
+		"following" : null,
+		"friends_count" : 0,
+		"geo_enabled" : false,
+		"id" : 3748455085,
+		"id_str" : "3748455085",
+		"is_translator" : false,
+		"lang" : "ja",
+		"listed_count" : 0,
+		"location" : null,
+		"name" : "2chmatome",
+		"notifications" : null,
+		"profile_background_color" : "C0DEED",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile" : false,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/3748455085/1443708801",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/649584833849503745/u1CxNa1a_normal.jpg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/649584833849503745/u1CxNa1a_normal.jpg",
+		"profile_link_color" : "0084B4",
+		"profile_sidebar_border_color" : "C0DEED",
+		"profile_sidebar_fill_color" : "DDEEF6",
+		"profile_text_color" : "333333",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "2nomatome",
+		"statuses_count" : 10624,
+		"time_zone" : null,
+		"url" : null,
+		"utc_offset" : null,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 31.3258 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Fri Oct 09 02:28:36 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 26, 33 ],
+				"text" : "ノンストップ"
+			}
+		],
+		"media" : 
+		[
+			
+			{
+				"display_url" : "pic.twitter.com/KKWky6tRUX",
+				"expanded_url" : "http://twitter.com/MelondashPop212/status/652304567787503616/photo/1",
+				"id" : 652304567598743600,
+				"id_str" : "652304567598743555",
+				"indices" : [ 34, 56 ],
+				"media_url" : "http://pbs.twimg.com/media/CQ1zjFUWgAMWIEY.jpg",
+				"media_url_https" : "https://pbs.twimg.com/media/CQ1zjFUWgAMWIEY.jpg",
+				"sizes" : 
+				{
+					"large" : 
+					{
+						"h" : 480,
+						"resize" : "fit",
+						"w" : 854
+					},
+					"medium" : 
+					{
+						"h" : 337,
+						"resize" : "fit",
+						"w" : 600
+					},
+					"small" : 
+					{
+						"h" : 191,
+						"resize" : "fit",
+						"w" : 340
+					},
+					"thumb" : 
+					{
+						"h" : 150,
+						"resize" : "crop",
+						"w" : 150
+					}
+				},
+				"source_status_id" : 652304567787503600,
+				"source_status_id_str" : "652304567787503616",
+				"source_user_id" : 822975758,
+				"source_user_id_str" : "822975758",
+				"type" : "photo",
+				"url" : "http://t.co/KKWky6tRUX"
+			}
+		],
+		"symbols" : [],
+		"urls" : [],
+		"user_mentions" : 
+		[
+			
+			{
+				"id" : 822975758,
+				"id_str" : "822975758",
+				"indices" : [ 3, 19 ],
+				"name" : "水紀＠長野くん誕生日おめでとう！！",
+				"screen_name" : "MelondashPop212"
+			}
+		]
+	},
+	"extended_entities" : 
+	{
+		"media" : 
+		[
+			
+			{
+				"display_url" : "pic.twitter.com/KKWky6tRUX",
+				"expanded_url" : "http://twitter.com/MelondashPop212/status/652304567787503616/photo/1",
+				"id" : 652304567598743600,
+				"id_str" : "652304567598743555",
+				"indices" : [ 34, 56 ],
+				"media_url" : "http://pbs.twimg.com/media/CQ1zjFUWgAMWIEY.jpg",
+				"media_url_https" : "https://pbs.twimg.com/media/CQ1zjFUWgAMWIEY.jpg",
+				"sizes" : 
+				{
+					"large" : 
+					{
+						"h" : 480,
+						"resize" : "fit",
+						"w" : 854
+					},
+					"medium" : 
+					{
+						"h" : 337,
+						"resize" : "fit",
+						"w" : 600
+					},
+					"small" : 
+					{
+						"h" : 191,
+						"resize" : "fit",
+						"w" : 340
+					},
+					"thumb" : 
+					{
+						"h" : 150,
+						"resize" : "crop",
+						"w" : 150
+					}
+				},
+				"source_status_id" : 652304567787503600,
+				"source_status_id_str" : "652304567787503616",
+				"source_user_id" : 822975758,
+				"source_user_id_str" : "822975758",
+				"type" : "photo",
+				"url" : "http://t.co/KKWky6tRUX"
+			}
+		]
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 652309657088733200,
+	"id_str" : "652309657088733184",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ja",
+	"place" : null,
+	"possibly_sensitive" : false,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"retweeted_status" : 
+	{
+		"contributors" : null,
+		"coordinates" : null,
+		"created_at" : "Fri Oct 09 02:08:22 +0000 2015",
+		"entities" : 
+		{
+			"hashtags" : 
+			[
+				
+				{
+					"indices" : [ 5, 12 ],
+					"text" : "ノンストップ"
+				}
+			],
+			"media" : 
+			[
+				
+				{
+					"display_url" : "pic.twitter.com/KKWky6tRUX",
+					"expanded_url" : "http://twitter.com/MelondashPop212/status/652304567787503616/photo/1",
+					"id" : 652304567598743600,
+					"id_str" : "652304567598743555",
+					"indices" : [ 13, 35 ],
+					"media_url" : "http://pbs.twimg.com/media/CQ1zjFUWgAMWIEY.jpg",
+					"media_url_https" : "https://pbs.twimg.com/media/CQ1zjFUWgAMWIEY.jpg",
+					"sizes" : 
+					{
+						"large" : 
+						{
+							"h" : 480,
+							"resize" : "fit",
+							"w" : 854
+						},
+						"medium" : 
+						{
+							"h" : 337,
+							"resize" : "fit",
+							"w" : 600
+						},
+						"small" : 
+						{
+							"h" : 191,
+							"resize" : "fit",
+							"w" : 340
+						},
+						"thumb" : 
+						{
+							"h" : 150,
+							"resize" : "crop",
+							"w" : 150
+						}
+					},
+					"type" : "photo",
+					"url" : "http://t.co/KKWky6tRUX"
+				}
+			],
+			"symbols" : [],
+			"urls" : [],
+			"user_mentions" : []
+		},
+		"extended_entities" : 
+		{
+			"media" : 
+			[
+				
+				{
+					"display_url" : "pic.twitter.com/KKWky6tRUX",
+					"expanded_url" : "http://twitter.com/MelondashPop212/status/652304567787503616/photo/1",
+					"id" : 652304567598743600,
+					"id_str" : "652304567598743555",
+					"indices" : [ 13, 35 ],
+					"media_url" : "http://pbs.twimg.com/media/CQ1zjFUWgAMWIEY.jpg",
+					"media_url_https" : "https://pbs.twimg.com/media/CQ1zjFUWgAMWIEY.jpg",
+					"sizes" : 
+					{
+						"large" : 
+						{
+							"h" : 480,
+							"resize" : "fit",
+							"w" : 854
+						},
+						"medium" : 
+						{
+							"h" : 337,
+							"resize" : "fit",
+							"w" : 600
+						},
+						"small" : 
+						{
+							"h" : 191,
+							"resize" : "fit",
+							"w" : 340
+						},
+						"thumb" : 
+						{
+							"h" : 150,
+							"resize" : "crop",
+							"w" : 150
+						}
+					},
+					"type" : "photo",
+					"url" : "http://t.co/KKWky6tRUX"
+				}
+			]
+		},
+		"favorite_count" : 1,
+		"favorited" : false,
+		"filter_level" : "low",
+		"geo" : null,
+		"id" : 652304567787503600,
+		"id_str" : "652304567787503616",
+		"in_reply_to_screen_name" : null,
+		"in_reply_to_status_id" : null,
+		"in_reply_to_status_id_str" : null,
+		"in_reply_to_user_id" : null,
+		"in_reply_to_user_id_str" : null,
+		"is_quote_status" : false,
+		"lang" : "ja",
+		"place" : null,
+		"possibly_sensitive" : false,
+		"retweet_count" : 5,
+		"retweeted" : false,
+		"source" : "<a href=\"http://www.movatwi.jp\" rel=\"nofollow\">モバツイ / www.movatwi.jp .</a>",
+		"text" : "おまけ\n #ノンストップ http://t.co/KKWky6tRUX",
+		"truncated" : false,
+		"user" : 
+		{
+			"contributors_enabled" : false,
+			"created_at" : "Fri Sep 14 09:13:05 +0000 2012",
+			"default_profile" : true,
+			"default_profile_image" : false,
+			"description" : "水紀(ﾐｽﾞｷ)と申します。\r\n二次創作や妄想が大好きな20↑。\r\n▼取引希望の方は必ずこちらの閲覧をお願いします。→http://twpf.jp/MelondashPop212\r\n▼ゆうちょ口座有。手渡し未対応。\r\n★景時政虎贔屓兄貴紅丸シェン大好きポケモントレーナー\r\n※好き嫌いがあるのでリムブロはご自由に",
+			"favourites_count" : 3325,
+			"follow_request_sent" : null,
+			"followers_count" : 100,
+			"following" : null,
+			"friends_count" : 162,
+			"geo_enabled" : false,
+			"id" : 822975758,
+			"id_str" : "822975758",
+			"is_translator" : false,
+			"lang" : "ja",
+			"listed_count" : 3,
+			"location" : "リプライ機能の扱いが苦手な者です。※誤リプ申し訳ありません",
+			"name" : "水紀＠長野くん誕生日おめでとう！！",
+			"notifications" : null,
+			"profile_background_color" : "C0DEED",
+			"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile" : false,
+			"profile_image_url" : "http://pbs.twimg.com/profile_images/652134635959394304/vkJn_D4p_normal.jpg",
+			"profile_image_url_https" : "https://pbs.twimg.com/profile_images/652134635959394304/vkJn_D4p_normal.jpg",
+			"profile_link_color" : "0084B4",
+			"profile_sidebar_border_color" : "C0DEED",
+			"profile_sidebar_fill_color" : "DDEEF6",
+			"profile_text_color" : "333333",
+			"profile_use_background_image" : true,
+			"protected" : false,
+			"screen_name" : "MelondashPop212",
+			"statuses_count" : 30813,
+			"time_zone" : "Tokyo",
+			"url" : null,
+			"utc_offset" : 32400,
+			"verified" : false
+		}
+	},
+	"source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+	"text" : "RT @MelondashPop212: おまけ\n #ノンストップ http://t.co/KKWky6tRUX",
+	"timestamp_ms" : "1444357716234",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Thu Apr 23 14:20:44 +0000 2015",
+		"default_profile" : true,
+		"default_profile_image" : false,
+		"description" : "自分用メモ。 腐女子。マイペース。24歳。可愛い人、かっこいい人、優しい人が好き。 独特の雰囲気がある人が好き。亀梨和也ラブ♡愛革命。あいにの。ろばまる。西ロマ、串ヨグ、日受け、中日、蘭日。普がすき。普日、普ロマ(イタちゃんの代わり)。合わないかたは、逃げてね。笑",
+		"favourites_count" : 19,
+		"follow_request_sent" : null,
+		"followers_count" : 41,
+		"following" : null,
+		"friends_count" : 216,
+		"geo_enabled" : false,
+		"id" : 3168867061,
+		"id_str" : "3168867061",
+		"is_translator" : false,
+		"lang" : "ja",
+		"listed_count" : 16,
+		"location" : null,
+		"name" : "中村和仁雄POCHI竜淳聖めろん❤️✨",
+		"notifications" : null,
+		"profile_background_color" : "C0DEED",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile" : false,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/3168867061/1444185539",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/651587312946561025/ydd-cWNR_normal.jpg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/651587312946561025/ydd-cWNR_normal.jpg",
+		"profile_link_color" : "0084B4",
+		"profile_sidebar_border_color" : "C0DEED",
+		"profile_sidebar_fill_color" : "DDEEF6",
+		"profile_text_color" : "333333",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "_KYame223",
+		"statuses_count" : 54881,
+		"time_zone" : null,
+		"url" : null,
+		"utc_offset" : null,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 42.1405 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Fri Oct 09 02:28:46 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 85, 92 ],
+				"text" : "ノンストップ"
+			}
+		],
+		"media" : 
+		[
+			
+			{
+				"display_url" : "pic.twitter.com/bCWTKt5OD2",
+				"expanded_url" : "http://twitter.com/hik0427aru/status/647060867666718720/video/1",
+				"id" : 647060503609540600,
+				"id_str" : "647060503609540608",
+				"indices" : [ 20, 42 ],
+				"media_url" : "http://pbs.twimg.com/ext_tw_video_thumb/647060503609540608/pu/img/i5kGsUOZg6MmX1Uq.jpg",
+				"media_url_https" : "https://pbs.twimg.com/ext_tw_video_thumb/647060503609540608/pu/img/i5kGsUOZg6MmX1Uq.jpg",
+				"sizes" : 
+				{
+					"large" : 
+					{
+						"h" : 1280,
+						"resize" : "fit",
+						"w" : 720
+					},
+					"medium" : 
+					{
+						"h" : 1067,
+						"resize" : "fit",
+						"w" : 600
+					},
+					"small" : 
+					{
+						"h" : 604,
+						"resize" : "fit",
+						"w" : 340
+					},
+					"thumb" : 
+					{
+						"h" : 150,
+						"resize" : "crop",
+						"w" : 150
+					}
+				},
+				"source_status_id" : 647060867666718700,
+				"source_status_id_str" : "647060867666718720",
+				"source_user_id" : 1570468040,
+				"source_user_id_str" : "1570468040",
+				"type" : "photo",
+				"url" : "http://t.co/bCWTKt5OD2"
+			}
+		],
+		"symbols" : [],
+		"urls" : [],
+		"user_mentions" : []
+	},
+	"extended_entities" : 
+	{
+		"media" : 
+		[
+			
+			{
+				"display_url" : "pic.twitter.com/bCWTKt5OD2",
+				"expanded_url" : "http://twitter.com/hik0427aru/status/647060867666718720/video/1",
+				"id" : 647060503609540600,
+				"id_str" : "647060503609540608",
+				"indices" : [ 20, 42 ],
+				"media_url" : "http://pbs.twimg.com/ext_tw_video_thumb/647060503609540608/pu/img/i5kGsUOZg6MmX1Uq.jpg",
+				"media_url_https" : "https://pbs.twimg.com/ext_tw_video_thumb/647060503609540608/pu/img/i5kGsUOZg6MmX1Uq.jpg",
+				"sizes" : 
+				{
+					"large" : 
+					{
+						"h" : 1280,
+						"resize" : "fit",
+						"w" : 720
+					},
+					"medium" : 
+					{
+						"h" : 1067,
+						"resize" : "fit",
+						"w" : 600
+					},
+					"small" : 
+					{
+						"h" : 604,
+						"resize" : "fit",
+						"w" : 340
+					},
+					"thumb" : 
+					{
+						"h" : 150,
+						"resize" : "crop",
+						"w" : 150
+					}
+				},
+				"source_status_id" : 647060867666718700,
+				"source_status_id_str" : "647060867666718720",
+				"source_user_id" : 1570468040,
+				"source_user_id_str" : "1570468040",
+				"type" : "video",
+				"url" : "http://t.co/bCWTKt5OD2",
+				"video_info" : 
+				{
+					"aspect_ratio" : [ 9, 16 ],
+					"duration_millis" : 30000,
+					"variants" : 
+					[
+						
+						{
+							"content_type" : "application/dash+xml",
+							"url" : "https://video.twimg.com/ext_tw_video/647060503609540608/pu/pl/pWIb5sVnHir5xMpg.mpd"
+						},
+						
+						{
+							"bitrate" : 832000,
+							"content_type" : "video/webm",
+							"url" : "https://video.twimg.com/ext_tw_video/647060503609540608/pu/vid/360x640/k6ZMBOpoVhlfDmEy.webm"
+						},
+						
+						{
+							"bitrate" : 320000,
+							"content_type" : "video/mp4",
+							"url" : "https://video.twimg.com/ext_tw_video/647060503609540608/pu/vid/180x320/-HE7982eyZv7S0wT.mp4"
+						},
+						
+						{
+							"content_type" : "application/x-mpegURL",
+							"url" : "https://video.twimg.com/ext_tw_video/647060503609540608/pu/pl/pWIb5sVnHir5xMpg.m3u8"
+						},
+						
+						{
+							"bitrate" : 832000,
+							"content_type" : "video/mp4",
+							"url" : "https://video.twimg.com/ext_tw_video/647060503609540608/pu/vid/360x640/k6ZMBOpoVhlfDmEy.mp4"
+						},
+						
+						{
+							"bitrate" : 2176000,
+							"content_type" : "video/mp4",
+							"url" : "https://video.twimg.com/ext_tw_video/647060503609540608/pu/vid/720x1280/w2zKdvkpFGOiQ9pL.mp4"
+						}
+					]
+				}
+			}
+		]
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 652309701191843800,
+	"id_str" : "652309701191843840",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ja",
+	"place" : null,
+	"possibly_sensitive" : false,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://www.yahoo.co.jp/\" rel=\"nofollow\">猫、猫、子猫♡</a>",
+	"text" : "鼻からパスタ  \nこういう家族いいな \nhttp://t.co/bCWTKt5OD2 オタク 年間25000円 ガメラ 年間10万 アニメ分野 年間2万5千円 死者3人 #ノンストップ 三連休 デュエル裁定診断",
+	"timestamp_ms" : "1444357726749",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Wed Sep 30 07:06:09 +0000 2015",
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"description" : "人気のトレンドワードをお知らせすると同時に、人気動画をご紹介します♡面白かったらリツイートしてね(*´ω｀*)",
+		"favourites_count" : 0,
+		"follow_request_sent" : null,
+		"followers_count" : 53,
+		"following" : null,
+		"friends_count" : 1,
+		"geo_enabled" : false,
+		"id" : 3734285414,
+		"id_str" : "3734285414",
+		"is_translator" : false,
+		"lang" : "ja",
+		"listed_count" : 4,
+		"location" : null,
+		"name" : "♡おもしろ動画ちゃん♡",
+		"notifications" : null,
+		"profile_background_color" : "000000",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile" : false,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/3734285414/1443597371",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/649120561709191168/OCIbOqY7_normal.jpg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/649120561709191168/OCIbOqY7_normal.jpg",
+		"profile_link_color" : "F5ABB5",
+		"profile_sidebar_border_color" : "000000",
+		"profile_sidebar_fill_color" : "000000",
+		"profile_text_color" : "000000",
+		"profile_use_background_image" : false,
+		"protected" : false,
+		"screen_name" : "omo_dougachan",
+		"statuses_count" : 823,
+		"time_zone" : "Pacific Time (US & Canada)",
+		"url" : null,
+		"utc_offset" : -25200,
+		"verified" : false
+	}
+}
+

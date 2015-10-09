@@ -26,15 +26,15 @@
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>210A84CB64DBE001319448A793DFC671846EB46E</key>
-		<string>../../../../../addons/ofxPostGlitch</string>
+		<string>../../../addons/ofxPostGlitch</string>
 		<key>5DB7C332A3A89035E93556A2A38BF414005BA671</key>
-		<string>../../../../../addons/ofxJSON</string>
+		<string>../../../addons/ofxJSON</string>
 		<key>6B5D1DE462D521A98972DF70F1147E20268C546A</key>
-		<string>../../../../../addons/ofxTween</string>
+		<string>../../../addons/ofxTween</string>
 		<key>A8D3CFED5208BD26E280BC9FB210A0D16501DA4D</key>
 		<string>../..</string>
 		<key>B090D3E72F2C83A91517EC3C9E4CDCB5FAFED065</key>
-		<string>../../../../../addons/ofxSuperLog</string>
+		<string>../../../addons/ofxSuperLog</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>github.com:Hiroki11x/openFrameworks_AnimationUtility.git</string>

@@ -9,8 +9,7 @@
 #ifndef __ofxAnimationUtility__LineBelt__
 #define __ofxAnimationUtility__LineBelt__
 
-#include <stdio.h>
-
+#include "JsonReceiver.h"
 #include "ofMain.h"
 
 class LineBelt{
@@ -21,6 +20,7 @@ private:
     float line_num;
     float line_length;
     bool mode;
+    int mouse_x;
     
     void set_center_y(float y);
     void generate_position();
@@ -33,6 +33,7 @@ public:
     void setup_belt(int num);
     void update_belt();
     void draw_belt();
+    void mouseMoved(int x, int y);
 };
 
 #endif /* defined(__ofxAnimationUtility__LineBelt__) */

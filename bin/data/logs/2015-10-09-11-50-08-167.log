@@ -1,0 +1,340 @@
+
+
+--------------------------------------- 2015-10-09-11-50-08-168
+[notice ] ElapsedTime: 1.61628 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Fri Oct 09 02:47:50 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 61, 68 ],
+				"text" : "ノンストップ"
+			},
+			
+			{
+				"indices" : [ 69, 77 ],
+				"text" : "OneDish"
+			},
+			
+			{
+				"indices" : [ 78, 83 ],
+				"text" : "坂本昌行"
+			}
+		],
+		"symbols" : [],
+		"urls" : [],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 652314497080647700,
+	"id_str" : "652314497080647680",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ja",
+	"place" : null,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+	"text" : "ノンストップがトレンド入りしてる!って思ったら今日金曜日じゃん。One Dishじゃん。見たかった…今日なに作ったんだろ\n#ノンストップ\n#OneDish\n#坂本昌行",
+	"timestamp_ms" : "1444358870178",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Tue Jul 28 23:35:13 +0000 2015",
+		"default_profile" : true,
+		"default_profile_image" : false,
+		"description" : "お薦めの本があれば教えて下さい。\n／小説家希望。／有川浩／向山貴彦／百田尚樹／山田宗樹／ケミカルボリュームさん",
+		"favourites_count" : 58,
+		"follow_request_sent" : null,
+		"followers_count" : 26,
+		"following" : null,
+		"friends_count" : 21,
+		"geo_enabled" : false,
+		"id" : 3300000547,
+		"id_str" : "3300000547",
+		"is_translator" : false,
+		"lang" : "ja",
+		"listed_count" : 0,
+		"location" : "朝陽と夕陽の狭間",
+		"name" : "向山准一",
+		"notifications" : null,
+		"profile_background_color" : "C0DEED",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile" : false,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/3300000547/1443841880",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/645937931224379392/EAwfbNnj_normal.jpg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/645937931224379392/EAwfbNnj_normal.jpg",
+		"profile_link_color" : "0084B4",
+		"profile_sidebar_border_color" : "C0DEED",
+		"profile_sidebar_fill_color" : "DDEEF6",
+		"profile_text_color" : "333333",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "poison_peach_",
+		"statuses_count" : 267,
+		"time_zone" : null,
+		"url" : null,
+		"utc_offset" : null,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 9.36922 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Fri Oct 09 02:50:16 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : [],
+		"symbols" : [],
+		"urls" : 
+		[
+			
+			{
+				"display_url" : "goo.gl/e86Vy9",
+				"expanded_url" : "https://goo.gl/e86Vy9",
+				"indices" : [ 34, 57 ],
+				"url" : "https://t.co/toJ1jrYJ5N"
+			}
+		],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 652315111319666700,
+	"id_str" : "652315111319666689",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ja",
+	"place" : null,
+	"possibly_sensitive" : false,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"https://twitter.com/2nomatome?lang=ja\" rel=\"nofollow\">2ch Matome Bot</a>",
+	"text" : "【速報】村上春樹 ノーベル賞 落選ｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ→https://t.co/toJ1jrYJ5N 年間2万5千円 デュエル裁定診断 ガメラ 年間25000円 三連休",
+	"timestamp_ms" : "1444359016624",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Thu Oct 01 13:44:43 +0000 2015",
+		"default_profile" : true,
+		"default_profile_image" : false,
+		"description" : null,
+		"favourites_count" : 0,
+		"follow_request_sent" : null,
+		"followers_count" : 2,
+		"following" : null,
+		"friends_count" : 0,
+		"geo_enabled" : false,
+		"id" : 3748455085,
+		"id_str" : "3748455085",
+		"is_translator" : false,
+		"lang" : "ja",
+		"listed_count" : 0,
+		"location" : null,
+		"name" : "2chmatome",
+		"notifications" : null,
+		"profile_background_color" : "C0DEED",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile" : false,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/3748455085/1443708801",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/649584833849503745/u1CxNa1a_normal.jpg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/649584833849503745/u1CxNa1a_normal.jpg",
+		"profile_link_color" : "0084B4",
+		"profile_sidebar_border_color" : "C0DEED",
+		"profile_sidebar_fill_color" : "DDEEF6",
+		"profile_text_color" : "333333",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "2nomatome",
+		"statuses_count" : 10646,
+		"time_zone" : null,
+		"url" : null,
+		"utc_offset" : null,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 46.8953 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Fri Oct 09 02:50:54 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : [],
+		"symbols" : [],
+		"urls" : [],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 652315268954239000,
+	"id_str" : "652315268954238977",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ja",
+	"place" : null,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+	"text" : "Test\n三連休",
+	"timestamp_ms" : "1444359054207",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Wed Jan 08 10:50:33 +0000 2014",
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"description" : "Android・openFrameworks Dev / Tokyo Tech Computer Science / Chuo Univ. Suginami HS 48th・Rowing Club / Fukuoka / maufes2015",
+		"favourites_count" : 5663,
+		"follow_request_sent" : null,
+		"followers_count" : 408,
+		"following" : null,
+		"friends_count" : 405,
+		"geo_enabled" : true,
+		"id" : 2281967772,
+		"id_str" : "2281967772",
+		"is_translator" : false,
+		"lang" : "ja",
+		"listed_count" : 6,
+		"location" : "神奈川県 川崎市 宮前区",
+		"name" : "ながぬま@むさびがんばる",
+		"notifications" : null,
+		"profile_background_color" : "FFFFFF",
+		"profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/560344145512779776/XHPKXEQs.jpeg",
+		"profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/560344145512779776/XHPKXEQs.jpeg",
+		"profile_background_tile" : true,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/2281967772/1422431534",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/578162345865711616/POZLnOwN_normal.jpeg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/578162345865711616/POZLnOwN_normal.jpeg",
+		"profile_link_color" : "AAAAAA",
+		"profile_sidebar_border_color" : "000000",
+		"profile_sidebar_fill_color" : "DDEEF6",
+		"profile_text_color" : "333333",
+		"profile_use_background_image" : false,
+		"protected" : false,
+		"screen_name" : "hiroki_11x",
+		"statuses_count" : 2484,
+		"time_zone" : "Asia/Tokyo",
+		"url" : null,
+		"utc_offset" : 32400,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 54.8147 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Fri Oct 09 02:51:02 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : [],
+		"symbols" : [],
+		"urls" : 
+		[
+			
+			{
+				"display_url" : "goo.gl/ZLx5RJ",
+				"expanded_url" : "http://goo.gl/ZLx5RJ",
+				"indices" : [ 74, 96 ],
+				"url" : "http://t.co/32hiR7mx9x"
+			}
+		],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 652315302378631200,
+	"id_str" : "652315302378631172",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ja",
+	"place" : null,
+	"possibly_sensitive" : false,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://twittbot.net/\" rel=\"nofollow\">The English Japan</a>",
+	"text" : "現在のトレンド\nオタク\n年間25000円\n年間10万\nガメラ\n年間2万5千円\n三連休\nデュエル裁定診断\n死者3人\nアニメ分野\nリア充ヲタク\nまとめ→http://t.co/32hiR7mx9x",
+	"timestamp_ms" : "1444359062176",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Fri Jun 19 11:20:20 +0000 2015",
+		"default_profile" : true,
+		"default_profile_image" : false,
+		"description" : "Nanryu☞ RyuNan3ｰ1 ♥Like☞ Daisy  _ 吹 奏 楽 ♬\n▶▶友 だ ち 大 事.•*¨*•.",
+		"favourites_count" : 616,
+		"follow_request_sent" : null,
+		"followers_count" : 124,
+		"following" : null,
+		"friends_count" : 181,
+		"geo_enabled" : false,
+		"id" : 3249715748,
+		"id_str" : "3249715748",
+		"is_translator" : false,
+		"lang" : "ja",
+		"listed_count" : 0,
+		"location" : null,
+		"name" : "み さ き",
+		"notifications" : null,
+		"profile_background_color" : "C0DEED",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile" : false,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/3249715748/1441511808",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/641941609962057728/e4D1ckwb_normal.jpg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/641941609962057728/e4D1ckwb_normal.jpg",
+		"profile_link_color" : "0084B4",
+		"profile_sidebar_border_color" : "C0DEED",
+		"profile_sidebar_fill_color" : "DDEEF6",
+		"profile_text_color" : "333333",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "Daisy_0122",
+		"statuses_count" : 298,
+		"time_zone" : null,
+		"url" : null,
+		"utc_offset" : null,
+		"verified" : false
+	}
+}
+

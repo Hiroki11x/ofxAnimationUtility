@@ -1,0 +1,95 @@
+
+
+--------------------------------------- 2015-10-09-11-48-12-944
+[notice ] ElapsedTime: 3.33668 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Fri Oct 09 02:47:50 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 61, 68 ],
+				"text" : "ノンストップ"
+			},
+			
+			{
+				"indices" : [ 69, 77 ],
+				"text" : "OneDish"
+			},
+			
+			{
+				"indices" : [ 78, 83 ],
+				"text" : "坂本昌行"
+			}
+		],
+		"symbols" : [],
+		"urls" : [],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 652314497080647700,
+	"id_str" : "652314497080647680",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ja",
+	"place" : null,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+	"text" : "ノンストップがトレンド入りしてる!って思ったら今日金曜日じゃん。One Dishじゃん。見たかった…今日なに作ったんだろ\n#ノンストップ\n#OneDish\n#坂本昌行",
+	"timestamp_ms" : "1444358870178",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Tue Jul 28 23:35:13 +0000 2015",
+		"default_profile" : true,
+		"default_profile_image" : false,
+		"description" : "お薦めの本があれば教えて下さい。\n／小説家希望。／有川浩／向山貴彦／百田尚樹／山田宗樹／ケミカルボリュームさん",
+		"favourites_count" : 58,
+		"follow_request_sent" : null,
+		"followers_count" : 26,
+		"following" : null,
+		"friends_count" : 21,
+		"geo_enabled" : false,
+		"id" : 3300000547,
+		"id_str" : "3300000547",
+		"is_translator" : false,
+		"lang" : "ja",
+		"listed_count" : 0,
+		"location" : "朝陽と夕陽の狭間",
+		"name" : "向山准一",
+		"notifications" : null,
+		"profile_background_color" : "C0DEED",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile" : false,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/3300000547/1443841880",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/645937931224379392/EAwfbNnj_normal.jpg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/645937931224379392/EAwfbNnj_normal.jpg",
+		"profile_link_color" : "0084B4",
+		"profile_sidebar_border_color" : "C0DEED",
+		"profile_sidebar_fill_color" : "DDEEF6",
+		"profile_text_color" : "333333",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "poison_peach_",
+		"statuses_count" : 267,
+		"time_zone" : null,
+		"url" : null,
+		"utc_offset" : null,
+		"verified" : false
+	}
+}
+

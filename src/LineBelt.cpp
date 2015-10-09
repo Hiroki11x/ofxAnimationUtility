@@ -47,22 +47,40 @@ void LineBelt::setup_belt(int num){
 }
 
 void LineBelt::update_belt(){
+    
+    JsonReceiver::recieve();
+    
     for(int i = 0;i<line_num;i++){
         float addition_x = ofRandom(-100,100);
         if(!(position.at(i)+addition_x >ofGetWidth()) && !(position.at(i)+addition_x <0)){
-            if(mode==false){
+            if(mode==false){//元はこれ
                 position.at(i)+=addition_x;
             }else{
-                addition_x = ofRandom(-30,30);
-                position.at(i)= position.at(i%20)+addition_x;
+                addition_x = ofRandom(-0.1,0.1);
+                position.at(i)+=addition_x;
+//                position.at(i)= position.at(i%20)+addition_x;
             }
         }
     }
 }
 
+void LineBelt::mouseMoved(int x, int y){
+    this->mouse_x = x;
+}
+
 void LineBelt::draw_belt(){
     for(int i = 0;i<line_num;i++){
         ofSetColor(color.at(i));
-        ofLine(position.at(i), pos_center_y-line_length/2, position.at(i), pos_center_y+line_length/2);
+        if(this->mouse_x == (int)position.at(i)){//mouseXとおなじX座標の線があれば
+            ofRect(position.at(i)-5, pos_center_y-line_length, 10, line_length*2);
+            ofDrawBitmapString("pos index: "+ofToString(i),position.at(i)-10,pos_center_y-line_length-10);
+        }else{
+            ofLine(position.at(i), pos_center_y-line_length/2, position.at(i), pos_center_y+line_length/2);
+        }
+    }
+    
+    ofSetColor(255);
+    for(int i = 0; i < JsonReceiver::usersInfo.size(); i++){
+        JsonReceiver::usersInfo.at(i).icon.draw(position.at(i)-50, pos_center_y-line_length, 20, 20);
     }
 }

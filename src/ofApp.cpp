@@ -27,7 +27,7 @@ void ofApp::setup(){
     pathmanager.setup_path(100);
     
     //4
-    linebelt.setup_belt(1000);
+    linebelt.setup_belt(200);
 
     //5
     circularannimationmanager.set_animation_num(200);
@@ -196,6 +196,7 @@ void ofApp::keyReleased(int key){
 
 //--------------------------------------------------------------
 void ofApp::mouseMoved(int x, int y ){
+    linebelt.mouseMoved(x, y);
 }
 
 //--------------------------------------------------------------
@@ -210,12 +211,11 @@ void ofApp::mousePressed(int x, int y, int button){
             delaunay.generate(x,y);
             break;
         case 6:
+            //こういう呼び出しをしてあげれば良い
             explodeanimations.clear();
-            for(int i =0;i<4;i++){
-                explodeanimations.push_back(ExplodeAnimation());
-                explodeanimations.back().set_position(ofVec2f(ofRandom(ofGetWidth()),ofRandom(ofGetHeight())));
-                explodeanimations.back().init();
-            }
+            explodeanimations.push_back(ExplodeAnimation());
+            explodeanimations.back().set_position(ofVec2f(x,y));
+            explodeanimations.back().init();
             break;
         case 8:
             rectswiper.init();

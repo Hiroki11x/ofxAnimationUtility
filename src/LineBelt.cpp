@@ -39,6 +39,9 @@ void LineBelt::set_line_length(float line_length){
 
 
 void LineBelt::setup_belt(int num){
+    
+    font.loadFont("Yu Gothic Medium.otf", 8);
+    
     set_line_num(num);
     set_line_length(200);
     set_center_y(ofGetHeight()/2);
@@ -56,8 +59,8 @@ void LineBelt::update_belt(){
             if(mode==false){//元はこれ
                 position.at(i)+=addition_x;
             }else{
-                addition_x = ofRandom(-0.1,0.1);
-                position.at(i)+=addition_x;
+//                addition_x = ofRandom(-0.1,0.1);
+//                position.at(i)+=addition_x;
 //                position.at(i)= position.at(i%20)+addition_x;
             }
         }
@@ -79,8 +82,23 @@ void LineBelt::draw_belt(){
         }
     }
     
+    /*
+     string text;//つぶやいた内容(これだけ["user"]内ではない)
+     string userName;
+     string userId;//screen_name @アカウント名
+     int friends_count;//フォローしてるアカウント数
+     int statuses_count;//つぶやいてる数
+     int followers_count;
+     */
+    
     ofSetColor(255);
     for(int i = 0; i < JsonReceiver::usersInfo.size(); i++){
-        JsonReceiver::usersInfo.at(i).icon.draw(position.at(i)-50, pos_center_y-line_length, 20, 20);
+        JsonReceiver::usersInfo.at(i).icon.draw(position.at(i), pos_center_y-line_length, 20, 20);
+        font.drawString(ofToString(JsonReceiver::usersInfo.at(i).followers_count),position.at(i), pos_center_y-line_length-10);
+        font.drawString(ofToString(JsonReceiver::usersInfo.at(i).statuses_count),position.at(i), pos_center_y-line_length-20);
+        font.drawString(ofToString(JsonReceiver::usersInfo.at(i).friends_count),position.at(i), pos_center_y-line_length-30);
+        font.drawString(JsonReceiver::usersInfo.at(i).userId,position.at(i), pos_center_y-line_length-40);
+        font.drawString(JsonReceiver::usersInfo.at(i).userName,position.at(i), pos_center_y-line_length-50);
+        font.drawString(JsonReceiver::usersInfo.at(i).text,position.at(i), pos_center_y-line_length-60);
     }
 }

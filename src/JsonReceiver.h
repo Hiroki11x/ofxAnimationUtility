@@ -15,9 +15,19 @@
 
 class JsonReceiver {
     
+    /**
+     *jsonElement["user"]["name"].asCString()
+     *であればuser{}内のnameタグ？についての取得
+     */
+    
 public:
     struct UserInfo{//Usernameと画像情報を持つ構造体
+        string text;//つぶやいた内容(これだけ["user"]内ではない)
         string userName;
+        string userId;//screen_name @アカウント名
+        int friends_count;//フォローしてるアカウント数
+        int statuses_count;//つぶやいてる数
+        int followers_count;
         ofImage icon;
     };
     
@@ -49,7 +59,14 @@ public:
         ofImage img;
         img.loadImage(jsonElement["user"]["profile_image_url"].asCString());
         if(img.getWidth() == 0){return;}
-        usersInfo.push_back((UserInfo){jsonElement["user"]["name"].asCString(),img});
+        usersInfo.push_back((UserInfo){
+            jsonElement["text"].asCString(),
+            jsonElement["user"]["name"].asCString(),
+            jsonElement["user"]["screen_name"].asCString(),
+            jsonElement["user"]["friends_count"].asInt(),
+            jsonElement["user"]["statuses_count"].asInt(),
+            jsonElement["user"]["followers_count"].asInt(),
+            img});
         return ofToString(jsonElement);
     };
     static bool checkUpdateJson(){

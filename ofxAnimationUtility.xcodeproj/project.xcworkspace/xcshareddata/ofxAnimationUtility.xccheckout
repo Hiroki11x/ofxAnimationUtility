@@ -16,6 +16,8 @@
 		<string>https://github.com/jefftimesten/ofxJSON.git</string>
 		<key>6B5D1DE462D521A98972DF70F1147E20268C546A</key>
 		<string>https://github.com/arturoc/ofxTween.git</string>
+		<key>6E85F585BA7940AD33F8E74F0EE05D55511194B6</key>
+		<string>https://github.com/hironishihara/ofxTrueTypeFontUC.git</string>
 		<key>A8D3CFED5208BD26E280BC9FB210A0D16501DA4D</key>
 		<string>github.com:Hiroki11x/openFrameworks_AnimationUtility.git</string>
 		<key>B090D3E72F2C83A91517EC3C9E4CDCB5FAFED065</key>
@@ -31,6 +33,8 @@
 		<string>../../../addons/ofxJSON</string>
 		<key>6B5D1DE462D521A98972DF70F1147E20268C546A</key>
 		<string>../../../addons/ofxTween</string>
+		<key>6E85F585BA7940AD33F8E74F0EE05D55511194B6</key>
+		<string>../../../../../addons/ofxTrueTypeFontUC</string>
 		<key>A8D3CFED5208BD26E280BC9FB210A0D16501DA4D</key>
 		<string>../..</string>
 		<key>B090D3E72F2C83A91517EC3C9E4CDCB5FAFED065</key>
@@ -75,6 +79,14 @@
 			<string>B090D3E72F2C83A91517EC3C9E4CDCB5FAFED065</string>
 			<key>IDESourceControlWCCName</key>
 			<string>ofxSuperLog</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6E85F585BA7940AD33F8E74F0EE05D55511194B6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxTrueTypeFontUC</string>
 		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>

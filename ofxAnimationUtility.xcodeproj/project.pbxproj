@@ -51,6 +51,8 @@
 		4EA457B21BA9C0D100AA8557 /* TrianglePoints.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4EA457B01BA9C0D100AA8557 /* TrianglePoints.cpp */; };
 		4EA457B51BA9C0F800AA8557 /* LinePoints.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4EA457B31BA9C0F800AA8557 /* LinePoints.cpp */; };
 		4EBB29A71BC3C1EF0062B974 /* RectCircular.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4EBB29A61BC3C1EF0062B974 /* RectCircular.cpp */; };
+		4EE77D4A1BC775050070C805 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 4EE77D441BC775050070C805 /* README.md */; };
+		4EE77D4B1BC775050070C805 /* ofxTrueTypeFontUC.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4EE77D461BC775050070C805 /* ofxTrueTypeFontUC.cpp */; };
 		4EFA93A01BB43E300049B580 /* LineBelt.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4EFA939E1BB43E300049B580 /* LineBelt.cpp */; };
 		4EFA93A31BB6C4500049B580 /* CircularAnimation.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4EFA93A11BB6C4500049B580 /* CircularAnimation.cpp */; };
 		4EFA93A61BB6DF590049B580 /* CircularAnimationManager.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4EFA93A41BB6DF590049B580 /* CircularAnimationManager.cpp */; };
@@ -240,6 +242,12 @@
 		4EA457B31BA9C0F800AA8557 /* LinePoints.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = LinePoints.cpp; sourceTree = "<group>"; };
 		4EA457B41BA9C0F800AA8557 /* LinePoints.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LinePoints.h; sourceTree = "<group>"; };
 		4EBB29A61BC3C1EF0062B974 /* RectCircular.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = RectCircular.cpp; sourceTree = "<group>"; };
+		4EE77D411BC775050070C805 /* install.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = install.xml; sourceTree = "<group>"; };
+		4EE77D421BC775050070C805 /* License.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = License.txt; sourceTree = "<group>"; };
+		4EE77D431BC775050070C805 /* ofxaddons_thumbnail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ofxaddons_thumbnail.png; sourceTree = "<group>"; };
+		4EE77D441BC775050070C805 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		4EE77D461BC775050070C805 /* ofxTrueTypeFontUC.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ofxTrueTypeFontUC.cpp; sourceTree = "<group>"; };
+		4EE77D471BC775050070C805 /* ofxTrueTypeFontUC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ofxTrueTypeFontUC.h; sourceTree = "<group>"; };
 		4EFA939E1BB43E300049B580 /* LineBelt.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = LineBelt.cpp; sourceTree = "<group>"; };
 		4EFA939F1BB43E300049B580 /* LineBelt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LineBelt.h; sourceTree = "<group>"; };
 		4EFA93A11BB6C4500049B580 /* CircularAnimation.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CircularAnimation.cpp; sourceTree = "<group>"; };
@@ -758,9 +766,32 @@
 			name = JsonScene;
 			sourceTree = "<group>";
 		};
+		4EE77D3B1BC775050070C805 /* ofxTrueTypeFontUC */ = {
+			isa = PBXGroup;
+			children = (
+				4EE77D411BC775050070C805 /* install.xml */,
+				4EE77D421BC775050070C805 /* License.txt */,
+				4EE77D431BC775050070C805 /* ofxaddons_thumbnail.png */,
+				4EE77D441BC775050070C805 /* README.md */,
+				4EE77D451BC775050070C805 /* src */,
+			);
+			name = ofxTrueTypeFontUC;
+			path = ../../../addons/ofxTrueTypeFontUC;
+			sourceTree = "<group>";
+		};
+		4EE77D451BC775050070C805 /* src */ = {
+			isa = PBXGroup;
+			children = (
+				4EE77D461BC775050070C805 /* ofxTrueTypeFontUC.cpp */,
+				4EE77D471BC775050070C805 /* ofxTrueTypeFontUC.h */,
+			);
+			path = src;
+			sourceTree = "<group>";
+		};
 		BB4B014C10F69532006C3DED /* addons */ = {
 			isa = PBXGroup;
 			children = (
+				4EE77D3B1BC775050070C805 /* ofxTrueTypeFontUC */,
 				4E7633881BC2D2E5002F2530 /* ofxJSON */,
 				4E7632A81BC24C1A002F2530 /* ofxPostGlitch */,
 				4E7632621BC20590002F2530 /* ofxSuperLog */,
@@ -953,6 +984,7 @@
 				4E5ED66C1BC0D85A004F1AF6 /* SwipeMode.cpp in Sources */,
 				4E7632901BC20591002F2530 /* ofxSuperLogDisplay.cpp in Sources */,
 				E4B69E200A3A1BDC003C02F2 /* main.cpp in Sources */,
+				4EE77D4A1BC775050070C805 /* README.md in Sources */,
 				4E7633831BC2C1C7002F2530 /* TriangleElement.cpp in Sources */,
 				4E12E4ED1BBF8C71001D9BA2 /* ofxTweenUtil.cpp in Sources */,
 				4EA457AF1BA9BA4B00AA8557 /* DelaunayUtil.cpp in Sources */,
@@ -984,6 +1016,7 @@
 				4E0B50EA1BB2E603008D839D /* PathManager.cpp in Sources */,
 				4E76330E1BC24C6A002F2530 /* PostGlitch.cpp in Sources */,
 				4E76328E1BC20591002F2530 /* README.md in Sources */,
+				4EE77D4B1BC775050070C805 /* ofxTrueTypeFontUC.cpp in Sources */,
 				4E76328F1BC20591002F2530 /* ofxSuperLog.cpp in Sources */,
 				4E5ED6671BC0D41D004F1AF6 /* StrechyRectSwiper.cpp in Sources */,
 				4E7633E21BC2D2E5002F2530 /* ofxJSONElement.cpp in Sources */,

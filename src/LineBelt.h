@@ -11,9 +11,12 @@
 
 #include "JsonReceiver.h"
 #include "ofMain.h"
+#include "ofxTrueTypeFontUC.h"
 
 class LineBelt{
 private:
+    ofxTrueTypeFontUC font;
+    
     vector<float> position;
     vector<ofColor> color;
     float pos_center_y;

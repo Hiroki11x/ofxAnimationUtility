@@ -53,6 +53,14 @@ void LineBelt::update_belt(){
     
     JsonReceiver::recieve();
     
+    if(JsonReceiver::usersInfo.size()>position.size()){
+        for(int i = 0;i<JsonReceiver::usersInfo.size()-position.size();i++){
+            color.push_back(ofColor::fromHsb(ofRandom(255), 190, 190));
+            position.push_back(ofRandom(ofGetWidth()));
+        }
+        
+    }
+    
     for(int i = 0;i<line_num;i++){
         float addition_x = ofRandom(-100,100);
         if(!(position.at(i)+addition_x >ofGetWidth()) && !(position.at(i)+addition_x <0)){

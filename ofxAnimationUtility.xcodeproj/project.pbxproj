@@ -50,6 +50,8 @@
 		4EA457AF1BA9BA4B00AA8557 /* DelaunayUtil.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4EA457AD1BA9BA4B00AA8557 /* DelaunayUtil.cpp */; };
 		4EA457B21BA9C0D100AA8557 /* TrianglePoints.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4EA457B01BA9C0D100AA8557 /* TrianglePoints.cpp */; };
 		4EA457B51BA9C0F800AA8557 /* LinePoints.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4EA457B31BA9C0F800AA8557 /* LinePoints.cpp */; };
+		4EB966631BCA07C700007F95 /* TerminalScene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4EB966611BCA07C700007F95 /* TerminalScene.cpp */; };
+		4EB966671BCA096300007F95 /* StringElement.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4EB966651BCA096300007F95 /* StringElement.cpp */; };
 		4EBB29A71BC3C1EF0062B974 /* RectCircular.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4EBB29A61BC3C1EF0062B974 /* RectCircular.cpp */; };
 		4EE77D4A1BC775050070C805 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 4EE77D441BC775050070C805 /* README.md */; };
 		4EE77D4B1BC775050070C805 /* ofxTrueTypeFontUC.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4EE77D461BC775050070C805 /* ofxTrueTypeFontUC.cpp */; };
@@ -241,6 +243,10 @@
 		4EA457B11BA9C0D100AA8557 /* TrianglePoints.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TrianglePoints.h; sourceTree = "<group>"; };
 		4EA457B31BA9C0F800AA8557 /* LinePoints.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = LinePoints.cpp; sourceTree = "<group>"; };
 		4EA457B41BA9C0F800AA8557 /* LinePoints.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LinePoints.h; sourceTree = "<group>"; };
+		4EB966611BCA07C700007F95 /* TerminalScene.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = TerminalScene.cpp; sourceTree = "<group>"; };
+		4EB966621BCA07C700007F95 /* TerminalScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TerminalScene.h; sourceTree = "<group>"; };
+		4EB966651BCA096300007F95 /* StringElement.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = StringElement.cpp; sourceTree = "<group>"; };
+		4EB966661BCA096300007F95 /* StringElement.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StringElement.h; sourceTree = "<group>"; };
 		4EBB29A61BC3C1EF0062B974 /* RectCircular.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = RectCircular.cpp; sourceTree = "<group>"; };
 		4EE77D411BC775050070C805 /* install.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = install.xml; sourceTree = "<group>"; };
 		4EE77D421BC775050070C805 /* License.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = License.txt; sourceTree = "<group>"; };
@@ -756,14 +762,33 @@
 			path = src;
 			sourceTree = "<group>";
 		};
-		4E7633EF1BC2D3E5002F2530 /* JsonScene */ = {
+		4E7633EF1BC2D3E5002F2530 /* Json */ = {
 			isa = PBXGroup;
 			children = (
 				4E7633841BC2CF76002F2530 /* JsonReceiver */,
 				4E7633F01BC2D401002F2530 /* JsonScene.cpp */,
 				4E7633F11BC2D401002F2530 /* JsonScene.h */,
 			);
-			name = JsonScene;
+			name = Json;
+			sourceTree = "<group>";
+		};
+		4EB966601BCA07A500007F95 /* TerminalScene */ = {
+			isa = PBXGroup;
+			children = (
+				4EB966641BCA093B00007F95 /* StringElement */,
+				4EB966611BCA07C700007F95 /* TerminalScene.cpp */,
+				4EB966621BCA07C700007F95 /* TerminalScene.h */,
+			);
+			name = TerminalScene;
+			sourceTree = "<group>";
+		};
+		4EB966641BCA093B00007F95 /* StringElement */ = {
+			isa = PBXGroup;
+			children = (
+				4EB966651BCA096300007F95 /* StringElement.cpp */,
+				4EB966661BCA096300007F95 /* StringElement.h */,
+			);
+			name = StringElement;
 			sourceTree = "<group>";
 		};
 		4EE77D3B1BC775050070C805 /* ofxTrueTypeFontUC */ = {
@@ -862,7 +887,8 @@
 		E4B69E1C0A3A1BDC003C02F2 /* src */ = {
 			isa = PBXGroup;
 			children = (
-				4E7633EF1BC2D3E5002F2530 /* JsonScene */,
+				4EB966601BCA07A500007F95 /* TerminalScene */,
+				4E7633EF1BC2D3E5002F2530 /* Json */,
 				4E76330B1BC24C50002F2530 /* PostGlitch */,
 				4E76329E1BC22299002F2530 /* GraphLog */,
 				4E7632611BC20579002F2530 /* SuperLog */,
@@ -977,6 +1003,7 @@
 				4E7633E01BC2D2E5002F2530 /* jsoncpp.cpp in Sources */,
 				4E7632961BC205CF002F2530 /* ofxSuperLogUtil.cpp in Sources */,
 				4E7632591BC15AA1002F2530 /* AlphaSwiper.cpp in Sources */,
+				4EB966631BCA07C700007F95 /* TerminalScene.cpp in Sources */,
 				4E7633071BC24C1A002F2530 /* ofxPostGlitch.cpp in Sources */,
 				4EA457AC1BA9B38100AA8557 /* FadeBackgroundUtil.cpp in Sources */,
 				4E12E4D41BBF8A5E001D9BA2 /* ofxEasingCubic.cpp in Sources */,
@@ -1020,6 +1047,7 @@
 				4E76328F1BC20591002F2530 /* ofxSuperLog.cpp in Sources */,
 				4E5ED6671BC0D41D004F1AF6 /* StrechyRectSwiper.cpp in Sources */,
 				4E7633E21BC2D2E5002F2530 /* ofxJSONElement.cpp in Sources */,
+				4EB966671BCA096300007F95 /* StringElement.cpp in Sources */,
 				4E12E4761BBECF20001D9BA2 /* FadeMotionGraphics.cpp in Sources */,
 				4E12E4D11BBF8A5E001D9BA2 /* ofxEasingBack.cpp in Sources */,
 				4E12E4D81BBF8A5E001D9BA2 /* ofxEasingQuad.cpp in Sources */,

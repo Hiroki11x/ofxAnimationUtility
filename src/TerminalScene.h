@@ -6,6 +6,8 @@
 //
 //
 
+//  Not Used
+
 #ifndef __ofxAnimationUtility__TerminalScene__
 #define __ofxAnimationUtility__TerminalScene__
 

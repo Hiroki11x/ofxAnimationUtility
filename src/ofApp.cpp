@@ -16,6 +16,7 @@ void ofApp::setup(){
     //0
     alphaswiper.init();
     
+    
     //1
     animation.set_fade_duration(2000);
     
@@ -88,7 +89,8 @@ void ofApp::update(){
     switch (mode) {
         case 0:
             //0
-            alphaswiper.draw();
+//            alphaswiper.draw();
+            shiseido.draw();
             ofDrawBitmapString("[0]AlphaSwiper", 20,20);
             break;
             

@@ -16,6 +16,7 @@
 #include "GraphLog.h"
 #include "PostGlitch.h"
 #include "JsonScene.h"
+#include "ShiseidoLifeClock.h"
 
 #include "ExplodeAnimation.h"
 
@@ -44,6 +45,7 @@ class ofApp : public ofBaseApp{
     
     //0
     AlphaSwiper alphaswiper;
+    ShiseidoLifeClock shiseido;
   
     //1
     FadeBackgroundUtil animation;

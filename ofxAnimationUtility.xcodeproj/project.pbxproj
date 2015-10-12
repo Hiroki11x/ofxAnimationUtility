@@ -50,6 +50,7 @@
 		4EA457AF1BA9BA4B00AA8557 /* DelaunayUtil.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4EA457AD1BA9BA4B00AA8557 /* DelaunayUtil.cpp */; };
 		4EA457B21BA9C0D100AA8557 /* TrianglePoints.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4EA457B01BA9C0D100AA8557 /* TrianglePoints.cpp */; };
 		4EA457B51BA9C0F800AA8557 /* LinePoints.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4EA457B31BA9C0F800AA8557 /* LinePoints.cpp */; };
+		4EACBCBC1BCBCCC100D0AAC7 /* ShiseidoLifeClock.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4EACBCBA1BCBCCC100D0AAC7 /* ShiseidoLifeClock.cpp */; };
 		4EB966631BCA07C700007F95 /* TerminalScene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4EB966611BCA07C700007F95 /* TerminalScene.cpp */; };
 		4EB966671BCA096300007F95 /* StringElement.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4EB966651BCA096300007F95 /* StringElement.cpp */; };
 		4EBB29A71BC3C1EF0062B974 /* RectCircular.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4EBB29A61BC3C1EF0062B974 /* RectCircular.cpp */; };
@@ -243,6 +244,8 @@
 		4EA457B11BA9C0D100AA8557 /* TrianglePoints.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TrianglePoints.h; sourceTree = "<group>"; };
 		4EA457B31BA9C0F800AA8557 /* LinePoints.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = LinePoints.cpp; sourceTree = "<group>"; };
 		4EA457B41BA9C0F800AA8557 /* LinePoints.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LinePoints.h; sourceTree = "<group>"; };
+		4EACBCBA1BCBCCC100D0AAC7 /* ShiseidoLifeClock.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ShiseidoLifeClock.cpp; sourceTree = "<group>"; };
+		4EACBCBB1BCBCCC100D0AAC7 /* ShiseidoLifeClock.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ShiseidoLifeClock.h; sourceTree = "<group>"; };
 		4EB966611BCA07C700007F95 /* TerminalScene.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = TerminalScene.cpp; sourceTree = "<group>"; };
 		4EB966621BCA07C700007F95 /* TerminalScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TerminalScene.h; sourceTree = "<group>"; };
 		4EB966651BCA096300007F95 /* StringElement.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = StringElement.cpp; sourceTree = "<group>"; };
@@ -772,6 +775,15 @@
 			name = Json;
 			sourceTree = "<group>";
 		};
+		4EACBCBD1BCBCCD800D0AAC7 /* ShiseidoLifeClock */ = {
+			isa = PBXGroup;
+			children = (
+				4EACBCBA1BCBCCC100D0AAC7 /* ShiseidoLifeClock.cpp */,
+				4EACBCBB1BCBCCC100D0AAC7 /* ShiseidoLifeClock.h */,
+			);
+			name = ShiseidoLifeClock;
+			sourceTree = "<group>";
+		};
 		4EB966601BCA07A500007F95 /* TerminalScene */ = {
 			isa = PBXGroup;
 			children = (
@@ -887,6 +899,7 @@
 		E4B69E1C0A3A1BDC003C02F2 /* src */ = {
 			isa = PBXGroup;
 			children = (
+				4EACBCBD1BCBCCD800D0AAC7 /* ShiseidoLifeClock */,
 				4EB966601BCA07A500007F95 /* TerminalScene */,
 				4E7633EF1BC2D3E5002F2530 /* Json */,
 				4E76330B1BC24C50002F2530 /* PostGlitch */,
@@ -1003,6 +1016,7 @@
 				4E7633E01BC2D2E5002F2530 /* jsoncpp.cpp in Sources */,
 				4E7632961BC205CF002F2530 /* ofxSuperLogUtil.cpp in Sources */,
 				4E7632591BC15AA1002F2530 /* AlphaSwiper.cpp in Sources */,
+				4EACBCBC1BCBCCC100D0AAC7 /* ShiseidoLifeClock.cpp in Sources */,
 				4EB966631BCA07C700007F95 /* TerminalScene.cpp in Sources */,
 				4E7633071BC24C1A002F2530 /* ofxPostGlitch.cpp in Sources */,
 				4EA457AC1BA9B38100AA8557 /* FadeBackgroundUtil.cpp in Sources */,

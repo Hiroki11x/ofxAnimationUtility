@@ -6,6 +6,8 @@
 //
 //
 
+//  Not Used
+
 #ifndef __ofxAnimationUtility__StringElement__
 #define __ofxAnimationUtility__StringElement__
 

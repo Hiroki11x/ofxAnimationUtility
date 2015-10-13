@@ -8,13 +8,22 @@
 
 #ifndef __ofxAnimationUtility__ShiseidoLifeClock__
 #define __ofxAnimationUtility__ShiseidoLifeClock__
+
 #include "ofMain.h"
 
 class ShiseidoLifeClock{
 public:
     void draw();
+    void init();
+    void update();
 private:
     ofPath path;
+    int mode = 0;
+    vector<ofVec2f> vec;
+    
+    void draw_default_circle();
+    
+    void draw_bezier_map();
 };
 
 #endif /* defined(__ofxAnimationUtility__ShiseidoLifeClock__) */

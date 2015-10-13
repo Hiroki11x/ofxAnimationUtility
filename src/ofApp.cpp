@@ -14,6 +14,7 @@ void ofApp::setup(){
     graphLog.set_height_limit(ofGetHeight()/2);
     
     //0
+    shiseido.init();
     alphaswiper.init();
     
     

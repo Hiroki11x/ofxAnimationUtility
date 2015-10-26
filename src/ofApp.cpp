@@ -6,7 +6,7 @@ void ofApp::setup(){
     ofBackground(0);
     ofSetFrameRate(60);
     mode=0;
-    logutil.init();
+//    logutil.init();
     mFbo.allocate(ofGetWidth(), ofGetHeight());
     postglitch.init(&mFbo);
     
@@ -159,6 +159,8 @@ void ofApp::update(){
 //--------------------------------------------------------------
 void ofApp::draw(){
     postglitch.draw_glitch();
+    ofSetColor(255);
+    ofDrawBitmapString("frame rate"+ofToString(ofGetFrameRate()), 100,100);
 }
 
 

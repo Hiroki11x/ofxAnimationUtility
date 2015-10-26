@@ -1,0 +1,7 @@
+
+
+--------------------------------------- 2015-10-15-15-59-12-157
+[ error ] ofxTrueTypeFontUC::loadFont - INVALID FILENAME: : FT_Error = 1
+[ error ] ofxJSONElement::openLocal: Unable to parse ../../../MAU_twit/twitter.json: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+

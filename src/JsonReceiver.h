@@ -20,6 +20,8 @@ class JsonReceiver {
      *であればuser{}内のnameタグ？についての取得
      */
     
+
+    
 public:
     struct UserInfo{//Usernameと画像情報を持つ構造体
         string text;//つぶやいた内容(これだけ["user"]内ではない)
@@ -30,6 +32,8 @@ public:
         int followers_count;
         ofImage icon;
     };
+    
+
     
     static string cachedTweetId;
     
@@ -43,13 +47,14 @@ public:
         
         bool parsingSuccessful = jsonElement.openLocal("../../../MAU_twit/twitter.json");//Nodeで取得したJSON
 
-        parsingSuccessful =false; // Node動かさないときはこのコメントを外す
+//        parsingSuccessful =false; // Node動かさないときはこのコメントを外す
         
         static ofxSuperLogUtil log;
         
         if (parsingSuccessful){
             if(checkUpdateJson()){//新規キャッシュの際はパース
                 log.set_log(parseJson());
+                log.set_log("parse end");
             }
         }else{
             cout << "Failed to parse JSON" << endl;

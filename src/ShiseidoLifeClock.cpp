@@ -15,7 +15,7 @@ void ShiseidoLifeClock::init(){
                              cos(ofSignedNoise(ofGetFrameNum()/1000.0,i,i)*2*PI),
                              sin(ofSignedNoise(ofGetFrameNum()/1000.0,i,i)*2*PI)
                              );
-        vec.back() *= 2 00;
+        vec.back() *= 200;
     }
 }
 

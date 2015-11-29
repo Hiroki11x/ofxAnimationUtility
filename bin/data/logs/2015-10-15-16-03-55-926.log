@@ -1,0 +1,2249 @@
+
+
+--------------------------------------- 2015-10-15-16-03-55-927
+[ error ] ofxTrueTypeFontUC::loadFont - INVALID FILENAME: : FT_Error = 1
+[notice ] ElapsedTime: 1.40879 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Thu Oct 15 07:03:54 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 0, 11 ],
+				"text" : "NowPlaying"
+			}
+		],
+		"symbols" : [],
+		"urls" : 
+		[
+			
+			{
+				"display_url" : "asiadreamradio.com",
+				"expanded_url" : "http://www.asiadreamradio.com",
+				"indices" : [ 45, 67 ],
+				"url" : "http://t.co/s3IstTTfQE"
+			}
+		],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 654553268522086400,
+	"id_str" : "654553268522086400",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "en",
+	"place" : null,
+	"possibly_sensitive" : false,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://www.live365.com/stations/malcolmasia\" rel=\"nofollow\">J-Pop Now Playing</a>",
+	"text" : "#NowPlaying Song Riders - Trauma :: Tune In: http://t.co/s3IstTTfQE",
+	"timestamp_ms" : "1444892634884",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Fri Feb 20 10:11:45 +0000 2015",
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"description" : "Online JPop radio station broadcasting on iTunes, Live365 & Radionomy. アジアドリームラジオ は名古屋のラジオのストリーミング局です。\nhttp://goo.gl/Gz9u9w & http://goo.gl/C4Vjoz",
+		"favourites_count" : 1,
+		"follow_request_sent" : null,
+		"followers_count" : 43,
+		"following" : null,
+		"friends_count" : 11,
+		"geo_enabled" : false,
+		"id" : 3032577950,
+		"id_str" : "3032577950",
+		"is_translator" : false,
+		"lang" : "en",
+		"listed_count" : 13,
+		"location" : "Nagoya, Japan. 名古屋市 日本",
+		"name" : "asia DREAM playlists",
+		"notifications" : null,
+		"profile_background_color" : "9266CC",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile" : false,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/3032577950/1424427467",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/638071946295549952/YURn9QPn_normal.png",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/638071946295549952/YURn9QPn_normal.png",
+		"profile_link_color" : "DD2E44",
+		"profile_sidebar_border_color" : "000000",
+		"profile_sidebar_fill_color" : "000000",
+		"profile_text_color" : "000000",
+		"profile_use_background_image" : false,
+		"protected" : false,
+		"screen_name" : "asiaDREAMplay",
+		"statuses_count" : 87876,
+		"time_zone" : null,
+		"url" : "http://asiadreamradio.com",
+		"utc_offset" : null,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 1.40922 / parse end
+[notice ] ElapsedTime: 1.54511 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Thu Oct 15 07:03:56 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 0, 11 ],
+				"text" : "NowPlaying"
+			}
+		],
+		"symbols" : [],
+		"urls" : [],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 654553274822037500,
+	"id_str" : "654553274822037504",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "en",
+	"place" : null,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://www.shapesocial.net\" rel=\"nofollow\">Shape Social</a>",
+	"text" : "#NowPlaying Good Kisser by Usher on 93.1 WZAK!",
+	"timestamp_ms" : "1444892636386",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Wed Aug 14 03:08:04 +0000 2013",
+		"default_profile" : true,
+		"default_profile_image" : false,
+		"description" : null,
+		"favourites_count" : 0,
+		"follow_request_sent" : null,
+		"followers_count" : 236,
+		"following" : null,
+		"friends_count" : 0,
+		"geo_enabled" : false,
+		"id" : 1669325022,
+		"id_str" : "1669325022",
+		"is_translator" : false,
+		"lang" : "en",
+		"listed_count" : 20,
+		"location" : null,
+		"name" : "93.1 WZAK On Air",
+		"notifications" : null,
+		"profile_background_color" : "C0DEED",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile" : false,
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/378800000292576440/1555fecbdea6617f5948ef6efa8a4baf_normal.jpeg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/378800000292576440/1555fecbdea6617f5948ef6efa8a4baf_normal.jpeg",
+		"profile_link_color" : "0084B4",
+		"profile_sidebar_border_color" : "C0DEED",
+		"profile_sidebar_fill_color" : "DDEEF6",
+		"profile_text_color" : "333333",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "931WZAKOnAir",
+		"statuses_count" : 122896,
+		"time_zone" : null,
+		"url" : "http://wzakcleveland.com/",
+		"utc_offset" : null,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 1.54613 / parse end
+[notice ] ElapsedTime: 1.79292 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Thu Oct 15 07:03:56 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 0, 11 ],
+				"text" : "NowPlaying"
+			},
+			
+			{
+				"indices" : [ 105, 111 ],
+				"text" : "Radio"
+			}
+		],
+		"symbols" : [],
+		"urls" : 
+		[
+			
+			{
+				"display_url" : "noesfm.com",
+				"expanded_url" : "http://noesfm.com",
+				"indices" : [ 82, 104 ],
+				"url" : "http://t.co/zYWO5W7wpp"
+			}
+		],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 654553276420104200,
+	"id_str" : "654553276420104192",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "es",
+	"place" : null,
+	"possibly_sensitive" : false,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://www.botize.com\" rel=\"nofollow\">Botize</a>",
+	"text" : "#NowPlaying La maquina de hacer pajaros - Por probar el vino y el agua salada por http://t.co/zYWO5W7wpp #Radio",
+	"timestamp_ms" : "1444892636767",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Thu Apr 11 00:33:58 +0000 2013",
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"description" : "Viviendo el segundo aire con plenitud. Divorciada: Nueva soltera, aprendiendo de tecnología y de la gente  jóven. Renovarse o morir.",
+		"favourites_count" : 735,
+		"follow_request_sent" : null,
+		"followers_count" : 1514,
+		"following" : null,
+		"friends_count" : 1198,
+		"geo_enabled" : false,
+		"id" : 1343184980,
+		"id_str" : "1343184980",
+		"is_translator" : false,
+		"lang" : "es",
+		"listed_count" : 24,
+		"location" : "Edo Mex",
+		"name" : "Patricia Rodríguez",
+		"notifications" : null,
+		"profile_background_color" : "0099B9",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme4/bg.gif",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme4/bg.gif",
+		"profile_background_tile" : false,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/1343184980/1383252726",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/378800000231088941/9335a0fa494d6a053224a73c6299d921_normal.jpeg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/378800000231088941/9335a0fa494d6a053224a73c6299d921_normal.jpeg",
+		"profile_link_color" : "2D454A",
+		"profile_sidebar_border_color" : "FFFFFF",
+		"profile_sidebar_fill_color" : "DDEEF6",
+		"profile_text_color" : "333333",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "PatriciaRdgzSua",
+		"statuses_count" : 17944,
+		"time_zone" : "Eastern Time (US & Canada)",
+		"url" : null,
+		"utc_offset" : -14400,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 1.79385 / parse end
+[notice ] ElapsedTime: 1.9206 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Thu Oct 15 07:03:57 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 0, 11 ],
+				"text" : "NowPlaying"
+			}
+		],
+		"symbols" : [],
+		"urls" : 
+		[
+			
+			{
+				"display_url" : "tidal.com/track/35425907",
+				"expanded_url" : "http://tidal.com/track/35425907",
+				"indices" : [ 42, 64 ],
+				"url" : "http://t.co/MSGrx6APj3"
+			}
+		],
+		"user_mentions" : 
+		[
+			
+			{
+				"id" : 2679055230,
+				"id_str" : "2679055230",
+				"indices" : [ 31, 41 ],
+				"name" : "TIDAL",
+				"screen_name" : "TIDALHiFi"
+			}
+		]
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 654553278030716900,
+	"id_str" : "654553278030716928",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "en",
+	"place" : null,
+	"possibly_sensitive" : false,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+	"text" : "#NowPlaying \"Pray\" by JAY Z in @TIDALHiFi http://t.co/MSGrx6APj3",
+	"timestamp_ms" : "1444892637151",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Sun Jun 12 19:59:58 +0000 2011",
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"description" : "Jamaican-American Filmmaker, Photographer & Consultant Inquiries: antoniolumley@gmail.com",
+		"favourites_count" : 9033,
+		"follow_request_sent" : null,
+		"followers_count" : 1197,
+		"following" : null,
+		"friends_count" : 2002,
+		"geo_enabled" : false,
+		"id" : 316006002,
+		"id_str" : "316006002",
+		"is_translator" : false,
+		"lang" : "en",
+		"listed_count" : 112,
+		"location" : "NEW YORK CITY",
+		"name" : "HOMAGE MEDIA GROUP",
+		"notifications" : null,
+		"profile_background_color" : "1A0000",
+		"profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/888471997/c2b12da1366c2bd8a2973b85fa17a54b.png",
+		"profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/888471997/c2b12da1366c2bd8a2973b85fa17a54b.png",
+		"profile_background_tile" : true,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/316006002/1404487342",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/592764333953789952/As5tvGjc_normal.jpg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/592764333953789952/As5tvGjc_normal.jpg",
+		"profile_link_color" : "DD2E44",
+		"profile_sidebar_border_color" : "000000",
+		"profile_sidebar_fill_color" : "050505",
+		"profile_text_color" : "4A464A",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "TonyBillz",
+		"statuses_count" : 64990,
+		"time_zone" : "Eastern Time (US & Canada)",
+		"url" : "http://homagemediagroup.com/",
+		"utc_offset" : -14400,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 1.92153 / parse end
+[notice ] ElapsedTime: 3.19997 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Thu Oct 15 07:03:58 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 72, 83 ],
+				"text" : "nowplaying"
+			},
+			
+			{
+				"indices" : [ 84, 95 ],
+				"text" : "listenlive"
+			}
+		],
+		"symbols" : [],
+		"urls" : 
+		[
+			
+			{
+				"display_url" : "rdo.to/KHLP",
+				"expanded_url" : "http://rdo.to/KHLP",
+				"indices" : [ 49, 71 ],
+				"url" : "http://t.co/ChnIs9CHjT"
+			}
+		],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 654553282053062700,
+	"id_str" : "654553282053062656",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "en",
+	"place" : null,
+	"possibly_sensitive" : false,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://www.securenetsystems.net\" rel=\"nofollow\">Securenet Systems Radio Playlist Update</a>",
+	"text" : "Hank Williams, Jr. - Whiskey Bent And Hell Bound http://t.co/ChnIs9CHjT #nowplaying #listenlive",
+	"timestamp_ms" : "1444892638110",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Sat Jul 27 11:08:50 +0000 2013",
+		"default_profile" : true,
+		"default_profile_image" : false,
+		"description" : null,
+		"favourites_count" : 0,
+		"follow_request_sent" : null,
+		"followers_count" : 5,
+		"following" : null,
+		"friends_count" : 26,
+		"geo_enabled" : false,
+		"id" : 1625234498,
+		"id_str" : "1625234498",
+		"is_translator" : false,
+		"lang" : "en",
+		"listed_count" : 0,
+		"location" : null,
+		"name" : "SHANE WEISKIRCHER",
+		"notifications" : null,
+		"profile_background_color" : "C0DEED",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile" : false,
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/614182507479588864/ZuypMcJP_normal.jpg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/614182507479588864/ZuypMcJP_normal.jpg",
+		"profile_link_color" : "0084B4",
+		"profile_sidebar_border_color" : "C0DEED",
+		"profile_sidebar_fill_color" : "DDEEF6",
+		"profile_text_color" : "333333",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "SHANEWEISKIRCHE",
+		"statuses_count" : 15223,
+		"time_zone" : null,
+		"url" : null,
+		"utc_offset" : null,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 3.20026 / parse end
+[notice ] ElapsedTime: 3.35237 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Thu Oct 15 07:03:58 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 0, 11 ],
+				"text" : "NowPlaying"
+			},
+			
+			{
+				"indices" : [ 34, 41 ],
+				"text" : "Riddim"
+			},
+			
+			{
+				"indices" : [ 83, 93 ],
+				"text" : "DanceHall"
+			},
+			
+			{
+				"indices" : [ 94, 100 ],
+				"text" : "Radio"
+			},
+			
+			{
+				"indices" : [ 101, 106 ],
+				"text" : "Live"
+			},
+			
+			{
+				"indices" : [ 107, 113 ],
+				"text" : "Music"
+			},
+			
+			{
+				"indices" : [ 114, 121 ],
+				"text" : "Riddim"
+			}
+		],
+		"symbols" : [],
+		"urls" : 
+		[
+			
+			{
+				"display_url" : "RiddimSociety.Com",
+				"expanded_url" : "http://RiddimSociety.Com",
+				"indices" : [ 60, 82 ],
+				"url" : "http://t.co/zBLXmbyPYF"
+			}
+		],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 654553283458109400,
+	"id_str" : "654553283458109440",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "en",
+	"place" : null,
+	"possibly_sensitive" : false,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://RiddimSociety.com\" rel=\"nofollow\">Riddim Society Radio Link</a>",
+	"text" : "#NowPlaying Riddim Society Drop - #Riddim Society Listen on http://t.co/zBLXmbyPYF #DanceHall #Radio #Live #Music #Riddim",
+	"timestamp_ms" : "1444892638445",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Wed Sep 02 00:21:27 +0000 2015",
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"description" : "The Voice Of Dancehall\nSend Promos to Promo@RiddimSociety.com",
+		"favourites_count" : 19,
+		"follow_request_sent" : null,
+		"followers_count" : 48675,
+		"following" : null,
+		"friends_count" : 233,
+		"geo_enabled" : true,
+		"id" : 3517727175,
+		"id_str" : "3517727175",
+		"is_translator" : false,
+		"lang" : "en",
+		"listed_count" : 10,
+		"location" : "New York, NY",
+		"name" : "Riddim Society Radio",
+		"notifications" : null,
+		"profile_background_color" : "000000",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile" : false,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/3517727175/1441483989",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/638870613877202944/8BLARlBt_normal.png",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/638870613877202944/8BLARlBt_normal.png",
+		"profile_link_color" : "06BF0F",
+		"profile_sidebar_border_color" : "000000",
+		"profile_sidebar_fill_color" : "000000",
+		"profile_text_color" : "000000",
+		"profile_use_background_image" : false,
+		"protected" : false,
+		"screen_name" : "RiddimSociety",
+		"statuses_count" : 2291,
+		"time_zone" : "Pacific Time (US & Canada)",
+		"url" : "http://RiddimSociety.com",
+		"utc_offset" : -25200,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 3.35348 / parse end
+[notice ] ElapsedTime: 3.47063 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Thu Oct 15 07:03:58 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 0, 11 ],
+				"text" : "NowPlaying"
+			},
+			
+			{
+				"indices" : [ 29, 43 ],
+				"text" : "WhitneyPeyton"
+			}
+		],
+		"symbols" : [],
+		"urls" : 
+		[
+			
+			{
+				"display_url" : "genzel.ca/player/player.…",
+				"expanded_url" : "http://www.genzel.ca/player/player.html",
+				"indices" : [ 61, 83 ],
+				"url" : "http://t.co/Um21z4W8Uo"
+			}
+		],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 654553283172921300,
+	"id_str" : "654553283172921344",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "en",
+	"place" : null,
+	"possibly_sensitive" : false,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://www.genzel.ca\" rel=\"nofollow\">GenZelTweeter v1.1</a>",
+	"text" : "#NowPlaying on Genzel Radio: #WhitneyPeyton - Woopty Woo Woo http://t.co/Um21z4W8Uo",
+	"timestamp_ms" : "1444892638377",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Sun Apr 08 03:11:36 +0000 2012",
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"description" : "Generation Zel! Radio is Brantford's only #top40 #edm station. Come Listen! http://www.genzel.ca/  #house #electro #dubstep #HipHop #trap #GenzelFamily",
+		"favourites_count" : 11,
+		"follow_request_sent" : null,
+		"followers_count" : 25683,
+		"following" : null,
+		"friends_count" : 21048,
+		"geo_enabled" : false,
+		"id" : 548096098,
+		"id_str" : "548096098",
+		"is_translator" : false,
+		"lang" : "en",
+		"listed_count" : 262,
+		"location" : "Brantford ✈ Toronto ",
+		"name" : "Genzel Radio",
+		"notifications" : null,
+		"profile_background_color" : "C0DEED",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile" : false,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/548096098/1428856299",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/3514929425/4c8a774ea42aadb28de87e87fa4dad1d_normal.jpeg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/3514929425/4c8a774ea42aadb28de87e87fa4dad1d_normal.jpeg",
+		"profile_link_color" : "5C00B3",
+		"profile_sidebar_border_color" : "C0DEED",
+		"profile_sidebar_fill_color" : "DDEEF6",
+		"profile_text_color" : "333333",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "GenzelRadio",
+		"statuses_count" : 226545,
+		"time_zone" : null,
+		"url" : "http://www.genzel.ca",
+		"utc_offset" : null,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 3.47166 / parse end
+[notice ] ElapsedTime: 3.75824 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Thu Oct 15 07:03:58 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 0, 11 ],
+				"text" : "NowPlaying"
+			}
+		],
+		"symbols" : [],
+		"urls" : 
+		[
+			
+			{
+				"display_url" : "spoti.fi/1EaNiSJ",
+				"expanded_url" : "http://spoti.fi/1EaNiSJ",
+				"indices" : [ 12, 34 ],
+				"url" : "http://t.co/OTbelY8RfM"
+			}
+		],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 654553284804485100,
+	"id_str" : "654553284804485121",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "und",
+	"place" : null,
+	"possibly_sensitive" : false,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://spotify.com\" rel=\"nofollow\">Spotify</a>",
+	"text" : "#NowPlaying http://t.co/OTbelY8RfM",
+	"timestamp_ms" : "1444892638766",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Sat Sep 25 06:14:32 +0000 2010",
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"description" : "fotografía, photography, الصور الفوتوغرافية, Photographie, Fotoğrafçılık, การถ่ายภาพ, Fotografering, Fotogrāfija, #qtpydr #vf #viaurbana",
+		"favourites_count" : 213,
+		"follow_request_sent" : null,
+		"followers_count" : 571,
+		"following" : null,
+		"friends_count" : 922,
+		"geo_enabled" : false,
+		"id" : 194880412,
+		"id_str" : "194880412",
+		"is_translator" : false,
+		"lang" : "es",
+		"listed_count" : 6,
+		"location" : "ÜT: 19.4283686,-99.2281556",
+		"name" : "Cecilia Hgo",
+		"notifications" : null,
+		"profile_background_color" : "131516",
+		"profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/476399648848900096/mEAi2Wkt.jpeg",
+		"profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/476399648848900096/mEAi2Wkt.jpeg",
+		"profile_background_tile" : true,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/194880412/1349025435",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/654135134040420352/BEkm6ZZ7_normal.jpg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/654135134040420352/BEkm6ZZ7_normal.jpg",
+		"profile_link_color" : "009999",
+		"profile_sidebar_border_color" : "FFFFFF",
+		"profile_sidebar_fill_color" : "EFEFEF",
+		"profile_text_color" : "333333",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "Bolinmx",
+		"statuses_count" : 6235,
+		"time_zone" : "Mexico City",
+		"url" : "http://bolatrips.tumblr.com/",
+		"utc_offset" : -18000,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 3.75912 / parse end
+[notice ] ElapsedTime: 3.89062 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Thu Oct 15 07:03:58 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 46, 57 ],
+				"text" : "nowplaying"
+			},
+			
+			{
+				"indices" : [ 85, 91 ],
+				"text" : "onair"
+			}
+		],
+		"symbols" : [],
+		"urls" : [],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 654553285131673600,
+	"id_str" : "654553285131673600",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "en",
+	"place" : null,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://share.radionomy.com\" rel=\"nofollow\">Share.Radionomy.com</a>",
+	"text" : "Nat King Cole Trio -  Ol' Man Mose Ain't Dead #nowplaying on Halloweenradio Oldies   #onair",
+	"timestamp_ms" : "1444892638844",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Wed Apr 15 16:38:12 +0000 2015",
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"description" : null,
+		"favourites_count" : 0,
+		"follow_request_sent" : null,
+		"followers_count" : 6,
+		"following" : null,
+		"friends_count" : 0,
+		"geo_enabled" : false,
+		"id" : 3170602378,
+		"id_str" : "3170602378",
+		"is_translator" : false,
+		"lang" : "en",
+		"listed_count" : 3,
+		"location" : null,
+		"name" : "Halloween Playlist",
+		"notifications" : null,
+		"profile_background_color" : "081628",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile" : false,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/3170602378/1429116191",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/588381202970578944/OxN8oxLe_normal.png",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/588381202970578944/OxN8oxLe_normal.png",
+		"profile_link_color" : "F58220",
+		"profile_sidebar_border_color" : "C0DEED",
+		"profile_sidebar_fill_color" : "DDEEF6",
+		"profile_text_color" : "333333",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "HalloweenList",
+		"statuses_count" : 88000,
+		"time_zone" : "Belgrade",
+		"url" : "http://www.halloweenradio.net",
+		"utc_offset" : 7200,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 3.89142 / parse end
+[notice ] ElapsedTime: 4.60821 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Thu Oct 15 07:03:59 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 73, 84 ],
+				"text" : "nowplaying"
+			}
+		],
+		"symbols" : [],
+		"urls" : 
+		[
+			
+			{
+				"display_url" : "SomaFM.com/xmasinfrisko",
+				"expanded_url" : "http://SomaFM.com/xmasinfrisko",
+				"indices" : [ 50, 72 ],
+				"url" : "http://t.co/UryBdyQXMk"
+			}
+		],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 654553289036464100,
+	"id_str" : "654553289036464129",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "en",
+	"place" : null,
+	"possibly_sensitive" : false,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://somafm.com\" rel=\"nofollow\">BigUrl</a>",
+	"text" : "♬ Kip Addotta - I Saw Daddy Kissing Santa Claus ♬ http://t.co/UryBdyQXMk #nowplaying",
+	"timestamp_ms" : "1444892639775",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Thu Nov 15 02:31:34 +0000 2007",
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"description" : "SomaFM's annual eclectic, irreverent holiday broadcast. May not be suitable for all ages!",
+		"favourites_count" : 0,
+		"follow_request_sent" : null,
+		"followers_count" : 641,
+		"following" : null,
+		"friends_count" : 20,
+		"geo_enabled" : false,
+		"id" : 10266982,
+		"id_str" : "10266982",
+		"is_translator" : false,
+		"lang" : "en",
+		"listed_count" : 23,
+		"location" : "San Francisco",
+		"name" : "xmasinfrisko",
+		"notifications" : null,
+		"profile_background_color" : "FF0000",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile" : false,
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/36696722/sfxmas_normal.jpg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/36696722/sfxmas_normal.jpg",
+		"profile_link_color" : "FF0000",
+		"profile_sidebar_border_color" : "FF0000",
+		"profile_sidebar_fill_color" : "00FF00",
+		"profile_text_color" : "000000",
+		"profile_use_background_image" : false,
+		"protected" : false,
+		"screen_name" : "xmasinfrisko",
+		"statuses_count" : 260210,
+		"time_zone" : "Alaska",
+		"url" : "http://somafm.com/play/xmasinfrisko",
+		"utc_offset" : -28800,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 4.60921 / parse end
+[notice ] ElapsedTime: 5.02313 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Thu Oct 15 07:04:00 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 53, 64 ],
+				"text" : "nowplaying"
+			},
+			
+			{
+				"indices" : [ 65, 76 ],
+				"text" : "listenlive"
+			}
+		],
+		"symbols" : [],
+		"urls" : 
+		[
+			
+			{
+				"display_url" : "rdo.to/KSSL",
+				"expanded_url" : "http://rdo.to/KSSL",
+				"indices" : [ 30, 52 ],
+				"url" : "http://t.co/Tc51I0yIqM"
+			}
+		],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 654553291066638300,
+	"id_str" : "654553291066638336",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "en",
+	"place" : null,
+	"possibly_sensitive" : false,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://www.securenetsystems.net\" rel=\"nofollow\">Securenet Systems Radio Playlist Update</a>",
+	"text" : "John Denver - Back Home Again http://t.co/Tc51I0yIqM #nowplaying #listenlive",
+	"timestamp_ms" : "1444892640259",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Thu Apr 17 21:33:11 +0000 2014",
+		"default_profile" : true,
+		"default_profile_image" : true,
+		"description" : null,
+		"favourites_count" : 0,
+		"follow_request_sent" : null,
+		"followers_count" : 2,
+		"following" : null,
+		"friends_count" : 0,
+		"geo_enabled" : false,
+		"id" : 2450460709,
+		"id_str" : "2450460709",
+		"is_translator" : false,
+		"lang" : "en",
+		"listed_count" : 0,
+		"location" : null,
+		"name" : "KSSL PRODUCTION",
+		"notifications" : null,
+		"profile_background_color" : "C0DEED",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile" : false,
+		"profile_image_url" : "http://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png",
+		"profile_image_url_https" : "https://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png",
+		"profile_link_color" : "0084B4",
+		"profile_sidebar_border_color" : "C0DEED",
+		"profile_sidebar_fill_color" : "DDEEF6",
+		"profile_text_color" : "333333",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "ksslmorningirl",
+		"statuses_count" : 39006,
+		"time_zone" : null,
+		"url" : null,
+		"utc_offset" : null,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 5.02405 / parse end
+[notice ] ElapsedTime: 5.1765 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Thu Oct 15 07:04:00 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 49, 60 ],
+				"text" : "nowplaying"
+			},
+			
+			{
+				"indices" : [ 61, 72 ],
+				"text" : "listenlive"
+			}
+		],
+		"symbols" : [],
+		"urls" : 
+		[
+			
+			{
+				"display_url" : "rdo.to/ALL80S",
+				"expanded_url" : "http://rdo.to/ALL80S",
+				"indices" : [ 26, 48 ],
+				"url" : "http://t.co/WhC4ygcVal"
+			}
+		],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 654553290802376700,
+	"id_str" : "654553290802376704",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "en",
+	"place" : null,
+	"possibly_sensitive" : false,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://www.securenetsystems.net\" rel=\"nofollow\">Securenet Systems Radio Playlist Update</a>",
+	"text" : "Vapors - Turning Japanese http://t.co/WhC4ygcVal #nowplaying #listenlive",
+	"timestamp_ms" : "1444892640196",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Fri Oct 30 18:38:19 +0000 2009",
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"description" : "Were playing all your favorite artists from the 80's.  Its All 80s Man!",
+		"favourites_count" : 4,
+		"follow_request_sent" : null,
+		"followers_count" : 1682,
+		"following" : null,
+		"friends_count" : 225,
+		"geo_enabled" : false,
+		"id" : 86370863,
+		"id_str" : "86370863",
+		"is_translator" : false,
+		"lang" : "en",
+		"listed_count" : 59,
+		"location" : "USA",
+		"name" : "All 80's Man!",
+		"notifications" : null,
+		"profile_background_color" : "FFFFFF",
+		"profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/554330603/404378_10151132073665545_194925790544_22048631_164569952_n_1__1_.jpg",
+		"profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/554330603/404378_10151132073665545_194925790544_22048631_164569952_n_1__1_.jpg",
+		"profile_background_tile" : false,
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/2153613919/404378_10151132073665545_194925790544_22048631_164569952_n_1__normal.jpg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/2153613919/404378_10151132073665545_194925790544_22048631_164569952_n_1__normal.jpg",
+		"profile_link_color" : "FA07C5",
+		"profile_sidebar_border_color" : "000000",
+		"profile_sidebar_fill_color" : "F5DCDC",
+		"profile_text_color" : "FAB005",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "All80sMan",
+		"statuses_count" : 389321,
+		"time_zone" : "Eastern Time (US & Canada)",
+		"url" : "http://www.All80s.com",
+		"utc_offset" : -14400,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 5.17694 / parse end
+[notice ] ElapsedTime: 6.12324 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Thu Oct 15 07:04:01 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 0, 11 ],
+				"text" : "nowplaying"
+			}
+		],
+		"symbols" : [],
+		"urls" : 
+		[
+			
+			{
+				"display_url" : "omroephw.nl/stream.php",
+				"expanded_url" : "http://www.omroephw.nl/stream.php",
+				"indices" : [ 34, 56 ],
+				"url" : "http://t.co/UEBjAM0EJp"
+			}
+		],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 654553295638413300,
+	"id_str" : "654553295638413312",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "en",
+	"place" : null,
+	"possibly_sensitive" : false,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://www.rtvsoftware.nl\" rel=\"nofollow\">Stream NowPlaying</a>",
+	"text" : "#nowplaying : Kygo - Here For You http://t.co/UEBjAM0EJp",
+	"timestamp_ms" : "1444892641349",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Mon Mar 29 19:18:25 +0000 2010",
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"description" : "RTV Hoeksche Waard. \r\nOntvangen via Internet, kabel in Hoeksche Waard op 105.9 Mhz FM en via de ether op 96.0 Mhz FM.",
+		"favourites_count" : 0,
+		"follow_request_sent" : null,
+		"followers_count" : 600,
+		"following" : null,
+		"friends_count" : 0,
+		"geo_enabled" : true,
+		"id" : 127617571,
+		"id_str" : "127617571",
+		"is_translator" : false,
+		"lang" : "en",
+		"listed_count" : 34,
+		"location" : "Puttershoek",
+		"name" : "RTV HW - Info",
+		"notifications" : null,
+		"profile_background_color" : "01B6AD",
+		"profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/87830311/TwitterTemplate-Groen.jpg",
+		"profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/87830311/TwitterTemplate-Groen.jpg",
+		"profile_background_tile" : false,
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/790319496/RHWgroen_normal.png",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/790319496/RHWgroen_normal.png",
+		"profile_link_color" : "4F4F4F",
+		"profile_sidebar_border_color" : "FFFFFF",
+		"profile_sidebar_fill_color" : "01B6AD",
+		"profile_text_color" : "000000",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "omroephwinfo",
+		"statuses_count" : 466289,
+		"time_zone" : "Amsterdam",
+		"url" : "http://www.omroephw.nl",
+		"utc_offset" : 7200,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 6.12431 / parse end
+[notice ] ElapsedTime: 6.25064 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Thu Oct 15 07:04:01 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 25, 36 ],
+				"text" : "nowplaying"
+			}
+		],
+		"symbols" : [],
+		"urls" : [],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 654553296003207200,
+	"id_str" : "654553296003207168",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "en",
+	"place" : null,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://twitter.com/whatsonkroq\" rel=\"nofollow\">whatsonkroq2</a>",
+	"text" : "Fall Out Boy - Centuries #nowplaying",
+	"timestamp_ms" : "1444892641436",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Mon Aug 24 21:11:20 +0000 2009",
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"description" : "What's on KROQ, now! Created by @TomekWasiak",
+		"favourites_count" : 0,
+		"follow_request_sent" : null,
+		"followers_count" : 4366,
+		"following" : null,
+		"friends_count" : 5,
+		"geo_enabled" : false,
+		"id" : 68509918,
+		"id_str" : "68509918",
+		"is_translator" : false,
+		"lang" : "en",
+		"listed_count" : 112,
+		"location" : null,
+		"name" : "whatsonkroq",
+		"notifications" : null,
+		"profile_background_color" : "1A1B1F",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme9/bg.gif",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme9/bg.gif",
+		"profile_background_tile" : false,
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/835264026/kroq1_normal.png",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/835264026/kroq1_normal.png",
+		"profile_link_color" : "EB0F1A",
+		"profile_sidebar_border_color" : "E0E0E0",
+		"profile_sidebar_fill_color" : "FFFFFF",
+		"profile_text_color" : "666666",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "whatsonkroq",
+		"statuses_count" : 560184,
+		"time_zone" : "Pacific Time (US & Canada)",
+		"url" : "http://player.radio.com/listen/station/kroq",
+		"utc_offset" : -25200,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 6.25164 / parse end
+[notice ] ElapsedTime: 6.40279 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Thu Oct 15 07:04:01 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 22, 33 ],
+				"text" : "nowplaying"
+			},
+			
+			{
+				"indices" : [ 34, 40 ],
+				"text" : "987fm"
+			}
+		],
+		"symbols" : [],
+		"urls" : [],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 654553297336975400,
+	"id_str" : "654553297336975360",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "es",
+	"place" : null,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://www.imyun.net\" rel=\"nofollow\">SG Radio Now Playing Tweet</a>",
+	"text" : "Diplo - Doctor Pepper #nowplaying #987fm",
+	"timestamp_ms" : "1444892641754",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Tue Jul 14 08:15:31 +0000 2015",
+		"default_profile" : true,
+		"default_profile_image" : true,
+		"description" : "What's currently playing on 987FM? @987fm #nowplaying #987fm",
+		"favourites_count" : 0,
+		"follow_request_sent" : null,
+		"followers_count" : 47,
+		"following" : null,
+		"friends_count" : 3,
+		"geo_enabled" : false,
+		"id" : 3279416179,
+		"id_str" : "3279416179",
+		"is_translator" : false,
+		"lang" : "en",
+		"listed_count" : 3,
+		"location" : null,
+		"name" : "987FM Live",
+		"notifications" : null,
+		"profile_background_color" : "C0DEED",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile" : false,
+		"profile_image_url" : "http://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png",
+		"profile_image_url_https" : "https://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png",
+		"profile_link_color" : "0084B4",
+		"profile_sidebar_border_color" : "C0DEED",
+		"profile_sidebar_fill_color" : "DDEEF6",
+		"profile_text_color" : "333333",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "987fmlive",
+		"statuses_count" : 28124,
+		"time_zone" : null,
+		"url" : null,
+		"utc_offset" : null,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 6.4038 / parse end
+[notice ] ElapsedTime: 6.669 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Thu Oct 15 07:04:01 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 0, 11 ],
+				"text" : "NowPlaying"
+			}
+		],
+		"symbols" : [],
+		"urls" : 
+		[
+			
+			{
+				"display_url" : "bit.ly/amrctry",
+				"expanded_url" : "http://bit.ly/amrctry",
+				"indices" : [ 92, 114 ],
+				"url" : "http://t.co/n7KnRh20yC"
+			}
+		],
+		"user_mentions" : 
+		[
+			
+			{
+				"id" : 16241063,
+				"id_str" : "16241063",
+				"indices" : [ 15, 31 ],
+				"name" : "America's Country",
+				"screen_name" : "AmericasCountry"
+			}
+		]
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 654553298096234500,
+	"id_str" : "654553298096234496",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "en",
+	"place" : null,
+	"possibly_sensitive" : false,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://americascountry.us\" rel=\"nofollow\">whatsonAmCtry</a>",
+	"text" : "#NowPlaying on @AmericasCountry: Lee Brice - That Don't Sound Like You (Mix) -- Listen Now: http://t.co/n7KnRh20yC",
+	"timestamp_ms" : "1444892641935",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Mon May 12 22:13:53 +0000 2014",
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"description" : "What's Playing Now On America's Country!",
+		"favourites_count" : 6,
+		"follow_request_sent" : null,
+		"followers_count" : 281,
+		"following" : null,
+		"friends_count" : 2,
+		"geo_enabled" : false,
+		"id" : 2492042233,
+		"id_str" : "2492042233",
+		"is_translator" : false,
+		"lang" : "en",
+		"listed_count" : 22,
+		"location" : "Utah, USA",
+		"name" : "America's Country",
+		"notifications" : null,
+		"profile_background_color" : "000000",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme10/bg.gif",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme10/bg.gif",
+		"profile_background_tile" : false,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/2492042233/1440598869",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/636535790051291136/3GRhvt7w_normal.png",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/636535790051291136/3GRhvt7w_normal.png",
+		"profile_link_color" : "000000",
+		"profile_sidebar_border_color" : "000000",
+		"profile_sidebar_fill_color" : "000000",
+		"profile_text_color" : "000000",
+		"profile_use_background_image" : false,
+		"protected" : false,
+		"screen_name" : "WhatsOnAmrCtry",
+		"statuses_count" : 201948,
+		"time_zone" : null,
+		"url" : "http://americascountry.us",
+		"utc_offset" : null,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 6.67015 / parse end
+[notice ] ElapsedTime: 7.11857 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Thu Oct 15 07:04:02 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 102, 113 ],
+				"text" : "nowplaying"
+			}
+		],
+		"media" : 
+		[
+			
+			{
+				"display_url" : "pic.twitter.com/44G6L4OYKJ",
+				"expanded_url" : "http://twitter.com/stariysj051702/status/654551575545819136/photo/1",
+				"id" : 654551566653911000,
+				"id_str" : "654551566653911040",
+				"indices" : [ 125, 140 ],
+				"media_url" : "http://pbs.twimg.com/media/CRVvLpGU8AAiPPa.jpg",
+				"media_url_https" : "https://pbs.twimg.com/media/CRVvLpGU8AAiPPa.jpg",
+				"sizes" : 
+				{
+					"large" : 
+					{
+						"h" : 595,
+						"resize" : "fit",
+						"w" : 960
+					},
+					"medium" : 
+					{
+						"h" : 371,
+						"resize" : "fit",
+						"w" : 600
+					},
+					"small" : 
+					{
+						"h" : 210,
+						"resize" : "fit",
+						"w" : 340
+					},
+					"thumb" : 
+					{
+						"h" : 150,
+						"resize" : "crop",
+						"w" : 150
+					}
+				},
+				"source_status_id" : 654551575545819100,
+				"source_status_id_str" : "654551575545819136",
+				"source_user_id" : 3281798022,
+				"source_user_id_str" : "3281798022",
+				"type" : "photo",
+				"url" : "http://t.co/44G6L4OYKJ"
+			}
+		],
+		"symbols" : [],
+		"urls" : [],
+		"user_mentions" : 
+		[
+			
+			{
+				"id" : 3281798022,
+				"id_str" : "3281798022",
+				"indices" : [ 3, 18 ],
+				"name" : "HAMTO☆",
+				"screen_name" : "stariysj051702"
+			}
+		]
+	},
+	"extended_entities" : 
+	{
+		"media" : 
+		[
+			
+			{
+				"display_url" : "pic.twitter.com/44G6L4OYKJ",
+				"expanded_url" : "http://twitter.com/stariysj051702/status/654551575545819136/photo/1",
+				"id" : 654551566653911000,
+				"id_str" : "654551566653911040",
+				"indices" : [ 125, 140 ],
+				"media_url" : "http://pbs.twimg.com/media/CRVvLpGU8AAiPPa.jpg",
+				"media_url_https" : "https://pbs.twimg.com/media/CRVvLpGU8AAiPPa.jpg",
+				"sizes" : 
+				{
+					"large" : 
+					{
+						"h" : 595,
+						"resize" : "fit",
+						"w" : 960
+					},
+					"medium" : 
+					{
+						"h" : 371,
+						"resize" : "fit",
+						"w" : 600
+					},
+					"small" : 
+					{
+						"h" : 210,
+						"resize" : "fit",
+						"w" : 340
+					},
+					"thumb" : 
+					{
+						"h" : 150,
+						"resize" : "crop",
+						"w" : 150
+					}
+				},
+				"source_status_id" : 654551575545819100,
+				"source_status_id_str" : "654551575545819136",
+				"source_user_id" : 3281798022,
+				"source_user_id_str" : "3281798022",
+				"type" : "photo",
+				"url" : "http://t.co/44G6L4OYKJ"
+			}
+		]
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 654553298377175000,
+	"id_str" : "654553298377175040",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "ko",
+	"place" : null,
+	"possibly_sensitive" : false,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"retweeted_status" : 
+	{
+		"contributors" : null,
+		"coordinates" : null,
+		"created_at" : "Thu Oct 15 06:57:11 +0000 2015",
+		"entities" : 
+		{
+			"hashtags" : 
+			[
+				
+				{
+					"indices" : [ 82, 93 ],
+					"text" : "nowplaying"
+				}
+			],
+			"media" : 
+			[
+				
+				{
+					"display_url" : "pic.twitter.com/44G6L4OYKJ",
+					"expanded_url" : "http://twitter.com/stariysj051702/status/654551575545819136/photo/1",
+					"id" : 654551566653911000,
+					"id_str" : "654551566653911040",
+					"indices" : [ 105, 127 ],
+					"media_url" : "http://pbs.twimg.com/media/CRVvLpGU8AAiPPa.jpg",
+					"media_url_https" : "https://pbs.twimg.com/media/CRVvLpGU8AAiPPa.jpg",
+					"sizes" : 
+					{
+						"large" : 
+						{
+							"h" : 595,
+							"resize" : "fit",
+							"w" : 960
+						},
+						"medium" : 
+						{
+							"h" : 371,
+							"resize" : "fit",
+							"w" : 600
+						},
+						"small" : 
+						{
+							"h" : 210,
+							"resize" : "fit",
+							"w" : 340
+						},
+						"thumb" : 
+						{
+							"h" : 150,
+							"resize" : "crop",
+							"w" : 150
+						}
+					},
+					"type" : "photo",
+					"url" : "http://t.co/44G6L4OYKJ"
+				}
+			],
+			"symbols" : [],
+			"urls" : [],
+			"user_mentions" : []
+		},
+		"extended_entities" : 
+		{
+			"media" : 
+			[
+				
+				{
+					"display_url" : "pic.twitter.com/44G6L4OYKJ",
+					"expanded_url" : "http://twitter.com/stariysj051702/status/654551575545819136/photo/1",
+					"id" : 654551566653911000,
+					"id_str" : "654551566653911040",
+					"indices" : [ 105, 127 ],
+					"media_url" : "http://pbs.twimg.com/media/CRVvLpGU8AAiPPa.jpg",
+					"media_url_https" : "https://pbs.twimg.com/media/CRVvLpGU8AAiPPa.jpg",
+					"sizes" : 
+					{
+						"large" : 
+						{
+							"h" : 595,
+							"resize" : "fit",
+							"w" : 960
+						},
+						"medium" : 
+						{
+							"h" : 371,
+							"resize" : "fit",
+							"w" : 600
+						},
+						"small" : 
+						{
+							"h" : 210,
+							"resize" : "fit",
+							"w" : 340
+						},
+						"thumb" : 
+						{
+							"h" : 150,
+							"resize" : "crop",
+							"w" : 150
+						}
+					},
+					"type" : "photo",
+					"url" : "http://t.co/44G6L4OYKJ"
+				}
+			]
+		},
+		"favorite_count" : 1,
+		"favorited" : false,
+		"filter_level" : "low",
+		"geo" : null,
+		"id" : 654551575545819100,
+		"id_str" : "654551575545819136",
+		"in_reply_to_screen_name" : null,
+		"in_reply_to_status_id" : null,
+		"in_reply_to_status_id_str" : null,
+		"in_reply_to_user_id" : null,
+		"in_reply_to_user_id_str" : null,
+		"is_quote_status" : false,
+		"lang" : "ko",
+		"place" : null,
+		"possibly_sensitive" : false,
+		"retweet_count" : 1,
+		"retweeted" : false,
+		"source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"text" : "Peep po Peep po 구급차를 불러줘\n숨도 제대로 못 쉬겠어\nPeep po Peep po 누가 내 말 좀 들어줘\n이대로 가다 정말 죽겠어\n\n#nowplaying 심장어택 - 비투비 http://t.co/44G6L4OYKJ",
+		"truncated" : false,
+		"user" : 
+		{
+			"contributors_enabled" : false,
+			"created_at" : "Thu Jul 16 20:29:05 +0000 2015",
+			"default_profile" : true,
+			"default_profile_image" : false,
+			"description" : "먹는것에 예민한 잡식곰 / 소심한 전형적인 트리플 A형 / 콘서트 기획 공부로 일본 유학 준비 중 / 일본 쟈니스 그룹 V6 이노하라 요시히코 담당♥/ BTOB 서은광 일개 누나팬♥",
+			"favourites_count" : 25,
+			"follow_request_sent" : null,
+			"followers_count" : 332,
+			"following" : null,
+			"friends_count" : 139,
+			"geo_enabled" : true,
+			"id" : 3281798022,
+			"id_str" : "3281798022",
+			"is_translator" : false,
+			"lang" : "ko",
+			"listed_count" : 0,
+			"location" : null,
+			"name" : "HAMTO☆",
+			"notifications" : null,
+			"profile_background_color" : "C0DEED",
+			"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile" : false,
+			"profile_banner_url" : "https://pbs.twimg.com/profile_banners/3281798022/1441629475",
+			"profile_image_url" : "http://pbs.twimg.com/profile_images/653943546794237954/GpsaDWpP_normal.jpg",
+			"profile_image_url_https" : "https://pbs.twimg.com/profile_images/653943546794237954/GpsaDWpP_normal.jpg",
+			"profile_link_color" : "0084B4",
+			"profile_sidebar_border_color" : "C0DEED",
+			"profile_sidebar_fill_color" : "DDEEF6",
+			"profile_text_color" : "333333",
+			"profile_use_background_image" : true,
+			"protected" : false,
+			"screen_name" : "stariysj051702",
+			"statuses_count" : 3680,
+			"time_zone" : null,
+			"url" : null,
+			"utc_offset" : null,
+			"verified" : false
+		}
+	},
+	"source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+	"text" : "RT @stariysj051702: Peep po Peep po 구급차를 불러줘\n숨도 제대로 못 쉬겠어\nPeep po Peep po 누가 내 말 좀 들어줘\n이대로 가다 정말 죽겠어\n\n#nowplaying 심장어택 - 비투비 http://t.co/44…",
+	"timestamp_ms" : "1444892642002",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Thu May 16 23:51:54 +0000 2013",
+		"default_profile" : true,
+		"default_profile_image" : false,
+		"description" : null,
+		"favourites_count" : 27,
+		"follow_request_sent" : null,
+		"followers_count" : 6,
+		"following" : null,
+		"friends_count" : 84,
+		"geo_enabled" : false,
+		"id" : 1434278834,
+		"id_str" : "1434278834",
+		"is_translator" : false,
+		"lang" : "ko",
+		"listed_count" : 0,
+		"location" : null,
+		"name" : "이챂솦",
+		"notifications" : null,
+		"profile_background_color" : "C0DEED",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile" : false,
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/651688483174518786/BAF8N7Cz_normal.jpg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/651688483174518786/BAF8N7Cz_normal.jpg",
+		"profile_link_color" : "0084B4",
+		"profile_sidebar_border_color" : "C0DEED",
+		"profile_sidebar_fill_color" : "DDEEF6",
+		"profile_text_color" : "333333",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "HeeyoungNa",
+		"statuses_count" : 344,
+		"time_zone" : "Irkutsk",
+		"url" : null,
+		"utc_offset" : 28800,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 7.12101 / parse end
+[notice ] ElapsedTime: 7.25374 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Thu Oct 15 07:04:02 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 0, 11 ],
+				"text" : "NowPlaying"
+			}
+		],
+		"symbols" : [],
+		"urls" : 
+		[
+			
+			{
+				"display_url" : "pvradio.com",
+				"expanded_url" : "http://www.pvradio.com",
+				"indices" : [ 77, 99 ],
+				"url" : "http://t.co/rQksa1FQbL"
+			}
+		],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 654553299929030700,
+	"id_str" : "654553299929030656",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "en",
+	"place" : null,
+	"possibly_sensitive" : false,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://www.pvradio.com\" rel=\"nofollow\">PVR Now Playing App</a>",
+	"text" : "#NowPlaying Jake and the Half Conched Band - Suzy Talks to Crabs :: Tune In: http://t.co/rQksa1FQbL",
+	"timestamp_ms" : "1444892642372",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Tue May 19 12:11:06 +0000 2009",
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"description" : null,
+		"favourites_count" : 2,
+		"follow_request_sent" : null,
+		"followers_count" : 9,
+		"following" : null,
+		"friends_count" : 2,
+		"geo_enabled" : false,
+		"id" : 41102633,
+		"id_str" : "41102633",
+		"is_translator" : false,
+		"lang" : "en",
+		"listed_count" : 0,
+		"location" : null,
+		"name" : "Permanent Vacation ",
+		"notifications" : null,
+		"profile_background_color" : "C0DEED",
+		"profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/524443221/002__e68us.jpg",
+		"profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/524443221/002__e68us.jpg",
+		"profile_background_tile" : true,
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/41102633/1419434382",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/547773419412930561/TLkg7P_Q_normal.png",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/547773419412930561/TLkg7P_Q_normal.png",
+		"profile_link_color" : "94D487",
+		"profile_sidebar_border_color" : "C0DEED",
+		"profile_sidebar_fill_color" : "DDEEF6",
+		"profile_text_color" : "333333",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "pvradio",
+		"statuses_count" : 106161,
+		"time_zone" : "Eastern Time (US & Canada)",
+		"url" : "http://www.pvradio.com",
+		"utc_offset" : -14400,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 7.25471 / parse end
+[notice ] ElapsedTime: 8.01597 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Thu Oct 15 07:04:03 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 50, 61 ],
+				"text" : "NowPlaying"
+			}
+		],
+		"symbols" : [],
+		"urls" : 
+		[
+			
+			{
+				"display_url" : "j.mp/1ywkNsm",
+				"expanded_url" : "http://j.mp/1ywkNsm",
+				"indices" : [ 27, 49 ],
+				"url" : "http://t.co/qc7YbEx1IP"
+			}
+		],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 654553303305617400,
+	"id_str" : "654553303305617408",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "en",
+	"place" : null,
+	"possibly_sensitive" : false,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://jaysonturner.com\" rel=\"nofollow\">NowOnAmazing</a>",
+	"text" : "♪ Team Me - Kick and Curse http://t.co/qc7YbEx1IP #NowPlaying",
+	"timestamp_ms" : "1444892643177",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Thu Aug 16 18:21:32 +0000 2012",
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"description" : "Letting you know what's playing right now on @AmazingRadio. (Unofficial). Created by @musicbykits / @jaysonturner",
+		"favourites_count" : 0,
+		"follow_request_sent" : null,
+		"followers_count" : 1279,
+		"following" : null,
+		"friends_count" : 568,
+		"geo_enabled" : false,
+		"id" : 762061796,
+		"id_str" : "762061796",
+		"is_translator" : false,
+		"lang" : "en",
+		"listed_count" : 37,
+		"location" : "Newcastle",
+		"name" : "NowOnAmazingRadio",
+		"notifications" : null,
+		"profile_background_color" : "FFFFFF",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme18/bg.gif",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme18/bg.gif",
+		"profile_background_tile" : false,
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/2513792399/1hfc7e6wtftynmm8cu9s_normal.jpeg",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/2513792399/1hfc7e6wtftynmm8cu9s_normal.jpeg",
+		"profile_link_color" : "76A31A",
+		"profile_sidebar_border_color" : "EEEEEE",
+		"profile_sidebar_fill_color" : "F6F6F6",
+		"profile_text_color" : "333333",
+		"profile_use_background_image" : false,
+		"protected" : false,
+		"screen_name" : "NowOnAmazing",
+		"statuses_count" : 344670,
+		"time_zone" : "London",
+		"url" : "http://amazingradio.co.uk",
+		"utc_offset" : 3600,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 8.0168 / parse end
+[notice ] ElapsedTime: 8.53778 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Thu Oct 15 07:04:03 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 10, 21 ],
+				"text" : "nowplaying"
+			},
+			
+			{
+				"indices" : [ 22, 29 ],
+				"text" : "883jia"
+			}
+		],
+		"symbols" : [],
+		"urls" : [],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 654553306040135700,
+	"id_str" : "654553306040135680",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "zh",
+	"place" : null,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://www.imyun.net\" rel=\"nofollow\">SG Radio Now Playing Tweet</a>",
+	"text" : "雪候鸟 - 熊天平 #nowplaying #883jia",
+	"timestamp_ms" : "1444892643829",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Fri Sep 14 12:50:20 +0000 2012",
+		"default_profile" : false,
+		"default_profile_image" : true,
+		"description" : "What's currently playing on 883Jia FM? @883jiafm #nowplaying #883jia",
+		"favourites_count" : 0,
+		"follow_request_sent" : null,
+		"followers_count" : 393,
+		"following" : null,
+		"friends_count" : 2,
+		"geo_enabled" : false,
+		"id" : 823241802,
+		"id_str" : "823241802",
+		"is_translator" : false,
+		"lang" : "en",
+		"listed_count" : 23,
+		"location" : null,
+		"name" : "883JiaFM Now Playing",
+		"notifications" : null,
+		"profile_background_color" : "C6E2EE",
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme2/bg.gif",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme2/bg.gif",
+		"profile_background_tile" : false,
+		"profile_image_url" : "http://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png",
+		"profile_image_url_https" : "https://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png",
+		"profile_link_color" : "1F98C7",
+		"profile_sidebar_border_color" : "C6E2EE",
+		"profile_sidebar_fill_color" : "DAECF4",
+		"profile_text_color" : "663B12",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "883Jialive",
+		"statuses_count" : 300595,
+		"time_zone" : "Beijing",
+		"url" : null,
+		"utc_offset" : 28800,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 8.5387 / parse end
+[notice ] ElapsedTime: 8.83053 / 
+{
+	"contributors" : null,
+	"coordinates" : null,
+	"created_at" : "Thu Oct 15 07:04:04 +0000 2015",
+	"entities" : 
+	{
+		"hashtags" : 
+		[
+			
+			{
+				"indices" : [ 0, 11 ],
+				"text" : "NowPlaying"
+			}
+		],
+		"symbols" : [],
+		"urls" : 
+		[
+			
+			{
+				"display_url" : "bit.ly/dvr-app",
+				"expanded_url" : "http://bit.ly/dvr-app",
+				"indices" : [ 35, 57 ],
+				"url" : "http://t.co/kItp9lRMcG"
+			}
+		],
+		"user_mentions" : []
+	},
+	"favorite_count" : 0,
+	"favorited" : false,
+	"filter_level" : "low",
+	"geo" : null,
+	"id" : 654553307185156100,
+	"id_str" : "654553307185156096",
+	"in_reply_to_screen_name" : null,
+	"in_reply_to_status_id" : null,
+	"in_reply_to_status_id_str" : null,
+	"in_reply_to_user_id" : null,
+	"in_reply_to_user_id_str" : null,
+	"is_quote_status" : false,
+	"lang" : "en",
+	"place" : null,
+	"possibly_sensitive" : false,
+	"retweet_count" : 0,
+	"retweeted" : false,
+	"source" : "<a href=\"http://radioactive.sg\" rel=\"nofollow\">RADIOactive Bot</a>",
+	"text" : "#NowPlaying Eric Clapton - Layla 2 http://t.co/kItp9lRMcG",
+	"timestamp_ms" : "1444892644102",
+	"truncated" : false,
+	"user" : 
+	{
+		"contributors_enabled" : false,
+		"created_at" : "Thu Sep 08 04:05:39 +0000 2011",
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"description" : "Asia's Original Rock Station available on Astro #860 and your iPhone\r\nhttp://itunes.apple.com/my/app/digital-visual-radio/id359895327?mt=8",
+		"favourites_count" : 0,
+		"follow_request_sent" : null,
+		"followers_count" : 689,
+		"following" : null,
+		"friends_count" : 139,
+		"geo_enabled" : true,
+		"id" : 369902855,
+		"id_str" : "369902855",
+		"is_translator" : false,
+		"lang" : "en",
+		"listed_count" : 42,
+		"location" : "Kuala Lumpur",
+		"name" : "Classic Rock",
+		"notifications" : null,
+		"profile_background_color" : "131516",
+		"profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/326946043/guitar-wallpaper-1024x768-951605.jpg",
+		"profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/326946043/guitar-wallpaper-1024x768-951605.jpg",
+		"profile_background_tile" : false,
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/1533922956/rock_normal.png",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/1533922956/rock_normal.png",
+		"profile_link_color" : "009999",
+		"profile_sidebar_border_color" : "EEEEEE",
+		"profile_sidebar_fill_color" : "EFEFEF",
+		"profile_text_color" : "333333",
+		"profile_use_background_image" : true,
+		"protected" : false,
+		"screen_name" : "ClassicRockAsia",
+		"statuses_count" : 399698,
+		"time_zone" : "Kuala Lumpur",
+		"url" : "http://www.dvrplayer.com",
+		"utc_offset" : 28800,
+		"verified" : false
+	}
+}
+
+[notice ] ElapsedTime: 8.83149 / parse end

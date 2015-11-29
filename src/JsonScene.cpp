@@ -15,6 +15,7 @@ void JsonScene::update(){
     JsonReceiver::recieve();
 }
 void JsonScene::draw(){
+//    ofCircle(100,100,ofRandom(255));
     float x,y;
     float offset;
     for(int i = 0; i < JsonReceiver::usersInfo.size(); i++){

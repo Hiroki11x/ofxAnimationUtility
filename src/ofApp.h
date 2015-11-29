@@ -12,7 +12,7 @@
 #include "FadeMotionGraphics.h"
 #include "RectSwiper.h"
 #include "StrechyRectSwiper.h"
-#include "ofxSuperLogUtil.h"
+//#include "ofxSuperLogUtil.h"
 #include "GraphLog.h"
 #include "PostGlitch.h"
 #include "JsonScene.h"
@@ -37,7 +37,7 @@ class ofApp : public ofBaseApp{
 		void dragEvent(ofDragInfo dragInfo);
 		void gotMessage(ofMessage msg);
     
-    ofxSuperLogUtil logutil;
+//    ofxSuperLogUtil logutil;
     GraphLog graphLog;
     PostGlitch postglitch;
     ofFbo mFbo;

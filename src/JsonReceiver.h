@@ -12,7 +12,6 @@
 #include "ofxJSON.h"
 #include "ofMain.h"
 #include "ofxSuperLogUtil.h"
-#include "ofxThreadedImageLoader.h"
 
 class JsonReceiver {
     
@@ -34,7 +33,7 @@ public:
         ofImage icon;
     };
     
-    ofxThreadedImageLoader Image_thread = *new ofxThreadedImageLoader;
+
     
     static string cachedTweetId;
     

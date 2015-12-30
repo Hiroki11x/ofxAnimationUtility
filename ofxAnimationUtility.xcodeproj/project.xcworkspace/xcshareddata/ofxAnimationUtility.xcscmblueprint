@@ -1,0 +1,65 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A8D3CFED5208BD26E280BC9FB210A0D16501DA4D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B090D3E72F2C83A91517EC3C9E4CDCB5FAFED065" : 0,
+    "A8D3CFED5208BD26E280BC9FB210A0D16501DA4D" : 0,
+    "210A84CB64DBE001319448A793DFC671846EB46E" : 0,
+    "5DB7C332A3A89035E93556A2A38BF414005BA671" : 0,
+    "6E85F585BA7940AD33F8E74F0EE05D55511194B6" : 0,
+    "E5D2BF07F1BD4888430F12ADB292E9A68C0BFC76" : 0,
+    "6B5D1DE462D521A98972DF70F1147E20268C546A" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DB19FAFB-EFA2-4D75-A1C3-DD9939E50463",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B090D3E72F2C83A91517EC3C9E4CDCB5FAFED065" : "addons\/ofxSuperLog",
+    "A8D3CFED5208BD26E280BC9FB210A0D16501DA4D" : "ofxAnimationUtility",
+    "210A84CB64DBE001319448A793DFC671846EB46E" : "addons\/ofxPostGlitch",
+    "5DB7C332A3A89035E93556A2A38BF414005BA671" : "addons\/ofxJSON",
+    "6E85F585BA7940AD33F8E74F0EE05D55511194B6" : "addons\/ofxTrueTypeFontUC",
+    "E5D2BF07F1BD4888430F12ADB292E9A68C0BFC76" : "..\/..\/addons\/ofxTurboJpeg",
+    "6B5D1DE462D521A98972DF70F1147E20268C546A" : "addons\/ofxTween"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ofxAnimationUtility",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ofxAnimationUtility.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/maxillacult\/ofxPostGlitch.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "210A84CB64DBE001319448A793DFC671846EB46E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jefftimesten\/ofxJSON.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5DB7C332A3A89035E93556A2A38BF414005BA671"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/arturoc\/ofxTween.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6B5D1DE462D521A98972DF70F1147E20268C546A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/hironishihara\/ofxTrueTypeFontUC.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6E85F585BA7940AD33F8E74F0EE05D55511194B6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Hiroki11x\/openFrameworks_AnimationUtility.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A8D3CFED5208BD26E280BC9FB210A0D16501DA4D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:mazbox\/ofxSuperLog.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B090D3E72F2C83A91517EC3C9E4CDCB5FAFED065"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:armadillu\/ofxTurboJpeg.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E5D2BF07F1BD4888430F12ADB292E9A68C0BFC76"
+    }
+  ]
+}
